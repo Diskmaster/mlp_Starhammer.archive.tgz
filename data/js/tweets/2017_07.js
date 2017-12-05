@@ -1,34 +1,6 @@
-Grailbird.data.tweets_2016_12 = 
+Grailbird.data.tweets_2017_07 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wonderbolts",
-      "screen_name" : "MLP_Wonderbolts",
-      "indices" : [ 31, 47 ],
-      "id_str" : "274324281",
-      "id" : 274324281
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "815364167670657024",
-  "text" : "A sigh and he transmits to the @mlp_Wonderbolts. \"As you were.\"",
-  "id" : 815364167670657024,
-  "created_at" : "2017-01-01 01:09:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -36,60 +8,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "815363498293297152",
-  "text" : "He face palms. \"You don't have to kshhht over the radio, you know, it performs that sound for you.\"",
-  "id" : 815363498293297152,
-  "created_at" : "2017-01-01 01:06:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wonderbolts",
-      "screen_name" : "MLP_Wonderbolts",
-      "indices" : [ 12, 28 ],
-      "id_str" : "274324281",
-      "id" : 274324281
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "815363039084118016",
-  "text" : "\"Redwing to @mlp_Wonderbolts detail, you are looking good at current pattern.\"",
-  "id" : 815363039084118016,
-  "created_at" : "2017-01-01 01:04:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "815362720329515009",
-  "text" : "He tunes his radio headset and looks around from one of the Canterlot castle towers.",
-  "id" : 815362720329515009,
-  "created_at" : "2017-01-01 01:03:15 +0000",
+  "id_str" : "892092046525308928",
+  "text" : "\"I may have to make a personal visit to the supplier and see if a customized book can be made.\"",
+  "id" : 892092046525308928,
+  "created_at" : "2017-07-31 18:38:12 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -108,10 +30,54 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "815205450010476544",
-  "text" : "After a long train ride, Starhammer has arrived in Canterlot. Today's mission? Who cares!",
-  "id" : 815205450010476544,
-  "created_at" : "2016-12-31 14:38:19 +0000",
+  "id_str" : "892089749103677440",
+  "text" : "\"None of these will fit my book guard, so that's scrap. Thankfully, that's recreate able.\"",
+  "id" : 892089749103677440,
+  "created_at" : "2017-07-31 18:29:05 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "892087949860450305",
+  "text" : "\"Wow, spell books are expensive to put together. Just the thick cover of a standard one is two hundred bits.\"",
+  "id" : 892087949860450305,
+  "created_at" : "2017-07-31 18:21:56 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "892084390657970177",
+  "text" : "Today, he rests at a Ponyville cafe, looking over a catalog that was sent overnight.",
+  "id" : 892084390657970177,
+  "created_at" : "2017-07-31 18:07:47 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -130,10 +96,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "815085870437044224",
-  "text" : "He takes off for the train station, and the Canterlot express.",
-  "id" : 815085870437044224,
-  "created_at" : "2016-12-31 06:43:09 +0000",
+  "id_str" : "891883380710813696",
+  "text" : "\"So, ... the heck was that? A bouncy cloud?\"",
+  "id" : 891883380710813696,
+  "created_at" : "2017-07-31 04:49:03 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -152,10 +118,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "815076233058852864",
-  "text" : "A long yawn and he leaves his office. The last few days have been rather grueling for him.",
-  "id" : 815076233058852864,
-  "created_at" : "2016-12-31 06:04:52 +0000",
+  "id_str" : "891876026720153601",
+  "text" : "He pants and looks frazzled as he clings to a roof, the cloud he created, dissipating by itself.",
+  "id" : 891876026720153601,
+  "created_at" : "2017-07-31 04:19:49 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -174,10 +140,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "814877550812024832",
-  "text" : "With that bit of paperwork in the queue, he goes to work on his own lesser pile, sighing.",
-  "id" : 814877550812024832,
-  "created_at" : "2016-12-30 16:55:22 +0000",
+  "id_str" : "891873212337983489",
+  "text" : "He seems to briefly jump on top of it, and ... it bounces him back into the air.",
+  "id" : 891873212337983489,
+  "created_at" : "2017-07-31 04:08:38 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -196,10 +162,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "814876306076823552",
-  "text" : "In addition to the letter's contents, there's a bag of caramel candies inside as a sweetener.",
-  "id" : 814876306076823552,
-  "created_at" : "2016-12-30 16:50:25 +0000",
+  "id_str" : "891871540219957253",
+  "text" : "He pants and then looks around on top of the cloud. \"Then what exactly did I create? This seems like a cloud.\"",
+  "id" : 891871540219957253,
+  "created_at" : "2017-07-31 04:02:00 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -218,10 +184,296 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "814875386840485888",
-  "text" : "\"That has to be the strangest request that I've ever done. Only once have I asked for this before.\"",
-  "id" : 814875386840485888,
-  "created_at" : "2016-12-30 16:46:46 +0000",
+  "id_str" : "891870007277256704",
+  "text" : "He jumps to a nearby castle wall and takes off from it, grabbing the edge of the cloud bank and climbing on top of it.",
+  "id" : 891870007277256704,
+  "created_at" : "2017-07-31 03:55:54 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891867173081292800",
+  "text" : "It seems to have a rare purple tint to it, and the cloud seems extra thick in appearance.",
+  "id" : 891867173081292800,
+  "created_at" : "2017-07-31 03:44:38 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891866794696343552",
+  "text" : "The feather seems to split apart, and decompose into base aether for a moment before ...\nPOOF.\nA two inch square cloud with a tint appears.",
+  "id" : 891866794696343552,
+  "created_at" : "2017-07-31 03:43:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891866168310583296",
+  "text" : "A brief gust of wind from his wings sends it further and further upwards, and then he sits down, waiting as the feather falls.",
+  "id" : 891866168310583296,
+  "created_at" : "2017-07-31 03:40:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891865916056756227",
+  "text" : "He seems to then pull one of his own feathers out of his own wing, briefly wincing, and then throwing them up into the air above.",
+  "id" : 891865916056756227,
+  "created_at" : "2017-07-31 03:39:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891865595700006913",
+  "text" : "He looks up toward the skyline above him as he exits, cautiously in thought.\n\n\"If I read it right.\"",
+  "id" : 891865595700006913,
+  "created_at" : "2017-07-31 03:38:22 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891865210503528448",
+  "text" : "He slowly opens his eyes and walks outside the tree castle at a fair pace with the dusty book.",
+  "id" : 891865210503528448,
+  "created_at" : "2017-07-31 03:36:50 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891860776952238082",
+  "text" : "He seems to rest and close the crude looking book, bringing his mental focus outward.",
+  "id" : 891860776952238082,
+  "created_at" : "2017-07-31 03:19:13 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891859003730513921",
+  "text" : "\"Let's see what else is in this that's usable at my skill level.\"",
+  "id" : 891859003730513921,
+  "created_at" : "2017-07-31 03:12:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891857230580109316",
+  "text" : "He flips a page or two. \"Oh hey, I've seen that snippet. Instant fog generator.\"",
+  "id" : 891857230580109316,
+  "created_at" : "2017-07-31 03:05:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891857098618941440",
+  "text" : "\"Chapter 3: Intermediate Spellcasting for Pegasi.\"",
+  "id" : 891857098618941440,
+  "created_at" : "2017-07-31 03:04:36 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891855914503999489",
+  "text" : "He quietly takes a long drink from the tea glass.",
+  "id" : 891855914503999489,
+  "created_at" : "2017-07-31 02:59:54 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891846061488295936",
+  "text" : "He rests in the commons, yet another glass of tea near his usual chair, with a book in front of him.",
+  "id" : 891846061488295936,
+  "created_at" : "2017-07-31 02:20:45 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891822719632891905",
+  "text" : "\"I mean, I've never put together an actual spell book before, after all.\"",
+  "id" : 891822719632891905,
+  "created_at" : "2017-07-31 00:48:00 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -235,21 +487,1504 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Princess Luna",
-      "screen_name" : "mlp_Luna",
-      "indices" : [ 58, 67 ],
-      "id_str" : "264285652",
-      "id" : 264285652
+      "name" : "Twilight Sparkle",
+      "screen_name" : "mlp_Twilight",
+      "indices" : [ 50, 63 ],
+      "id_str" : "258925492",
+      "id" : 258925492
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "814875146586505216",
-  "text" : "After some long deliberation, a letter is sent off to Pr. @mlp_Luna. Strangely, he's sealed the contents in a red and purple envelope.",
-  "id" : 814875146586505216,
-  "created_at" : "2016-12-30 16:45:49 +0000",
+  "id_str" : "891820213330726912",
+  "text" : "\"Guess all I can do at this point is wait, unless @mlp_Twilight has a catalog around somewhere that I can look through for this project.\"",
+  "id" : 891820213330726912,
+  "created_at" : "2017-07-31 00:38:02 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891813293253328896",
+  "text" : "He then moves to start writing a letter to the main book supplier tied to the Ponyville library, inquiring about spellbook materials.",
+  "id" : 891813293253328896,
+  "created_at" : "2017-07-31 00:10:32 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891810911132037121",
+  "text" : "\"Maybe, but don't hold your breath.\", he responds.",
+  "id" : 891810911132037121,
+  "created_at" : "2017-07-31 00:01:04 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891810251263102977",
+  "text" : "\"Nah, I don't get that many visitors, actually, so it's a welcome change.\"",
+  "id" : 891810251263102977,
+  "created_at" : "2017-07-30 23:58:27 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891808737559818240",
+  "text" : "\"Well, I think this audience is long past over, if one can even call it that. I'm sorry I can't directly be of much help here. Red tape.\"",
+  "id" : 891808737559818240,
+  "created_at" : "2017-07-30 23:52:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891806415211425792",
+  "text" : "\"It's more of a policy of mine. I don't get involved in other kingdom's politics, no matter how crazy or benign they are.\"",
+  "id" : 891806415211425792,
+  "created_at" : "2017-07-30 23:43:13 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891804206977486850",
+  "text" : "\"Hm.\"",
+  "id" : 891804206977486850,
+  "created_at" : "2017-07-30 23:34:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891802719782133762",
+  "text" : "\"I can relate. Family is weird like that, though.\"",
+  "id" : 891802719782133762,
+  "created_at" : "2017-07-30 23:28:31 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891801174684389378",
+  "text" : "\"... banishment? Were hot coals involved?\"",
+  "id" : 891801174684389378,
+  "created_at" : "2017-07-30 23:22:23 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891798003052314625",
+  "text" : "\"We do what we must to survive.\"",
+  "id" : 891798003052314625,
+  "created_at" : "2017-07-30 23:09:47 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891795215312453632",
+  "text" : "\"How so?\", he wonders.",
+  "id" : 891795215312453632,
+  "created_at" : "2017-07-30 22:58:42 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891789291181019137",
+  "text" : "\"I regret to inform you, then, that this sort of agreement is above my pay grade, so to speak. Have a chat with one of our local princesses\"",
+  "id" : 891789291181019137,
+  "created_at" : "2017-07-30 22:35:10 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891786098212524032",
+  "text" : "\"As far as defending our town, I dare say that we are over budget as it is. So, I personally can't be of assistance, here.\"",
+  "id" : 891786098212524032,
+  "created_at" : "2017-07-30 22:22:29 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891785658699829255",
+  "text" : "\"Well, let me put it this way, as far as helping rebuild, I don't have the authority to tell you what to do. I'm just the castle QM.\"",
+  "id" : 891785658699829255,
+  "created_at" : "2017-07-30 22:20:44 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891783543554289665",
+  "text" : "\"Given the damage, two or three days, tops.\"",
+  "id" : 891783543554289665,
+  "created_at" : "2017-07-30 22:12:19 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891782029322465281",
+  "text" : "\"That said, that's up to them if they need your help or not. Defense is another issue.\"",
+  "id" : 891782029322465281,
+  "created_at" : "2017-07-30 22:06:18 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891781811193434112",
+  "text" : "\"The town repairs, are thankfully out of my hooves. Several contractors that do repair work will show up in a few days.\"",
+  "id" : 891781811193434112,
+  "created_at" : "2017-07-30 22:05:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891779431018229761",
+  "text" : "\"Hmm.\", he seems to mull over the idea for a bit.",
+  "id" : 891779431018229761,
+  "created_at" : "2017-07-30 21:55:59 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891776385437630464",
+  "text" : "\"In what capacity do you think she can help?\", he wonders while leaning forward on the desk in a Gendo pose.",
+  "id" : 891776385437630464,
+  "created_at" : "2017-07-30 21:43:53 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891775025124126722",
+  "text" : "Twibot's reply lands on his desk while he gives Magnet's friend a strange look of wonder.\n\n\"That's one heck of a name.\"",
+  "id" : 891775025124126722,
+  "created_at" : "2017-07-30 21:38:29 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Magnet Bolt",
+      "screen_name" : "mlp_Magnet",
+      "indices" : [ 37, 48 ],
+      "id_str" : "2286902688",
+      "id" : 2286902688
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891771000664334340",
+  "text" : "He replies with a \"Please enter.\" to @mlp_Magnet, and then shoves a few stacks of paperwork to the outbox.",
+  "id" : 891771000664334340,
+  "created_at" : "2017-07-30 21:22:29 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Magnet Bolt",
+      "screen_name" : "mlp_Magnet",
+      "indices" : [ 19, 30 ],
+      "id_str" : "2286902688",
+      "id" : 2286902688
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891769784093876226",
+  "text" : "Shortly after, \"To @mlp_Magnet Bolt, your audience is granted. Please visit the office when time permits, today if possible.\", is sent.",
+  "id" : 891769784093876226,
+  "created_at" : "2017-07-30 21:17:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twilight Sparkle",
+      "screen_name" : "mlp_Twilight",
+      "indices" : [ 4, 17 ],
+      "id_str" : "258925492",
+      "id" : 258925492
+    }, {
+      "name" : "Twibot Sparker",
+      "screen_name" : "mlp_Twibot",
+      "indices" : [ 21, 32 ],
+      "id_str" : "398109064",
+      "id" : 398109064
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891769615654821889",
+  "text" : "\"To @mlp_Twilight or @mlp_Twibot, where does one obtain a suitable book for a spellbook?\", sending it off to the mailroom via bird.",
+  "id" : 891769615654821889,
+  "created_at" : "2017-07-30 21:16:59 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891769454778089476",
+  "text" : "He then heads inside the office, reaching for his paperwork pad, writing out some notes.",
+  "id" : 891769454778089476,
+  "created_at" : "2017-07-30 21:16:20 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891769303598600192",
+  "text" : "After some time passes, he heads to his office, noticing the note left on the door.\n\"Wonder what she wants.\"",
+  "id" : 891769303598600192,
+  "created_at" : "2017-07-30 21:15:44 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Magnet Bolt",
+      "screen_name" : "mlp_Magnet",
+      "indices" : [ 25, 36 ],
+      "id_str" : "2286902688",
+      "id" : 2286902688
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891759766707605509",
+  "text" : "A roaming guard notifies @mlp_Magnet that he's not in his office today, and was last seen in the castle's library, doing research.",
+  "id" : 891759766707605509,
+  "created_at" : "2017-07-30 20:37:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891754423936004096",
+  "text" : "The office is unoccupied, as he's been in the commons of the castle, a sign notes this on the door.",
+  "id" : 891754423936004096,
+  "created_at" : "2017-07-30 20:16:37 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891694075145052160",
+  "text" : "\"That would hasten reconstruction and save us some bits in the process, and there's only a few ways to do it.\"",
+  "id" : 891694075145052160,
+  "created_at" : "2017-07-30 16:16:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891693691643064329",
+  "text" : "\"The problem is that I'd need to put out an obscene amount of metal rather quickly and with good enough quality to withstand a dragon.",
+  "id" : 891693691643064329,
+  "created_at" : "2017-07-30 16:15:17 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Cloud Skimmer",
+      "screen_name" : "mlp_cloudskim",
+      "indices" : [ 105, 119 ],
+      "id_str" : "2896347374",
+      "id" : 2896347374
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891692863658106880",
+  "text" : "He starts to briefly laugh, and then quiets himself, while getting up from his chair.\n\n\"This must be how @mlp_cloudskim feels like.\"",
+  "id" : 891692863658106880,
+  "created_at" : "2017-07-30 16:12:00 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891692301394817024",
+  "text" : "A thought crosses his mind, and he starts to smile.",
+  "id" : 891692301394817024,
+  "created_at" : "2017-07-30 16:09:46 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891692219673059328",
+  "text" : "\"I wish there was more I could do, but a blacksmith like me can only work so ... fast.\"",
+  "id" : 891692219673059328,
+  "created_at" : "2017-07-30 16:09:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891691542724976641",
+  "text" : "\"At least, the displaced are fairing well in the guest quarters in the meantime.\"",
+  "id" : 891691542724976641,
+  "created_at" : "2017-07-30 16:06:45 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891691239883632642",
+  "text" : "\"From the sheer damage alone, the town is a structural mess, and even we in our fancy shmancy castle need repairs.\"",
+  "id" : 891691239883632642,
+  "created_at" : "2017-07-30 16:05:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891689296482226176",
+  "text" : "\"If nothing else, the construction agencies are going to make a lot of bits, this time around.\"",
+  "id" : 891689296482226176,
+  "created_at" : "2017-07-30 15:57:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891688891736104961",
+  "text" : "A lot of damage reports and documentation rest on his outbox pile in his office.",
+  "id" : 891688891736104961,
+  "created_at" : "2017-07-30 15:56:13 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891688016351305729",
+  "text" : "The stallion rests in the castle commons, cooling off.",
+  "id" : 891688016351305729,
+  "created_at" : "2017-07-30 15:52:44 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891475847022071809",
+  "text" : "He starts to swirl some strong looking tea and heads out toward the castle commons with a light yawn.",
+  "id" : 891475847022071809,
+  "created_at" : "2017-07-30 01:49:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891474104552968193",
+  "text" : "He yawns and rests in the kitchen.",
+  "id" : 891474104552968193,
+  "created_at" : "2017-07-30 01:42:43 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891411245533941760",
+  "text" : "He merely nods to the captain and continues filling out various papers as radio reports start to flood in.",
+  "id" : 891411245533941760,
+  "created_at" : "2017-07-29 21:32:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "891409592701386752",
+  "geo" : { },
+  "id_str" : "891409829495017472",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul \"Aye. If you see either of our local princesses, send them my way, I have a thing I need to ask them about. If they ask, it's about a book.\"",
+  "id" : 891409829495017472,
+  "in_reply_to_status_id" : 891409592701386752,
+  "created_at" : "2017-07-29 21:27:19 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "891408477981208576",
+  "geo" : { },
+  "id_str" : "891409127465005056",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul \"That I couldn't tell you, but I'm sure you'll figure something out. I gotta route paperwork and dispatch where needed, so I'll be here.\"",
+  "id" : 891409127465005056,
+  "in_reply_to_status_id" : 891408477981208576,
+  "created_at" : "2017-07-29 21:24:32 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "891407863758901248",
+  "geo" : { },
+  "id_str" : "891408053655961604",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul \"We just have to move on and rebuild where we can, right?\"",
+  "id" : 891408053655961604,
+  "in_reply_to_status_id" : 891407863758901248,
+  "created_at" : "2017-07-29 21:20:16 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "891405163923210240",
+  "geo" : { },
+  "id_str" : "891405520296439809",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul \"I'd have to agree, here, but what can you really do?\", he then passes the bottle to him.",
+  "id" : 891405520296439809,
+  "in_reply_to_status_id" : 891405163923210240,
+  "created_at" : "2017-07-29 21:10:12 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "891404683876724738",
+  "geo" : { },
+  "id_str" : "891404944896602113",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul \"Supposedly, she was involved at one point. It was a real dogpile situation, if you ask me.\", he sighs and then pulls out a cider bottle.",
+  "id" : 891404944896602113,
+  "in_reply_to_status_id" : 891404683876724738,
+  "created_at" : "2017-07-29 21:07:55 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "891403298254802944",
+  "geo" : { },
+  "id_str" : "891403963488194562",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul \"At least the town isn't totally flattened, so there's that at least.\"",
+  "id" : 891403963488194562,
+  "in_reply_to_status_id" : 891403298254802944,
+  "created_at" : "2017-07-29 21:04:01 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891403056029544453",
+  "text" : "\"That's why there's a noticeable impact on the eastern wall. Insurance is still processing the claim.\"",
+  "id" : 891403056029544453,
+  "created_at" : "2017-07-29 21:00:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891402972722286593",
+  "text" : "\"Twilight tried to defend the town, but proved a bit less of a match for him initially.\"",
+  "id" : 891402972722286593,
+  "created_at" : "2017-07-29 21:00:04 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891402859660668929",
+  "text" : "\"Short version: Red Dragon Rampage. ... over the so called Peace Prize. I didn't see how it ended, but I gather he got what he wanted.\"",
+  "id" : 891402859660668929,
+  "created_at" : "2017-07-29 20:59:37 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891401757196255232",
+  "text" : "He sighs and pulls out the outbox container, plopping it down.\n\n\"The grind never stops. Paperwork time.\"",
+  "id" : 891401757196255232,
+  "created_at" : "2017-07-29 20:55:15 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891401049982062596",
+  "text" : "\"I'll see what I can do. I know a friend in Manehatten that specializes.\"",
+  "id" : 891401049982062596,
+  "created_at" : "2017-07-29 20:52:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Magnet Bolt",
+      "screen_name" : "mlp_Magnet",
+      "indices" : [ 7, 18 ],
+      "id_str" : "2286902688",
+      "id" : 2286902688
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891400390901723136",
+  "text" : "\"Also, @mlp_Magnet Bolt, was it? Send me the bill if you get the fountain working.\"",
+  "id" : 891400390901723136,
+  "created_at" : "2017-07-29 20:49:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "891400023677825025",
+  "geo" : { },
+  "id_str" : "891400178334388228",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul \"Head to my office, then. I'll get you straightened out.\"",
+  "id" : 891400178334388228,
+  "in_reply_to_status_id" : 891400023677825025,
+  "created_at" : "2017-07-29 20:48:58 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891399165506441216",
+  "text" : "He responds on the radio. \"This is Redwing, currently heading to my office. You needed me Brave Soul?\"",
+  "id" : 891399165506441216,
+  "created_at" : "2017-07-29 20:44:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891396551104503808",
+  "text" : "He heads for his office in due time, fully aware of the town issues.",
+  "id" : 891396551104503808,
+  "created_at" : "2017-07-29 20:34:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891390163166822400",
+  "text" : "A moment passes of thought. \"Scholar or Golem, Redwing would like to see either of you in his office.\"",
+  "id" : 891390163166822400,
+  "created_at" : "2017-07-29 20:09:10 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891389710702194689",
+  "text" : "He then stops transmitting and starts to head indoors. \"I think I need some coffee.\"",
+  "id" : 891389710702194689,
+  "created_at" : "2017-07-29 20:07:22 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891389503704883202",
+  "text" : "\"Also, 42nd CO as well. The Ponyville dispatch may need our services later on, when the exact damages are figured out.\"",
+  "id" : 891389503704883202,
+  "created_at" : "2017-07-29 20:06:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891389234606514176",
+  "text" : "\"Pardon, This is Redwing, not Redwing as in I'm talking to myself.\"",
+  "id" : 891389234606514176,
+  "created_at" : "2017-07-29 20:05:29 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891389137256935425",
+  "text" : "A brief fidgeting and he turns on the radio headset.\n\n\"Redwing, would the CO of the 33rd Training Platoon get in touch with me, ASAP.\"",
+  "id" : 891389137256935425,
+  "created_at" : "2017-07-29 20:05:06 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891388490465857536",
+  "text" : "He merely nods to the princess and starts to pack up his newly created book guard in a safe case for now.",
+  "id" : 891388490465857536,
+  "created_at" : "2017-07-29 20:02:31 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891387239137234944",
+  "text" : "\"I just hope it's fixable, like with half the town, from the looks of things. Even the contact network I have, can't get all of it.\"",
+  "id" : 891387239137234944,
+  "created_at" : "2017-07-29 19:57:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891385612229640192",
+  "text" : "\"I've already filed against the insurance company, waiting on the response papers before repairs can begin, in case you wonder.\"",
+  "id" : 891385612229640192,
+  "created_at" : "2017-07-29 19:51:05 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -265,7 +2000,7 @@ Grailbird.data.tweets_2016_12 =
     "user_mentions" : [ {
       "name" : "Princess Celestia",
       "screen_name" : "mlp_Celestia",
-      "indices" : [ 0, 13 ],
+      "indices" : [ 20, 33 ],
       "id_str" : "262811871",
       "id" : 262811871
     } ],
@@ -273,16 +2008,187 @@ Grailbird.data.tweets_2016_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "814132772658933760",
   "geo" : { },
-  "id_str" : "814506023717376000",
-  "in_reply_to_user_id" : 262811871,
-  "text" : "@mlp_Celestia (( Silk ))",
-  "id" : 814506023717376000,
-  "in_reply_to_status_id" : 814132772658933760,
-  "created_at" : "2016-12-29 16:19:03 +0000",
-  "in_reply_to_screen_name" : "mlp_Celestia",
-  "in_reply_to_user_id_str" : "262811871",
+  "id_str" : "891385117175885828",
+  "text" : "He turns toward Pr. @mlp_Celestia, commenting. \"Not quite. The castle suffered a minor blemish during the battle.\"",
+  "id" : 891385117175885828,
+  "created_at" : "2017-07-29 19:49:07 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891383879252271106",
+  "text" : "\"For something like this, it has to be something special.\"",
+  "id" : 891383879252271106,
+  "created_at" : "2017-07-29 19:44:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891383826387226624",
+  "text" : "\"The problem is finding a suitable tome to use for the actual book part of the spell book. I can't just use a library tome, after all.\"",
+  "id" : 891383826387226624,
+  "created_at" : "2017-07-29 19:43:59 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891383621407440901",
+  "text" : "\"I think this is as good as it's going to get. It's only the external casing, after all.\", he thinks for a moment or two.",
+  "id" : 891383621407440901,
+  "created_at" : "2017-07-29 19:43:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891381942079434755",
+  "text" : "He then starts to brush the platinum covering with a cloth as he rests outside the tree castle in his blacksmithy setup.",
+  "id" : 891381942079434755,
+  "created_at" : "2017-07-29 19:36:30 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891381705470345217",
+  "text" : "\"... also, glad it wasn't me. That impact would have hurt hard.\"",
+  "id" : 891381705470345217,
+  "created_at" : "2017-07-29 19:35:34 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891381412728909824",
+  "text" : "He looks at the impact area of the tree castle briefly. \"... that reminds me, I need to see if the insurance agent sent paperwork back.\"",
+  "id" : 891381412728909824,
+  "created_at" : "2017-07-29 19:34:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891379607500455936",
+  "text" : "It almost gleams in the sunlight with the degree of polish he's applied to it.",
+  "id" : 891379607500455936,
+  "created_at" : "2017-07-29 19:27:14 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891379529410908164",
+  "text" : "After a few hours of work and his player cursing his internet provider's outage, the platinum book casing is complete, and socketed.",
+  "id" : 891379529410908164,
+  "created_at" : "2017-07-29 19:26:55 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -301,10 +2207,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "814280024907980800",
-  "text" : "He starts to sigh and looks around the kitchen of the castle.",
-  "id" : 814280024907980800,
-  "created_at" : "2016-12-29 01:21:01 +0000",
+  "id_str" : "891329027260252160",
+  "text" : "He then lifts the Platinum sheet and sets it down on the anvil, starting to slowly cut it with specific tools.",
+  "id" : 891329027260252160,
+  "created_at" : "2017-07-29 16:06:14 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -323,208 +2229,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "814278660702273536",
-  "text" : "Today, he can be seen, slowly eating a slice of strawberry cheesecake, in an attempt to comfort himself.",
-  "id" : 814278660702273536,
-  "created_at" : "2016-12-29 01:15:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "814152461103534081",
-  "text" : "\"... the hay do you need catnip for?\", he asks himself as he looks through the inbox.",
-  "id" : 814152461103534081,
-  "created_at" : "2016-12-28 16:54:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "814149033719644160",
-  "text" : "He trudges toward his office, hoping to Faust that there's hot coffee waiting for him.",
-  "id" : 814149033719644160,
-  "created_at" : "2016-12-28 16:40:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "814147924527554560",
-  "text" : "\"I feel it in my bones. A long day portends.\"",
-  "id" : 814147924527554560,
-  "created_at" : "2016-12-28 16:36:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "814147692934922240",
-  "text" : "Slowly the quartermaster awakens in his treecastle bedroom. The light filters in from one of the windows, and he grumbles.",
-  "id" : 814147692934922240,
-  "created_at" : "2016-12-28 16:35:10 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813809845715566596",
-  "text" : "The bedroom door locks, and he'll not be heard from, the rest of the day.",
-  "id" : 813809845715566596,
-  "created_at" : "2016-12-27 18:12:41 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813806244133740544",
-  "text" : "He looks at the newspaper, deeply sighs and goes to his bedroom to mourn.",
-  "id" : 813806244133740544,
-  "created_at" : "2016-12-27 17:58:23 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Star heart",
-      "screen_name" : "mlp_starh",
-      "indices" : [ 11, 21 ],
-      "id_str" : "1604164442",
-      "id" : 1604164442
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "813558211580198912",
-  "geo" : { },
-  "id_str" : "813558445152538624",
-  "in_reply_to_user_id" : 1604164442,
-  "text" : "He nods to @mlp_starh and goes back to his lunch.",
-  "id" : 813558445152538624,
-  "in_reply_to_status_id" : 813558211580198912,
-  "created_at" : "2016-12-27 01:33:43 +0000",
-  "in_reply_to_screen_name" : "mlp_starh",
-  "in_reply_to_user_id_str" : "1604164442",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Star heart",
-      "screen_name" : "mlp_starh",
-      "indices" : [ 65, 75 ],
-      "id_str" : "1604164442",
-      "id" : 1604164442
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "813557550629195776",
-  "geo" : { },
-  "id_str" : "813557871610888193",
-  "in_reply_to_user_id" : 1604164442,
-  "text" : "\"I don't approve, but it's not my choice to make or even affect, @mlp_starh. Good luck.\"",
-  "id" : 813557871610888193,
-  "in_reply_to_status_id" : 813557550629195776,
-  "created_at" : "2016-12-27 01:31:26 +0000",
-  "in_reply_to_screen_name" : "mlp_starh",
-  "in_reply_to_user_id_str" : "1604164442",
+  "id_str" : "891327583845044224",
+  "text" : "\"Casing, gemming the casing sockets, and of course, the actual book, and there is only a select few that can help me with that one.\"",
+  "id" : 891327583845044224,
+  "created_at" : "2017-07-29 16:00:30 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -538,26 +2246,43 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Star heart",
-      "screen_name" : "mlp_starh",
-      "indices" : [ 13, 23 ],
-      "id_str" : "1604164442",
-      "id" : 1604164442
+      "name" : "Bird Cat",
+      "screen_name" : "MLP_Birdcat",
+      "indices" : [ 57, 69 ],
+      "id_str" : "166460962",
+      "id" : 166460962
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "813556589210771456",
   "geo" : { },
-  "id_str" : "813556798443716609",
-  "in_reply_to_user_id" : 1604164442,
-  "text" : "\"Packing up, @mlp_starh?\", The pegasus inquires further.",
-  "id" : 813556798443716609,
-  "in_reply_to_status_id" : 813556589210771456,
-  "created_at" : "2016-12-27 01:27:10 +0000",
-  "in_reply_to_screen_name" : "mlp_starh",
-  "in_reply_to_user_id_str" : "1604164442",
+  "id_str" : "891327338692177920",
+  "text" : "\"Three stage project, part one is here, part two is with @mlp_Birdcat, part three will be the hardest part.\"",
+  "id" : 891327338692177920,
+  "created_at" : "2017-07-29 15:59:32 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891326814672629760",
+  "text" : "\"It seems like everything I do has to have a personal touch, and this seems like no other. Too bad, this is only part of it.\"",
+  "id" : 891326814672629760,
+  "created_at" : "2017-07-29 15:57:27 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -571,21 +2296,21 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Star heart",
-      "screen_name" : "mlp_starh",
-      "indices" : [ 20, 30 ],
-      "id_str" : "1604164442",
-      "id" : 1604164442
+      "name" : "Rarity",
+      "screen_name" : "mlp_Rarity",
+      "indices" : [ 54, 65 ],
+      "id_str" : "263609937",
+      "id" : 263609937
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813556456544989188",
-  "text" : "He briefly waves to @mlp_starh, midchomp. A swallow later, and he asks. \"What's up?\"",
-  "id" : 813556456544989188,
-  "created_at" : "2016-12-27 01:25:49 +0000",
+  "id_str" : "891326323003580416",
+  "text" : "A blacksmith's plan rests on his anvil, anchored by a @mlp_Rarity bobblehead. It appears to be some sort of tome covering with a chain.",
+  "id" : 891326323003580416,
+  "created_at" : "2017-07-29 15:55:30 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -604,10 +2329,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813553985382731776",
-  "text" : "\"Let's see here. ... this looks appetizing for lunch.\" He pulls out some butter, potatoes, and onions.",
-  "id" : 813553985382731776,
-  "created_at" : "2016-12-27 01:15:59 +0000",
+  "id_str" : "891325882060738564",
+  "text" : "Today, the stallion has decided to setup his blacksmithing toolset outside the tree castle, again. A few sheets of platinum rest nearby.",
+  "id" : 891325882060738564,
+  "created_at" : "2017-07-29 15:53:44 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -626,10 +2351,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813553456330010629",
-  "text" : "He checks his inbox and then heads to the kitchen with a small amount of mail.",
-  "id" : 813553456330010629,
-  "created_at" : "2016-12-27 01:13:53 +0000",
+  "id_str" : "891100350958235648",
+  "text" : "\"... Sudden Divine Wind?\"",
+  "id" : 891100350958235648,
+  "created_at" : "2017-07-29 00:57:34 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -640,7 +2365,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -648,10 +2373,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813415945217654784",
-  "text" : "He's already in his office, doing the usual paperwork that accompanies it.",
-  "id" : 813415945217654784,
-  "created_at" : "2016-12-26 16:07:28 +0000",
+  "id_str" : "891100031650025472",
+  "text" : "\"Larry's Mass Cloud Cover?\"",
+  "id" : 891100031650025472,
+  "created_at" : "2017-07-29 00:56:18 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -662,7 +2387,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -670,10 +2395,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813253875419512832",
-  "text" : "The pair make their way to his bedroom, and enter with minimal fanfare, he gently helps her onto the bed, and he climbs in with her.",
-  "id" : 813253875419512832,
-  "created_at" : "2016-12-26 05:23:28 +0000",
+  "id_str" : "891098561622007809",
+  "text" : "\"... and now it's time to flex mine.\"",
+  "id" : 891098561622007809,
+  "created_at" : "2017-07-29 00:50:27 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -684,7 +2409,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -692,10 +2417,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813253321192509440",
-  "text" : "He nods. \"Let me help you to bed, then, okay?\"",
-  "id" : 813253321192509440,
-  "created_at" : "2016-12-26 05:21:15 +0000",
+  "id_str" : "891098443791388673",
+  "text" : "He nods to the dragon, again, and starts to slowly study the text before him.",
+  "id" : 891098443791388673,
+  "created_at" : "2017-07-29 00:49:59 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -706,7 +2431,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -714,10 +2439,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813252574933618690",
-  "text" : "\"As for our date, though, I think I'm going to cash in a favor from an old friend of mine. The only catch, is that's it's far away.\"",
-  "id" : 813252574933618690,
-  "created_at" : "2016-12-26 05:18:18 +0000",
+  "id_str" : "891095718685016065",
+  "text" : "\"Then that's settled. I'll get in touch when I'm done. Again, many thanks for helping me out, here.\"",
+  "id" : 891095718685016065,
+  "created_at" : "2017-07-29 00:39:09 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -728,7 +2453,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -736,10 +2461,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813251466790060036",
-  "text" : "He then blushes. \"Then, Winter, may we stumble down the same road together. One step at a time.\"",
-  "id" : 813251466790060036,
-  "created_at" : "2016-12-26 05:13:53 +0000",
+  "id_str" : "891095335891808257",
+  "text" : "\"That is, unless you prefer the steelbound version of the book?\"",
+  "id" : 891095335891808257,
+  "created_at" : "2017-07-29 00:37:38 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -750,7 +2475,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -758,10 +2483,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813250466817699841",
-  "text" : "He gently turns and kisses her on the cheek, and then nuzzles in kind.",
-  "id" : 813250466817699841,
-  "created_at" : "2016-12-26 05:09:55 +0000",
+  "id_str" : "891095180761325568",
+  "text" : "\"It would be just simpler to give you the decrypted texts, after they are copied. The original is going to Canterlot.\"",
+  "id" : 891095180761325568,
+  "created_at" : "2017-07-29 00:37:01 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -772,7 +2497,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -780,10 +2505,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813249700413444096",
-  "text" : "\"I ... yeah.\", he then puts a wing around Winter.",
-  "id" : 813249700413444096,
-  "created_at" : "2016-12-26 05:06:52 +0000",
+  "id_str" : "891094608012247040",
+  "text" : "A shrug and he looks over the decrypted text briefly, flipping through it.\n\n\"Guess I'll try this out tomorrow, once I get everything copied\"",
+  "id" : 891094608012247040,
+  "created_at" : "2017-07-29 00:34:44 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -794,7 +2519,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -802,10 +2527,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813248600046268419",
-  "text" : "\"Well, here's the thing. I have barely any relationship experience. I want to try and make this work, but I know I'm going to falter.\"",
-  "id" : 813248600046268419,
-  "created_at" : "2016-12-26 05:02:30 +0000",
+  "id_str" : "891092685087526913",
+  "text" : "He raised an eyebrow at the dragon.\n\n\"I had trouble understanding some of the cryptic writing myself. It's nothing to be ashamed about.\"",
+  "id" : 891092685087526913,
+  "created_at" : "2017-07-29 00:27:06 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -816,7 +2541,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -824,10 +2549,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813247589361586176",
-  "text" : "\"Well, after a while, I decided to follow my heart. It led me to you.\"",
-  "id" : 813247589361586176,
-  "created_at" : "2016-12-26 04:58:29 +0000",
+  "id_str" : "891091983913058308",
+  "text" : "He nods. \"Ah, thank you! Did you have any real problems with the decryption?\"",
+  "id" : 891091983913058308,
+  "created_at" : "2017-07-29 00:24:19 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -838,24 +2563,68 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891090201120038912",
+  "text" : "\"It's probably something related to schedules, I couldn't really say.\", he responds as he sits down on his chair.\n\n\"So, what's up?\"",
+  "id" : 891090201120038912,
+  "created_at" : "2017-07-29 00:17:14 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "891089453913124865",
+  "text" : "\"Apologies, I nearly passed out in my office.\", he responds and trudges inside.",
+  "id" : 891089453913124865,
+  "created_at" : "2017-07-29 00:14:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Princess Cadance",
-      "screen_name" : "mlp_Cadance",
-      "indices" : [ 88, 100 ],
-      "id_str" : "436759101",
-      "id" : 436759101
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 42, 54 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813246678534942720",
-  "text" : "\"Well, for years, I've said I'm unshippable. It was even to the point where I think Pr. @mlp_Cadance was trying to do something about it.\"",
-  "id" : 813246678534942720,
-  "created_at" : "2016-12-26 04:54:52 +0000",
+  "id_str" : "891088399129612288",
+  "text" : "The stallion yawns and opens the door for @mlp_Yaretzi.",
+  "id" : 891088399129612288,
+  "created_at" : "2017-07-29 00:10:04 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -874,10 +2643,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813244840783872000",
-  "text" : "\"It- It's nothing, really.\", he then leans against her.",
-  "id" : 813244840783872000,
-  "created_at" : "2016-12-26 04:47:34 +0000",
+  "id_str" : "890455874686332928",
+  "text" : "He deeply sighs, and then starts to walk back toward his home, briefly looking back.\n\n\"I'll miss you.\"",
+  "id" : 890455874686332928,
+  "created_at" : "2017-07-27 06:16:39 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -896,10 +2665,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813242069888147456",
-  "text" : "The stallion then sighs and finishes his tea, then slowly getting up from the table, sitting down next to her after a bit of movement.",
-  "id" : 813242069888147456,
-  "created_at" : "2016-12-26 04:36:33 +0000",
+  "id_str" : "890455273973977088",
+  "text" : "\"You ... you too, Wintertide.\", he then starts to get up, a rare fire in his eyes.",
+  "id" : 890455273973977088,
+  "created_at" : "2017-07-27 06:14:15 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -918,10 +2687,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813240255658754048",
-  "text" : "\"Well, I didn't keep you up or anything, did I?\", he snickers and then drinks more of the tea.",
-  "id" : 813240255658754048,
-  "created_at" : "2016-12-26 04:29:20 +0000",
+  "id_str" : "890454530860740608",
+  "text" : "He holds out an upper hoof toward the mare and slowly lowers it, smiling at her.",
+  "id" : 890454530860740608,
+  "created_at" : "2017-07-27 06:11:18 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -940,10 +2709,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813238270746390529",
-  "text" : "\"... so how was last night, anyway?\"",
-  "id" : 813238270746390529,
-  "created_at" : "2016-12-26 04:21:27 +0000",
+  "id_str" : "890453894152826880",
+  "text" : "He responds in kind, kissing her on the muzzle, slowly letting her go.\n\n\"... and your ride is here. Stay safe!~\"",
+  "id" : 890453894152826880,
+  "created_at" : "2017-07-27 06:08:46 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -962,10 +2731,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813235909671944192",
-  "text" : "\"... donate them to some charity? I really don't know.\"",
-  "id" : 813235909671944192,
-  "created_at" : "2016-12-26 04:12:04 +0000",
+  "id_str" : "890452376959819776",
+  "text" : "He takes a deep breath and gets quiet.\n\n\"I love you.\"",
+  "id" : 890452376959819776,
+  "created_at" : "2017-07-27 06:02:45 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -984,10 +2753,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813234931673530368",
-  "text" : "He takes a drink of the tea and sighs. \"We can only hope. If there's anything I can do to take that frown away, tell me, Winter.\"",
-  "id" : 813234931673530368,
-  "created_at" : "2016-12-26 04:08:11 +0000",
+  "id_str" : "890449651878514689",
+  "text" : "He nods, draping a wing over her.\n\n\"I do have something to say, though, before you go.\"",
+  "id" : 890449651878514689,
+  "created_at" : "2017-07-27 05:51:55 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -1006,10 +2775,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813234194025431040",
-  "text" : "He sits down at the table, and continues. \"I don't exactly know how else to explain it. Nothing's ever easy, or simple, I gather.\"",
-  "id" : 813234194025431040,
-  "created_at" : "2016-12-26 04:05:15 +0000",
+  "id_str" : "890448851454353408",
+  "text" : "He chuckles a bit and then nuzzles her, cuddling. \"I'd love to stay longer, but I think your ride might be showing up at some point.\"",
+  "id" : 890448851454353408,
+  "created_at" : "2017-07-27 05:48:44 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -1028,10 +2797,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813232771128786948",
-  "text" : "He then lets her go and starts to walk toward the commons, tea picked up.\n\"I've had moments where I'd have to tell ponies to go away.\"",
-  "id" : 813232771128786948,
-  "created_at" : "2016-12-26 03:59:36 +0000",
+  "id_str" : "890447826823651328",
+  "text" : "He nods and boops her nose.",
+  "id" : 890447826823651328,
+  "created_at" : "2017-07-27 05:44:40 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -1050,10 +2819,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813231493787111429",
-  "text" : "He then hugs her tight.\n\n\"Sometimes in life, we have to say things we don't want to say.\"",
-  "id" : 813231493787111429,
-  "created_at" : "2016-12-26 03:54:31 +0000",
+  "id_str" : "890447018824519680",
+  "text" : "\"Maybe when you return, I'll make it up to you, somehow.\"",
+  "id" : 890447018824519680,
+  "created_at" : "2017-07-27 05:41:27 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -1072,10 +2841,208 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813230227413434368",
-  "text" : "He sighs and then puts down the tea, concerned. \"What happened?\"",
-  "id" : 813230227413434368,
-  "created_at" : "2016-12-26 03:49:29 +0000",
+  "id_str" : "890446158522404864",
+  "text" : "\"As much as I'd love to, I can't get the time off, right now.\", he frowns.",
+  "id" : 890446158522404864,
+  "created_at" : "2017-07-27 05:38:02 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890443819845595136",
+  "text" : "He nods and hugs her.\n\n\"I will, probably.\"",
+  "id" : 890443819845595136,
+  "created_at" : "2017-07-27 05:28:44 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890441645879156737",
+  "text" : "He blushes and gently kisses her cheek.\n\n\"I'll try not to have the town fall apart while you are gone, okay?\"",
+  "id" : 890441645879156737,
+  "created_at" : "2017-07-27 05:20:06 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890440389001392129",
+  "text" : "He sighs and then inches up next to her. \"Just come back to me safely, okay, dear?\"",
+  "id" : 890440389001392129,
+  "created_at" : "2017-07-27 05:15:06 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890437644190089216",
+  "text" : "He snickers and looks at her head. \"Amusingly, that's just a bump on the head. That's not a horn.\"",
+  "id" : 890437644190089216,
+  "created_at" : "2017-07-27 05:04:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890436891224539136",
+  "text" : "\"Awww. I'm sorry I wasn't there. Too busy directing traffic on the roof.\"",
+  "id" : 890436891224539136,
+  "created_at" : "2017-07-27 05:01:13 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890435846540840962",
+  "text" : "\"We had a dragon attack, among other issues.\", he sighs and sits next to her on the bench.",
+  "id" : 890435846540840962,
+  "created_at" : "2017-07-27 04:57:03 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890435144154312704",
+  "text" : "\"I just ... I want to spend more time with you.\"",
+  "id" : 890435144154312704,
+  "created_at" : "2017-07-27 04:54:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890435067125936128",
+  "text" : "\"Yeah, also, sorry I haven't been around that much. I've honestly been really busy with the tree castle, and it's really annoying.\"",
+  "id" : 890435067125936128,
+  "created_at" : "2017-07-27 04:53:58 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890432873836294144",
+  "text" : "\"Sorry, I wanted to catch you before you left!\", he drops the box into her lap. \"Some food and first aid supplies for the trip.\"",
+  "id" : 890432873836294144,
+  "created_at" : "2017-07-27 04:45:15 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -1100,10 +3067,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813229632195620864",
-  "text" : "\"@mlp_WinterT?\", he asks once he's near her.",
-  "id" : 813229632195620864,
-  "created_at" : "2016-12-26 03:47:08 +0000",
+  "id_str" : "890432499226226688",
+  "text" : "\"@mlp_WinterT?\", he asks, once he's caught his breath.",
+  "id" : 890432499226226688,
+  "created_at" : "2017-07-27 04:43:45 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -1122,808 +3089,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "813228827937820672",
-  "text" : "He walks out of the common room, toward Wintertide, holding the tea mug.",
-  "id" : 813228827937820672,
-  "created_at" : "2016-12-26 03:43:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813213430597488640",
-  "text" : "He continues to rest, a mug of hot tea in front of him in the castle common room. He seems to sigh.",
-  "id" : 813213430597488640,
-  "created_at" : "2016-12-26 02:42:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813191793634410496",
-  "text" : "He's been in the common room since several hours ago, reading a book.",
-  "id" : 813191793634410496,
-  "created_at" : "2016-12-26 01:16:46 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813092498138599424",
-  "text" : "The sounds of potato burning against pan is probably good enough for some.",
-  "id" : 813092498138599424,
-  "created_at" : "2016-12-25 18:42:12 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813089643877068801",
-  "text" : "Naturally, there's a pot of coffee already brewed, along with a jug of decent quality tea.",
-  "id" : 813089643877068801,
-  "created_at" : "2016-12-25 18:30:52 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813089046805221378",
-  "text" : "He can be heard working in the kitchen, cooking up a light breakfast.",
-  "id" : 813089046805221378,
-  "created_at" : "2016-12-25 18:28:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813080276339453952",
-  "text" : "\/\/ Happy Holidays!",
-  "id" : 813080276339453952,
-  "created_at" : "2016-12-25 17:53:38 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813080202062532609",
-  "text" : "\/\/ Starhammer will be unavailable later today due to family related shenanigans and the lack of decent internet in the area.",
-  "id" : 813080202062532609,
-  "created_at" : "2016-12-25 17:53:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813077197804208132",
-  "text" : "\"Some breakfast would be grand at this hour.\"",
-  "id" : 813077197804208132,
-  "created_at" : "2016-12-25 17:41:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
-      "screen_name" : "mlp_WinterT",
-      "indices" : [ 66, 78 ],
-      "id_str" : "788122955762896897",
-      "id" : 788122955762896897
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813076988298674176",
-  "text" : "He looks out the window and slowly climbs out of his bed, pushing @mlp_WinterT under the blanket.",
-  "id" : 813076988298674176,
-  "created_at" : "2016-12-25 17:40:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813068483101655040",
-  "text" : "She clearly should have ordered the wings friendly chair that he has in the radio booth.",
-  "id" : 813068483101655040,
-  "created_at" : "2016-12-25 17:06:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813068012148367360",
-  "text" : "He mumbles something about \"What did I do to deserve this?\"",
-  "id" : 813068012148367360,
-  "created_at" : "2016-12-25 17:04:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "813067610078191616",
-  "text" : "He yells a bit. \"Oh faust, some of us are trying to sleep here.\"",
-  "id" : 813067610078191616,
-  "created_at" : "2016-12-25 17:03:18 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812863900907696128",
-  "text" : "The door locks audibly, and the last thing anyone hears from him is, \"I think I'm in love~\", for the rest of the evening.",
-  "id" : 812863900907696128,
-  "created_at" : "2016-12-25 03:33:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812861884084920320",
-  "text" : "\"I'm the quartermaster of the castle, of course I'm sure~\", he then leads her inside and closes the door of the room after he enters.",
-  "id" : 812861884084920320,
-  "created_at" : "2016-12-25 03:25:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812860717456097280",
-  "text" : "Not soon after, he passes the entrance, and leads her to his bedroom. \"Room and board is on me, tonight.\"",
-  "id" : 812860717456097280,
-  "created_at" : "2016-12-25 03:21:11 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812859084630294528",
-  "text" : "He then slowly heads for the tree castle, holding on to Winter with the hoof, holding her close, and moving slowly. He's blushing hard.",
-  "id" : 812859084630294528,
-  "created_at" : "2016-12-25 03:14:42 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812857890981691393",
-  "text" : "He offers one of his front hooves to her, and kneels. \"Shall we?\"",
-  "id" : 812857890981691393,
-  "created_at" : "2016-12-25 03:09:58 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812857408015974400",
-  "text" : "\"For now, how about we retire to somewhere warm for the rest of the evening, okay?\"",
-  "id" : 812857408015974400,
-  "created_at" : "2016-12-25 03:08:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812856433599533056",
-  "text" : "He nods to her.\n\n\"Why yes, but certainly not here in the open, as cold as it is. Would you be interested in a date in the near future?\"",
-  "id" : 812856433599533056,
-  "created_at" : "2016-12-25 03:04:10 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812855348637892609",
-  "text" : "He then pulls her close and kisses her for a moment, and then starts to get up. \"It is getting somewhat cold, isn't it.\"",
-  "id" : 812855348637892609,
-  "created_at" : "2016-12-25 02:59:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812853992409759744",
-  "text" : "\"Thank you, Winter~\", he blushes as well.",
-  "id" : 812853992409759744,
-  "created_at" : "2016-12-25 02:54:28 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812847894734794753",
-  "text" : "He nods and pulls her closer to him in a deeper hug.",
-  "id" : 812847894734794753,
-  "created_at" : "2016-12-25 02:30:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812847187587715072",
-  "text" : "\"I greatly appreciate it, Winter!\"",
-  "id" : 812847187587715072,
-  "created_at" : "2016-12-25 02:27:26 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812846541245468672",
-  "text" : "\"Oh wow, that's cool looking.\"",
-  "id" : 812846541245468672,
-  "created_at" : "2016-12-25 02:24:52 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812845511199834113",
-  "text" : "\"So, let's see it then.\", he replies while moving so he's next to her.",
-  "id" : 812845511199834113,
-  "created_at" : "2016-12-25 02:20:46 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812844884944158720",
-  "text" : "\"Isn't that one, a sculpture?\"",
-  "id" : 812844884944158720,
-  "created_at" : "2016-12-25 02:18:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812844378146373632",
-  "text" : "\"Ah, what do you got?\", he smiles in her direction.",
-  "id" : 812844378146373632,
-  "created_at" : "2016-12-25 02:16:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812843280467689472",
-  "text" : "The stallion gently hugs her. \"Anytime, Winter.\"",
-  "id" : 812843280467689472,
-  "created_at" : "2016-12-25 02:11:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812842030686683136",
-  "text" : "\"Not without sufficient outer dressing, no. As for the boots, they are my gift to you.\"",
-  "id" : 812842030686683136,
-  "created_at" : "2016-12-25 02:06:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812841213040754688",
-  "text" : "\"Those? I made them myself. By hoof.\"",
-  "id" : 812841213040754688,
-  "created_at" : "2016-12-25 02:03:41 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812840340537348097",
-  "text" : "\"It's always darkest before the dawn or something to that effect.\", he comments and then points to the silver hoofboots.",
-  "id" : 812840340537348097,
-  "created_at" : "2016-12-25 02:00:13 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812838837441495040",
-  "text" : "\"Well, I'm sorry I wasn't in the tree castle. Twilight and friends have their own family thing going on, and I didn't feel a part of it.\"",
-  "id" : 812838837441495040,
-  "created_at" : "2016-12-25 01:54:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812837682929946624",
-  "text" : "He chuckles and starts to get up. \"Not at all, Wintertide.\"",
-  "id" : 812837682929946624,
-  "created_at" : "2016-12-25 01:49:40 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812836534516940800",
-  "text" : "He waves to the mare with some enthusiasm. \"I missed you!\"",
-  "id" : 812836534516940800,
-  "created_at" : "2016-12-25 01:45:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812835625523183617",
-  "text" : "The sight of a pegasus resting against a tree, and what appears to be four jeweled silver hoofboots of semi-standard size near him.",
-  "id" : 812835625523183617,
-  "created_at" : "2016-12-25 01:41:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812831592959844352",
-  "text" : "He appears to have sat down on the ground, the saddlepacks removed and emptied. There's something unique resting near him.",
-  "id" : 812831592959844352,
-  "created_at" : "2016-12-25 01:25:28 +0000",
+  "id_str" : "890430763317035008",
+  "text" : "He nears the bench she sits on and rests, panting.",
+  "id" : 890430763317035008,
+  "created_at" : "2017-07-27 04:36:52 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -1939,7 +3108,7 @@ Grailbird.data.tweets_2016_12 =
     "user_mentions" : [ {
       "name" : "Wintertide \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
-      "indices" : [ 26, 38 ],
+      "indices" : [ 30, 42 ],
       "id_str" : "788122955762896897",
       "id" : 788122955762896897
     } ],
@@ -1948,10 +3117,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "812829955981774848",
-  "text" : "He sends another reply to @mlp_winterT. \"Meet me in the park, it'll be quiet.\"",
-  "id" : 812829955981774848,
-  "created_at" : "2016-12-25 01:18:57 +0000",
+  "id_str" : "890426747304497153",
+  "text" : "\"I'd better get in touch with @mlp_WinterT before she leaves.\", he comments as he hurries.",
+  "id" : 890426747304497153,
+  "created_at" : "2017-07-27 04:20:54 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -1970,366 +3139,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "812828833107865600",
-  "text" : "\"... why did I say cafe, the heck is wrong with me?\"",
-  "id" : 812828833107865600,
-  "created_at" : "2016-12-25 01:14:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
-      "screen_name" : "mlp_WinterT",
-      "indices" : [ 88, 100 ],
-      "id_str" : "788122955762896897",
-      "id" : 788122955762896897
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812828772298854401",
-  "text" : "He exits the local HayBurger place and heads for elsewhere in town, probably passing by @mlp_WinterT with a pair of travel packs.",
-  "id" : 812828772298854401,
-  "created_at" : "2016-12-25 01:14:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
-      "screen_name" : "mlp_WinterT",
-      "indices" : [ 15, 27 ],
-      "id_str" : "788122955762896897",
-      "id" : 788122955762896897
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812827178488463360",
-  "text" : "He responds to @mlp_WinterT rather fast. \"I'm actually in a local cafe, the tree castle is packed at the moment.\"",
-  "id" : 812827178488463360,
-  "created_at" : "2016-12-25 01:07:55 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812815554260172800",
-  "text" : "He makes his exit and heads out toward elsewhere in Ponyville, presumably in secret.",
-  "id" : 812815554260172800,
-  "created_at" : "2016-12-25 00:21:44 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Flurry Heart",
-      "screen_name" : "MLP_FlurryHrt",
-      "indices" : [ 14, 28 ],
-      "id_str" : "4852216131",
-      "id" : 4852216131
-    }, {
-      "name" : "Shining Armor",
-      "screen_name" : "mlp_Armor",
-      "indices" : [ 80, 90 ],
-      "id_str" : "436770624",
-      "id" : 436770624
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812814427410071552",
-  "text" : "He then gives @mlp_FlurryHrt a smile before he exits the tree castle, waving to @mlp_Armor and friends.",
-  "id" : 812814427410071552,
-  "created_at" : "2016-12-25 00:17:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Twilight Sparkle",
-      "screen_name" : "mlp_Twilight",
-      "indices" : [ 98, 111 ],
-      "id_str" : "258925492",
-      "id" : 258925492
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812813363688378372",
-  "text" : "\"I'd love to stick around for the party, but I have somewhere else I need to be.\", he bows to Pr. @mlp_Twilight. \"Later!\"",
-  "id" : 812813363688378372,
-  "created_at" : "2016-12-25 00:13:01 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812811304356483073",
-  "text" : "\"It's nothing, really, Princess. I'm apparently good with foals.\"",
-  "id" : 812811304356483073,
-  "created_at" : "2016-12-25 00:04:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812811058083745792",
-  "text" : "He laughs and walks with the parents, yawning.",
-  "id" : 812811058083745792,
-  "created_at" : "2016-12-25 00:03:52 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812808924864901120",
-  "text" : "He takes a moment to clean off his face, the beard of dust dissipating shortly after.",
-  "id" : 812808924864901120,
-  "created_at" : "2016-12-24 23:55:23 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812808436073332737",
-  "text" : "\"Uhm, anyway. The usual suite should be available for you three, hopefully.\", he turns to the parents.",
-  "id" : 812808436073332737,
-  "created_at" : "2016-12-24 23:53:27 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812807544360026113",
-  "text" : "He blinks and then pats the babicorn's shnozz. \"What, sick or something?\"",
-  "id" : 812807544360026113,
-  "created_at" : "2016-12-24 23:49:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Flurry Heart",
-      "screen_name" : "MLP_FlurryHrt",
-      "indices" : [ 26, 40 ],
-      "id_str" : "4852216131",
-      "id" : 4852216131
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812806945837092864",
-  "text" : "He then bends down toward @MLP_FlurryHrt and cautiously looks at her.",
-  "id" : 812806945837092864,
-  "created_at" : "2016-12-24 23:47:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812806156309712896",
-  "text" : "\"Where's the little one?\", he looks around for the babicorn.",
-  "id" : 812806156309712896,
-  "created_at" : "2016-12-24 23:44:23 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Princess Cadance",
-      "screen_name" : "mlp_Cadance",
-      "indices" : [ 9, 21 ],
-      "id_str" : "436759101",
-      "id" : 436759101
-    }, {
-      "name" : "Shining Armor",
-      "screen_name" : "mlp_Armor",
-      "indices" : [ 30, 40 ],
-      "id_str" : "436770624",
-      "id" : 436770624
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812805391167918080",
-  "text" : "\"Ah, Pr. @mlp_Cadance and Sir @mlp_Armor, what are you two doing in town?\"",
-  "id" : 812805391167918080,
-  "created_at" : "2016-12-24 23:41:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812803600418308098",
-  "text" : "The stallion walks near the tree castle entrance, shaking his head as he sidesteps the tree.",
-  "id" : 812803600418308098,
-  "created_at" : "2016-12-24 23:34:14 +0000",
+  "id_str" : "890425893306470400",
+  "text" : "He heads out the tree castle, carrying a box of some sort with him, as he practically sprints for the train station.",
+  "id" : 890425893306470400,
+  "created_at" : "2017-07-27 04:17:30 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -2341,935 +3154,11 @@ Grailbird.data.tweets_2016_12 =
   }
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812784150541385728",
-  "text" : "\"Once again, thank you for your time, Equestria. Grumphammer signing out.\", a click and then the broadcast goes back to seasonal music.",
-  "id" : 812784150541385728,
-  "created_at" : "2016-12-24 22:16:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812783604979945472",
-  "text" : "\"All costs for this project is coming out of pocket as my gift to the community. Send usual commentary to my office after the holidays.\"",
-  "id" : 812783604979945472,
-  "created_at" : "2016-12-24 22:14:46 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812783308832587776",
-  "text" : "\"For I am one pony, and by no means an expert on the location or quality that suitable housing would require.\"",
-  "id" : 812783308832587776,
-  "created_at" : "2016-12-24 22:13:36 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812783112618971140",
-  "text" : "\"Initial plans for a series of small homes have been put up near Town Hall and the Tree Castle bulletin board. I ask the community to look.\"",
-  "id" : 812783112618971140,
-  "created_at" : "2016-12-24 22:12:49 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812782674284867584",
-  "text" : "\"It's come to my attention that there currently is a deficit of housing in town, due to recent ponies moving in. I'd like to change this.\"",
-  "id" : 812782674284867584,
-  "created_at" : "2016-12-24 22:11:04 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812781993025011713",
-  "text" : "\"Guard Emergency Services will likewise be significantly impacted. Keep yourselves safe.\n\nNow, on to the meat of the broadcast.\"",
-  "id" : 812781993025011713,
-  "created_at" : "2016-12-24 22:08:22 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812781613184598017",
-  "text" : "\"As far as I'm aware, this covers today and tomorrow. As a result, the blacksmithing 201 seminar has been rescheduled. Times TBA.\"",
-  "id" : 812781613184598017,
-  "created_at" : "2016-12-24 22:06:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812781168726863872",
-  "text" : "\"First of all, the announcements. Due to the holidays, all castle facilities will be closed so we can spend time with our families.\"",
-  "id" : 812781168726863872,
-  "created_at" : "2016-12-24 22:05:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812780749296373760",
-  "text" : "A broadcast goes over the Radio Friendship frequency. \"Good afternoon, Equestria, this is Princess Grumphammer, doing his usual thing.\"",
-  "id" : 812780749296373760,
-  "created_at" : "2016-12-24 22:03:26 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812780052249247744",
-  "text" : "The transmitter and radio kit is checked for defects and then he adjusts the mic to his height.",
-  "id" : 812780052249247744,
-  "created_at" : "2016-12-24 22:00:39 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812779521652953089",
-  "text" : "The tree castle radio room opens up, and the stallion walks inside, taking a seat.",
-  "id" : 812779521652953089,
-  "created_at" : "2016-12-24 21:58:33 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812757114712104960",
-  "text" : "He skids in the snow, and stops running, the silver hoofboots doing their job.",
-  "id" : 812757114712104960,
-  "created_at" : "2016-12-24 20:29:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812749432835964929",
-  "text" : "The stallion walks in a bit of snow, the silver hoofboots attached to him, and keeping him just outside the snowfall.",
-  "id" : 812749432835964929,
-  "created_at" : "2016-12-24 19:58:59 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812724915698810881",
-  "text" : "He shrugs and cleans up after himself. \"Someday, maybe. I need to head out for a bit, though. Later!\"",
-  "id" : 812724915698810881,
-  "created_at" : "2016-12-24 18:21:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812720621973016576",
-  "text" : "\"Yeah, it's basically potatoes with a few spices for flavor.\"",
-  "id" : 812720621973016576,
-  "created_at" : "2016-12-24 18:04:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812717126196883456",
-  "text" : "\"Hardly, hash browns are easy to make.\"",
-  "id" : 812717126196883456,
-  "created_at" : "2016-12-24 17:50:37 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812716596192051201",
-  "text" : "He rests at a kitchen table, satisfied by his cooking.",
-  "id" : 812716596192051201,
-  "created_at" : "2016-12-24 17:48:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812705442870788096",
-  "text" : "A clump of chopped potato with a few spices are put on a pan and set to fry a bit.",
-  "id" : 812705442870788096,
-  "created_at" : "2016-12-24 17:04:11 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812703820904022016",
-  "text" : "\"What is it with hash browns these days?\"",
-  "id" : 812703820904022016,
-  "created_at" : "2016-12-24 16:57:44 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812701202764931072",
-  "text" : "He gets up and heads for the castle kitchen.",
-  "id" : 812701202764931072,
-  "created_at" : "2016-12-24 16:47:20 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812690367296446464",
-  "text" : "He decides to imitate a well known throne guard, and does another coffee sip.",
-  "id" : 812690367296446464,
-  "created_at" : "2016-12-24 16:04:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812688493742882816",
-  "text" : "\"Besides, I need to make breakfast and head out into town in a bit.\"",
-  "id" : 812688493742882816,
-  "created_at" : "2016-12-24 15:56:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812688209679421440",
-  "text" : "\"You probably won't. A hyper pegasus is merely a normal pegasus that's a bit sharper for a few minutes before the sugar rush wears off.\"",
-  "id" : 812688209679421440,
-  "created_at" : "2016-12-24 15:55:42 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812685923553046528",
-  "text" : "\"It's closer to ... 37%, I think, but yeah. Maybe 60% back in Canterlot. ... I need to switch to tea or something.\"",
-  "id" : 812685923553046528,
-  "created_at" : "2016-12-24 15:46:37 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812685525228384257",
-  "text" : "He turns to the dragon. \"Would you believe I have a high caffiene tolerance?\"",
-  "id" : 812685525228384257,
-  "created_at" : "2016-12-24 15:45:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812685135674036225",
-  "text" : "He blinks and then takes a seat at the closest table, sipping slowly.",
-  "id" : 812685135674036225,
-  "created_at" : "2016-12-24 15:43:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812684788066877440",
-  "text" : "The stallion stumbles to the common room, carrying a mug of hot coffee with him, yawning.",
-  "id" : 812684788066877440,
-  "created_at" : "2016-12-24 15:42:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812550523828236288",
-  "text" : "The quartermaster yawns and heads for the common room.",
-  "id" : 812550523828236288,
-  "created_at" : "2016-12-24 06:48:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812469535991300096",
-  "text" : "He eventually starts to take off into the air, climbing up slowly into the air.",
-  "id" : 812469535991300096,
-  "created_at" : "2016-12-24 01:26:46 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812468849803227136",
-  "text" : "The clanking of a pegasus in the hoofboots can be heard out the entrance to the tree castle, followed by some running.",
-  "id" : 812468849803227136,
-  "created_at" : "2016-12-24 01:24:03 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812383150085206016",
-  "text" : "In his office, he seems to be putting on silver hoofboots. Nothing extravagant, enough to protect him as he walks.",
-  "id" : 812383150085206016,
-  "created_at" : "2016-12-23 19:43:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812121725186035712",
-  "text" : "\"I predict a ... 75% failure rate on this batch's adoption. Maybe I should try cayenne pepper or something next time.\"",
-  "id" : 812121725186035712,
-  "created_at" : "2016-12-23 02:24:42 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812120865953480708",
-  "text" : "The stallion cuts the bars up, and wraps them, putting them in the ration box. \"Welp. Could be worse.\"",
-  "id" : 812120865953480708,
-  "created_at" : "2016-12-23 02:21:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812119608031399936",
-  "text" : "\"So much for that batch.\"",
-  "id" : 812119608031399936,
-  "created_at" : "2016-12-23 02:16:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812119253155532802",
-  "text" : "He performs a taste test on the resulting oat bar and gives a horrified look. \"... [untweetable]\"",
-  "id" : 812119253155532802,
-  "created_at" : "2016-12-23 02:14:53 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812118382300581889",
-  "text" : "\"Okay, more pepper and oregano.\"",
-  "id" : 812118382300581889,
-  "created_at" : "2016-12-23 02:11:25 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812020366587625472",
-  "text" : "A mug of fresh coffee is swirled as he looks over a purchase order.",
-  "id" : 812020366587625472,
-  "created_at" : "2016-12-22 19:41:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812009838574268417",
-  "text" : "He writes something down on a scrap of paper. \"Clickbait Princess.\"",
-  "id" : 812009838574268417,
-  "created_at" : "2016-12-22 19:00:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812008675451736064",
-  "text" : "He has a guard friend recording the lecture for later review, as he's sadly knee deep in paperwork.",
-  "id" : 812008675451736064,
-  "created_at" : "2016-12-22 18:55:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "812007451348365316",
-  "text" : "For some reason, he rolls his eyes. \"Amateurs.\"",
-  "id" : 812007451348365316,
-  "created_at" : "2016-12-22 18:50:37 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811993203654201344",
-  "text" : "If he had the choice of elements, probably Willpower, or something to that effect.",
-  "id" : 811993203654201344,
-  "created_at" : "2016-12-22 17:54:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811992458104020994",
-  "text" : "At one point, he held a lesser element stone and restored it to it's former beauty, presumably, it's in a vault or something by now.",
-  "id" : 811992458104020994,
-  "created_at" : "2016-12-22 17:51:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Wintertide (Best Princess)",
       "screen_name" : "mlp_WinterT",
-      "indices" : [ 22, 34 ],
+      "indices" : [ 0, 12 ],
       "id_str" : "788122955762896897",
       "id" : 788122955762896897
     } ],
@@ -3278,98 +3167,13 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811986293269942272",
-  "text" : "Only time would tell, @mlp_WinterT, only time would tell ...",
-  "id" : 811986293269942272,
-  "created_at" : "2016-12-22 17:26:32 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811985341829775360",
-  "text" : "He'll never wear socks. They make him look silly.",
-  "id" : 811985341829775360,
-  "created_at" : "2016-12-22 17:22:46 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811975625930133504",
-  "text" : "He starts to watch the snowfall, sitting down on a chair.",
-  "id" : 811975625930133504,
-  "created_at" : "2016-12-22 16:44:09 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811974092496715777",
-  "text" : "He just stares at the doorway and shakes his head.",
-  "id" : 811974092496715777,
-  "created_at" : "2016-12-22 16:38:04 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811973193871323136",
-  "text" : "He looks out in his office toward the landscape. \"... it's that time again.\"",
-  "id" : 811973193871323136,
-  "created_at" : "2016-12-22 16:34:29 +0000",
+  "id_str" : "890397943030796288",
+  "in_reply_to_user_id" : 788122955762896897,
+  "text" : "@mlp_WinterT's tweetbird arrives as he gets up.\n\nHe then blushes profusely.",
+  "id" : 890397943030796288,
+  "created_at" : "2017-07-27 02:26:27 +0000",
+  "in_reply_to_screen_name" : "mlp_WinterT",
+  "in_reply_to_user_id_str" : "788122955762896897",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3388,10 +3192,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811748672975368193",
-  "text" : "\"Might have to get Spike's input when he returns from the ball.\"",
-  "id" : 811748672975368193,
-  "created_at" : "2016-12-22 01:42:19 +0000",
+  "id_str" : "890374520414011393",
+  "text" : "He sort of glares at Trixie from his comfy chair.",
+  "id" : 890374520414011393,
+  "created_at" : "2017-07-27 00:53:22 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3410,10 +3214,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811748152827146245",
-  "text" : "\"In hindsight, maybe adding a touch of garlic wasn't the best idea.\"",
-  "id" : 811748152827146245,
-  "created_at" : "2016-12-22 01:40:15 +0000",
+  "id_str" : "890373100851867648",
+  "text" : "\"On rare occasions, yeah, but it's usually more expensive than they are worth.\"",
+  "id" : 890373100851867648,
+  "created_at" : "2017-07-27 00:47:44 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3427,21 +3231,48 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Anchorstallion",
-      "screen_name" : "mlp_Newspony",
-      "indices" : [ 93, 106 ],
-      "id_str" : "783690018237939712",
-      "id" : 783690018237939712
+      "name" : "Twilight Sparkle",
+      "screen_name" : "plm_Twilight",
+      "indices" : [ 0, 13 ],
+      "id_str" : "855270546405154816",
+      "id" : 855270546405154816
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "890372145901121536",
   "geo" : { },
-  "id_str" : "811747133678297088",
-  "text" : "Also, just to prove a point, one of the oat blocks is wrapped in parchment paper and sent to @mlp_Newspony's crew.",
-  "id" : 811747133678297088,
-  "created_at" : "2016-12-22 01:36:12 +0000",
+  "id_str" : "890372397760729089",
+  "in_reply_to_user_id" : 855270546405154816,
+  "text" : "@plm_Twilight \"Book fairs are relatively boring, and are only there for vendors to push overpriced tomes to the uninformed.\"",
+  "id" : 890372397760729089,
+  "in_reply_to_status_id" : 890372145901121536,
+  "created_at" : "2017-07-27 00:44:56 +0000",
+  "in_reply_to_screen_name" : "plm_Twilight",
+  "in_reply_to_user_id_str" : "855270546405154816",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890371854690648065",
+  "text" : "\"... wasn't there a book fair, a few months ago?\"",
+  "id" : 890371854690648065,
+  "created_at" : "2017-07-27 00:42:47 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3455,21 +3286,21 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Friendship Guard",
-      "screen_name" : "mlp_FriendGuard",
-      "indices" : [ 79, 95 ],
-      "id_str" : "3059690825",
-      "id" : 3059690825
+      "name" : "Twilight Sparkle",
+      "screen_name" : "plm_Twilight",
+      "indices" : [ 21, 34 ],
+      "id_str" : "855270546405154816",
+      "id" : 855270546405154816
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811746278698811392",
-  "text" : "\"Okay, time for the taste test.\", he turns toward the hall toward a patrolling @mlp_FriendGuard.",
-  "id" : 811746278698811392,
-  "created_at" : "2016-12-22 01:32:49 +0000",
+  "id_str" : "890366706874449920",
+  "text" : "He briefly smiles at @plm_Twilight and leans forward.",
+  "id" : 890366706874449920,
+  "created_at" : "2017-07-27 00:22:19 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3488,10 +3319,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811745775088762881",
-  "text" : "Not soon after, he seems to be cutting out blocks of some sort of oat and herb blocks out of a pan.",
-  "id" : 811745775088762881,
-  "created_at" : "2016-12-22 01:30:48 +0000",
+  "id_str" : "890365309009498113",
+  "text" : "He quietly rests in the library, cooling off.",
+  "id" : 890365309009498113,
+  "created_at" : "2017-07-27 00:16:46 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3510,10 +3341,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811744636603662336",
-  "text" : "\"Apparently one of my recipe tweaks made it into the books, though.\"",
-  "id" : 811744636603662336,
-  "created_at" : "2016-12-22 01:26:17 +0000",
+  "id_str" : "890279979560435713",
+  "text" : "\"The upper storage area will have to be relocated, though until repair is complete.\", he sighs. \"What a pain.\"",
+  "id" : 890279979560435713,
+  "created_at" : "2017-07-26 18:37:42 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3532,10 +3363,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811744167357542400",
-  "text" : "\"A lot of ponies don't realize that rations are really only meant for occasions where good and decent food isn't available.\"",
-  "id" : 811744167357542400,
-  "created_at" : "2016-12-22 01:24:25 +0000",
+  "id_str" : "890279653054828545",
+  "text" : "\"About two hundred thousand bits in damages, overall. More if one counts the rest of the town.\"",
+  "id" : 890279653054828545,
+  "created_at" : "2017-07-26 18:36:24 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3554,10 +3385,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811743704159580160",
-  "text" : "\"Not even our local cooks can accomplish that feat, but that's not the point of rations.\"",
-  "id" : 811743704159580160,
-  "created_at" : "2016-12-22 01:22:35 +0000",
+  "id_str" : "890279144143171586",
+  "text" : "\"The insurance claim won't be pretty, though.\"",
+  "id" : 890279144143171586,
+  "created_at" : "2017-07-26 18:34:23 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3576,10 +3407,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811743074053484548",
-  "text" : "\"Making rations isn't hard. Making them taste decent is.\", he comments as he works, the smell wafting out of the kitchen.",
-  "id" : 811743074053484548,
-  "created_at" : "2016-12-22 01:20:04 +0000",
+  "id_str" : "890278912542081026",
+  "text" : "\"The damage is superficial at best. She'll pull through.\"",
+  "id" : 890278912542081026,
+  "created_at" : "2017-07-26 18:33:27 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3598,32 +3429,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811742677662367744",
-  "text" : "One of the recipe manuals from the guard sits near his work area. \"Apply small amounts of pepper ...\"",
-  "id" : 811742677662367744,
-  "created_at" : "2016-12-22 01:18:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811742042879590401",
-  "text" : "Today, the quartermaster is working in the primary kitchen, a bag or two of food on the counter.",
-  "id" : 811742042879590401,
-  "created_at" : "2016-12-22 01:15:59 +0000",
+  "id_str" : "890278620291379200",
+  "text" : "He hovers in the air, looking over the impacted wall from yesterday's dragon attack.",
+  "id" : 890278620291379200,
+  "created_at" : "2017-07-26 18:32:18 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3642,10 +3451,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811644453224005633",
-  "text" : "Considering said satchel is where he keeps spare bits, and is \/rather\/ small, he'd hope the birb isn't inside it.",
-  "id" : 811644453224005633,
-  "created_at" : "2016-12-21 18:48:11 +0000",
+  "id_str" : "890077676047925248",
+  "text" : "The pegasus quietly walks down the tree castle hallways near the residential area, carrying a glass of cold water with him.",
+  "id" : 890077676047925248,
+  "created_at" : "2017-07-26 05:13:49 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3664,10 +3473,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811639748418740224",
-  "text" : "He grabs a satchel and heads out to the local market for some reason, today.",
-  "id" : 811639748418740224,
-  "created_at" : "2016-12-21 18:29:30 +0000",
+  "id_str" : "890064542524485632",
+  "text" : "\"I'm getting too old for this manure.\"",
+  "id" : 890064542524485632,
+  "created_at" : "2017-07-26 04:21:38 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3686,10 +3495,38 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811632742446329856",
-  "text" : "He nods and walks out, letting her work.",
-  "id" : 811632742446329856,
-  "created_at" : "2016-12-21 18:01:39 +0000",
+  "id_str" : "890064479479889921",
+  "text" : "He walks to the fridge and opens it slowly, pulling out some ice.",
+  "id" : 890064479479889921,
+  "created_at" : "2017-07-26 04:21:23 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twibot Sparker",
+      "screen_name" : "mlp_Twibot",
+      "indices" : [ 11, 22 ],
+      "id_str" : "398109064",
+      "id" : 398109064
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890063463564836864",
+  "text" : "He nods to @mlp_Twibot. \"... Evening.\"",
+  "id" : 890063463564836864,
+  "created_at" : "2017-07-26 04:17:20 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3708,10 +3545,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811632244834074624",
-  "text" : "He laughs a bit. \"Not at all, in fact the cookies don't look half bad.\"",
-  "id" : 811632244834074624,
-  "created_at" : "2016-12-21 17:59:41 +0000",
+  "id_str" : "890060727196712960",
+  "text" : "He then breaks down the dirty cardboard figure and throws it into the trash, soon heading for the kitchen of the tree castle.",
+  "id" : 890060727196712960,
+  "created_at" : "2017-07-26 04:06:28 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3730,54 +3567,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811631934208147457",
-  "text" : "\"Who are you, and what have you done with the golem princess?\"",
-  "id" : 811631934208147457,
-  "created_at" : "2016-12-21 17:58:27 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811631254810587137",
-  "text" : "The stallion blinks at the golem princess and her cooking proficiency, a bit shocked.",
-  "id" : 811631254810587137,
-  "created_at" : "2016-12-21 17:55:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811629562526388224",
-  "text" : "\/\/ [starts to open his mouth, promptly closes it]",
-  "id" : 811629562526388224,
-  "created_at" : "2016-12-21 17:49:01 +0000",
+  "id_str" : "890059391726215168",
+  "text" : "He pulls out the horribly mangled cardboard cut out from the garden, and drags it inside the tree castle.",
+  "id" : 890059391726215168,
+  "created_at" : "2017-07-26 04:01:10 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3796,10 +3589,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811388224719519744",
-  "text" : "\"Eh, I'll figure something else out.\"",
-  "id" : 811388224719519744,
-  "created_at" : "2016-12-21 01:50:02 +0000",
+  "id_str" : "890033733893595136",
+  "text" : "His cardboard cut out rests, halfway in the ground, somewhere in Spike's garden.",
+  "id" : 890033733893595136,
+  "created_at" : "2017-07-26 02:19:12 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3818,10 +3611,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811387204274651136",
-  "text" : "\"That, or offer a palate cleanser from Celestia's kitchen.\"",
-  "id" : 811387204274651136,
-  "created_at" : "2016-12-21 01:45:59 +0000",
+  "id_str" : "890014299590098944",
+  "text" : "A sudden cloudburst, and then a diving cardboard cut out of the pegasus falls to the ground.",
+  "id" : 890014299590098944,
+  "created_at" : "2017-07-26 01:01:59 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3840,10 +3633,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811386892243664897",
-  "text" : "\"A difficult balance to achieve, really.\"",
-  "id" : 811386892243664897,
-  "created_at" : "2016-12-21 01:44:44 +0000",
+  "id_str" : "890013459957600260",
+  "text" : "\"This isn't making a lick of sense.\"",
+  "id" : 890013459957600260,
+  "created_at" : "2017-07-26 00:58:39 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3862,10 +3655,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811386668053917696",
-  "text" : "\"The idea for military style rations is to make them edible, but also last long enough to survive whatever trip they are on.\"",
-  "id" : 811386668053917696,
-  "created_at" : "2016-12-21 01:43:51 +0000",
+  "id_str" : "890012916598132740",
+  "text" : "\"Redwing to Canterlot Dispatch, get me in touch with the accountants office. Yesterday.\"",
+  "id" : 890012916598132740,
+  "created_at" : "2017-07-26 00:56:29 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3884,10 +3677,120 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811385731847520256",
-  "text" : "\"I'll think of something.\"",
-  "id" : 811385731847520256,
-  "created_at" : "2016-12-21 01:40:07 +0000",
+  "id_str" : "890012114659811328",
+  "text" : "\"Peace Prize?\", he wonders.",
+  "id" : 890012114659811328,
+  "created_at" : "2017-07-26 00:53:18 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890011583149199360",
+  "text" : "\"I'd love to know what set him off.\"",
+  "id" : 890011583149199360,
+  "created_at" : "2017-07-26 00:51:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890010812680720384",
+  "text" : "\"What. The. Buck.\"",
+  "id" : 890010812680720384,
+  "created_at" : "2017-07-26 00:48:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890010560779210753",
+  "text" : "He glides toward the roof, his iced tea has spilled and drips downward.",
+  "id" : 890010560779210753,
+  "created_at" : "2017-07-26 00:47:07 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890009925417611264",
+  "text" : "He hears radio chatter.\n\"Not now, 72nd Platoon, issues at home.\"",
+  "id" : 890009925417611264,
+  "created_at" : "2017-07-26 00:44:36 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890008824144420866",
+  "text" : "He seems to try and yell loud enough for the dragon to hear him.\n\n\"WHAT HAS CAUSED SUCH A TEMPER TANTRUM?\"",
+  "id" : 890008824144420866,
+  "created_at" : "2017-07-26 00:40:13 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3901,21 +3804,21 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Friendship Guard",
-      "screen_name" : "mlp_FriendGuard",
-      "indices" : [ 87, 103 ],
-      "id_str" : "3059690825",
-      "id" : 3059690825
+      "name" : "Red Dragon",
+      "screen_name" : "mlp_reddragon",
+      "indices" : [ 72, 86 ],
+      "id_str" : "272688547",
+      "id" : 272688547
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811385535130374148",
-  "text" : "\"Homemade Rations are slightly better than what they give out, but apparently even the @mlp_FriendGuard hate half of them.\"",
-  "id" : 811385535130374148,
-  "created_at" : "2016-12-21 01:39:21 +0000",
+  "id_str" : "890007991734480899",
+  "text" : "The pegasus narrowly avoids incoming cake and spins around, heading for @mlp_reddragon's ear. For some reason.",
+  "id" : 890007991734480899,
+  "created_at" : "2017-07-26 00:36:55 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3934,10 +3837,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811385148298162176",
-  "text" : "He's been in contact with one of the high ranking generals about the ration problem in general, and trying experimental changes.",
-  "id" : 811385148298162176,
-  "created_at" : "2016-12-21 01:37:48 +0000",
+  "id_str" : "890007271270383616",
+  "text" : "He takes off, heading directly for the dragon's head.",
+  "id" : 890007271270383616,
+  "created_at" : "2017-07-26 00:34:03 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3956,10 +3859,3517 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811383996798091265",
-  "text" : "He sends some official looking letters toward the R&amp;D of the Day Castle, re: Ration recipes.",
-  "id" : 811383996798091265,
-  "created_at" : "2016-12-21 01:33:14 +0000",
+  "id_str" : "890006766645370880",
+  "text" : "He leans back against the roof and prepares to take off.",
+  "id" : 890006766645370880,
+  "created_at" : "2017-07-26 00:32:03 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890005947988553728",
+  "text" : "He looks mad and considers intervening.",
+  "id" : 890005947988553728,
+  "created_at" : "2017-07-26 00:28:48 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Wonderbolts",
+      "screen_name" : "MLP_Wonderbolts",
+      "indices" : [ 13, 29 ],
+      "id_str" : "274324281",
+      "id" : 274324281
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890005455040393218",
+  "text" : "\"Understood, @MLP_Wonderbolts, though I didn't mention Sunbutt. Starbutt temporarily has her seat. She needs notified.\"",
+  "id" : 890005455040393218,
+  "created_at" : "2017-07-26 00:26:50 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890004733297135618",
+  "text" : "\"That is A-Firm, Wonderbolt HQ, dispatch requested under quartermaster authority in interm until Scholar wakes up.\"",
+  "id" : 890004733297135618,
+  "created_at" : "2017-07-26 00:23:58 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890003962803388416",
+  "text" : "He sits down, adjusting the headset's transmit power. \"Redwing to Canterlot Dispatch, Dragon rampage in progress.\"",
+  "id" : 890003962803388416,
+  "created_at" : "2017-07-26 00:20:54 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890002784459927556",
+  "text" : "He catches sight of the dragon's attack.\n\n\"Someone's getting the Irony prize.\"",
+  "id" : 890002784459927556,
+  "created_at" : "2017-07-26 00:16:13 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890002393680760832",
+  "text" : "\"... Now what.\", the pegasus comments while on the tree castle roof.",
+  "id" : 890002393680760832,
+  "created_at" : "2017-07-26 00:14:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889919036045262849",
+  "text" : "He continues to drink from the tea glass, taking in the sun.",
+  "id" : 889919036045262849,
+  "created_at" : "2017-07-25 18:43:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889882115273355268",
+  "text" : "He rests on the tree castle roof, iced tea next to him.\n\"A wonderful day, all things considered.\"",
+  "id" : 889882115273355268,
+  "created_at" : "2017-07-25 16:16:44 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889742586054922240",
+  "text" : "He exits the tree castle, gliding in the distance toward his humble home.",
+  "id" : 889742586054922240,
+  "created_at" : "2017-07-25 07:02:17 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889727957979328512",
+  "text" : "\"Yes! 95% HQ craft.\"",
+  "id" : 889727957979328512,
+  "created_at" : "2017-07-25 06:04:10 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889707818282090496",
+  "text" : "\"Might as well continue playing that game that I was playing last year.\"",
+  "id" : 889707818282090496,
+  "created_at" : "2017-07-25 04:44:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889707700245987328",
+  "text" : "The stallion yawns and pulls out some sort of handheld device.",
+  "id" : 889707700245987328,
+  "created_at" : "2017-07-25 04:43:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889695983352860672",
+  "text" : "The stallion arrives in the library room, with a thermos of iced tea on a strap, taking a seat in a comfy chair.",
+  "id" : 889695983352860672,
+  "created_at" : "2017-07-25 03:57:06 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889591908233883650",
+  "text" : "He seems to be in his office, per usual, a chilled starfait rests on his desk, half eaten.",
+  "id" : 889591908233883650,
+  "created_at" : "2017-07-24 21:03:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889314605176160256",
+  "text" : "\"Sure. Have a good evening.\"",
+  "id" : 889314605176160256,
+  "created_at" : "2017-07-24 02:41:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889313047357120512",
+  "text" : "\"Not my thing, really.\"",
+  "id" : 889313047357120512,
+  "created_at" : "2017-07-24 02:35:27 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889311564515479553",
+  "text" : "\"Well, try not to do so when I'm around. That's something I don't really want to watch.\", he shudders and grabs one of the starfaits.",
+  "id" : 889311564515479553,
+  "created_at" : "2017-07-24 02:29:34 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889311056056786945",
+  "text" : "\"Yeah, that one. ... he's nuts.\"",
+  "id" : 889311056056786945,
+  "created_at" : "2017-07-24 02:27:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889310298959740928",
+  "text" : "\"Not quite as squishy as you think. Some of us actually work out, after all.\"",
+  "id" : 889310298959740928,
+  "created_at" : "2017-07-24 02:24:32 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889310002879582208",
+  "text" : "\"It can, but pony physiology differs a bit, so we can't eat nearly as much.\"",
+  "id" : 889310002879582208,
+  "created_at" : "2017-07-24 02:23:21 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889309372823875586",
+  "text" : "\"I suppose so. There is something to be said about being too much of a good thing.\"",
+  "id" : 889309372823875586,
+  "created_at" : "2017-07-24 02:20:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889308985534369792",
+  "text" : "\"That's just overabundance.\"",
+  "id" : 889308985534369792,
+  "created_at" : "2017-07-24 02:19:19 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889308666662453249",
+  "text" : "\"They do. Legend has it that one Starfait can give a pony a temporary feeling of being in the air.\"",
+  "id" : 889308666662453249,
+  "created_at" : "2017-07-24 02:18:03 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889306489608957954",
+  "text" : "He applies stardust to the parfaits, and looks over the work.",
+  "id" : 889306489608957954,
+  "created_at" : "2017-07-24 02:09:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889303072580792324",
+  "text" : "\"Surprising, isn't it?\", he quips as he uncorks the bottle of stardust.",
+  "id" : 889303072580792324,
+  "created_at" : "2017-07-24 01:55:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889301701601230850",
+  "text" : "\"I'm not that big of a fan of it, either.\"",
+  "id" : 889301701601230850,
+  "created_at" : "2017-07-24 01:50:22 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889300961012969472",
+  "text" : "\"Not sure what to tell you there.\"",
+  "id" : 889300961012969472,
+  "created_at" : "2017-07-24 01:47:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889300329203945474",
+  "text" : "\"Not really, but Spike shouldn't have all the kitchen fun.\"",
+  "id" : 889300329203945474,
+  "created_at" : "2017-07-24 01:44:55 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889299639471616000",
+  "text" : "\"Various reasons, most of which involve occasional dignitary culinary ... fun.\"",
+  "id" : 889299639471616000,
+  "created_at" : "2017-07-24 01:42:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889298338738311168",
+  "text" : "\"I suppose.\", he comments as various chopped up fruits start to be filled into glasses.",
+  "id" : 889298338738311168,
+  "created_at" : "2017-07-24 01:37:00 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889297712285446144",
+  "text" : "\"... eh.\"",
+  "id" : 889297712285446144,
+  "created_at" : "2017-07-24 01:34:31 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889294769838534656",
+  "text" : "\"You get used to it after a while.\"",
+  "id" : 889294769838534656,
+  "created_at" : "2017-07-24 01:22:50 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889294162423623680",
+  "text" : "\"Well, to be fair, you are a stranger in a strange land. It's to be expected.\"",
+  "id" : 889294162423623680,
+  "created_at" : "2017-07-24 01:20:25 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889292007897739265",
+  "text" : "\"Apparently it's been something of a new thing in Canterlot.\"",
+  "id" : 889292007897739265,
+  "created_at" : "2017-07-24 01:11:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889289963883376641",
+  "text" : "\"Thankfully, Starfaits are relatively simple to make, just not cheap. Basically a fruity parfait with stardust topping.\"",
+  "id" : 889289963883376641,
+  "created_at" : "2017-07-24 01:03:44 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889288717642420224",
+  "text" : "\"Nah, I just need a spare pair of claws.\"",
+  "id" : 889288717642420224,
+  "created_at" : "2017-07-24 00:58:47 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889286164590362624",
+  "text" : "\"You can have the rest of the first batch if you help me with the second.\", he replies.",
+  "id" : 889286164590362624,
+  "created_at" : "2017-07-24 00:48:38 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Princess Ember",
+      "screen_name" : "mlp_EmberTorch",
+      "indices" : [ 20, 35 ],
+      "id_str" : "721376513212489732",
+      "id" : 721376513212489732
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889285361670795264",
+  "text" : "He looks around for @mlp_EmberTorch while setting up the raw ingredients for the second batch. \"Princess, are you around, still?\"",
+  "id" : 889285361670795264,
+  "created_at" : "2017-07-24 00:45:27 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889280622203740160",
+  "text" : "He sighs and goes to pull out more of the rare stardust from storage. \"Guess I'll get started on a new batch.\"",
+  "id" : 889280622203740160,
+  "created_at" : "2017-07-24 00:26:37 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889280019608076291",
+  "text" : "\"I appreciate the compliment, but half the batch is gone!\"",
+  "id" : 889280019608076291,
+  "created_at" : "2017-07-24 00:24:13 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889279761951936512",
+  "text" : "He frowns at the dragon princess.",
+  "id" : 889279761951936512,
+  "created_at" : "2017-07-24 00:23:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889279428169277442",
+  "text" : "He sighs and goes back to the remains of the starfait batch.",
+  "id" : 889279428169277442,
+  "created_at" : "2017-07-24 00:21:52 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889278134918557697",
+  "text" : "He turns off the transmit functionality.\n\n\"That's not how the mail services work. Mail doesn't arrive over transmittable channels.\"",
+  "id" : 889278134918557697,
+  "created_at" : "2017-07-24 00:16:44 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889276919853846528",
+  "text" : "\"... I try. Though, why are you using this frequency?\", he wonders.",
+  "id" : 889276919853846528,
+  "created_at" : "2017-07-24 00:11:54 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889276167773138945",
+  "text" : "\"Why, yes. I'm speaking.\", he adjusts the headset a bit.",
+  "id" : 889276167773138945,
+  "created_at" : "2017-07-24 00:08:55 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889275600241926144",
+  "text" : "He's oddly calm. \"What is or was the problem?\"",
+  "id" : 889275600241926144,
+  "created_at" : "2017-07-24 00:06:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889274871624159232",
+  "text" : "\"Yeah. How is it on your end.\"",
+  "id" : 889274871624159232,
+  "created_at" : "2017-07-24 00:03:45 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889274312733184000",
+  "text" : "\"I have to pay a premium for the stardust used in them.\", he grumbles as she munches.",
+  "id" : 889274312733184000,
+  "created_at" : "2017-07-24 00:01:32 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889273742190411776",
+  "text" : "He idly looks toward the dragon princess. \"Don't eat all of them.\"",
+  "id" : 889273742190411776,
+  "created_at" : "2017-07-23 23:59:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889273375490793473",
+  "text" : "\"Only temporarily.\", he comments.",
+  "id" : 889273375490793473,
+  "created_at" : "2017-07-23 23:57:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889272995407171585",
+  "text" : "A devious thought crosses his mind. \"Unplug and replug the receiver crystal. That should fix it.\"",
+  "id" : 889272995407171585,
+  "created_at" : "2017-07-23 23:56:18 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889272349589155840",
+  "text" : "He sighs and sits down. \"Have you tried turning it on and off again?\"",
+  "id" : 889272349589155840,
+  "created_at" : "2017-07-23 23:53:44 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889271316456632320",
+  "text" : "\"Line 3, was it?\", a bit of tuning and he broadcasts. \"Report.\"",
+  "id" : 889271316456632320,
+  "created_at" : "2017-07-23 23:49:38 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889271122788843520",
+  "text" : "\"I don't even want to know.\", he comments as the dragon disappears, putting on his headset.",
+  "id" : 889271122788843520,
+  "created_at" : "2017-07-23 23:48:52 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889270593702572032",
+  "text" : "\"... what.\"",
+  "id" : 889270593702572032,
+  "created_at" : "2017-07-23 23:46:46 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889270523196170241",
+  "text" : "\"Haven't made these in a while.\"",
+  "id" : 889270523196170241,
+  "created_at" : "2017-07-23 23:46:29 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889270249547329537",
+  "text" : "He naturally goes for the fridge and pulls it out, topping the desserts, a dozen Starfaits.",
+  "id" : 889270249547329537,
+  "created_at" : "2017-07-23 23:45:23 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889269195220930560",
+  "text" : "As he works, he looks briefly at the dragon. \"Do we have any vanilla cream left?\"",
+  "id" : 889269195220930560,
+  "created_at" : "2017-07-23 23:41:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889265360054177792",
+  "text" : "He rests in the kitchen, working on a batch of the rare Starfaits.",
+  "id" : 889265360054177792,
+  "created_at" : "2017-07-23 23:25:58 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889212353258147840",
+  "text" : "\"In any case, that was it, Twibot. A taste of the depths of my crazy mind.\"",
+  "id" : 889212353258147840,
+  "created_at" : "2017-07-23 19:55:20 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889206572383129602",
+  "text" : "He briefly turns to the gem. \"Though I suppose, in a pinch, anything's possible.\"",
+  "id" : 889206572383129602,
+  "created_at" : "2017-07-23 19:32:22 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889206004482748417",
+  "text" : "\"... then my only request if it comes to pass is that I get the Forgemaster title instead, as Princess Grumphammer is silly sounding.\"",
+  "id" : 889206004482748417,
+  "created_at" : "2017-07-23 19:30:06 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889205526294409218",
+  "text" : "\"It really is, isn't it.\"",
+  "id" : 889205526294409218,
+  "created_at" : "2017-07-23 19:28:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889205096973836289",
+  "text" : "He starts to open his mouth, and then walks to his desk, sitting down on it, opening it again, and then closing it.",
+  "id" : 889205096973836289,
+  "created_at" : "2017-07-23 19:26:30 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889203805828648960",
+  "text" : "\"I'm \/definitely\/ not cut out to lead any sort of country, and I'm better off serving it with my talents.\"",
+  "id" : 889203805828648960,
+  "created_at" : "2017-07-23 19:21:22 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889203642535903232",
+  "text" : "\"... even if you don't leave much information as to where you move to? What good is a blacksmith with a much larger mana pool going to do?\"",
+  "id" : 889203642535903232,
+  "created_at" : "2017-07-23 19:20:43 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889197892367417345",
+  "text" : "\"Hiding in plain sight, only a few, including the usual folk here would know where I'd end up. Doing what I do best as a blacksmith.\"",
+  "id" : 889197892367417345,
+  "created_at" : "2017-07-23 18:57:52 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889197554025590787",
+  "text" : "\"That assumes that I would be anywhere near the royal family. I always figured that I'd just secret myself away somewhere hidden.\"",
+  "id" : 889197554025590787,
+  "created_at" : "2017-07-23 18:56:32 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889195689720336384",
+  "text" : "\"See, one of my retirement plans had entertained the thought that I somehow ascended in some sort of way.\"",
+  "id" : 889195689720336384,
+  "created_at" : "2017-07-23 18:49:07 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889195455971815424",
+  "text" : "\"Yeah, they just see it as part of the headgear, and that's what it is, more or less, a fairly big antenna.\", he then pulls out a folder.",
+  "id" : 889195455971815424,
+  "created_at" : "2017-07-23 18:48:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889193712626040832",
+  "text" : "\"... what madness would that create, and would the community even notice?\"",
+  "id" : 889193712626040832,
+  "created_at" : "2017-07-23 18:41:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889193603502878720",
+  "text" : "\"I've been thinking about the yearly jaunts into-\", he coughs, \"Princesshood. If that somehow happened on a permanent basis, ...\"",
+  "id" : 889193603502878720,
+  "created_at" : "2017-07-23 18:40:50 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889192223090372608",
+  "text" : "\"There was one other thing, though, princess.\"",
+  "id" : 889192223090372608,
+  "created_at" : "2017-07-23 18:35:21 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889191742678999040",
+  "text" : "\"Yeah, though the ruby is designed so that if the stored mana is needed, it can be destroyed in a hurry.\", he then walks to the window.",
+  "id" : 889191742678999040,
+  "created_at" : "2017-07-23 18:33:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889188740475867136",
+  "text" : "\"... so, yeah, I went through all that for a battery for what's basically an experimental air conditioner.\"",
+  "id" : 889188740475867136,
+  "created_at" : "2017-07-23 18:21:30 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889186290872320001",
+  "text" : "Sure enough, the office starts to cool down passively to a set level, indicated by a knob near the on switch.",
+  "id" : 889186290872320001,
+  "created_at" : "2017-07-23 18:11:46 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889186180369195012",
+  "text" : "\"From what I was told, this is a new type of machinery that the armory developed to help with extreme heat, indoors.\"",
+  "id" : 889186180369195012,
+  "created_at" : "2017-07-23 18:11:20 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889185985724022785",
+  "text" : "He cautiously plugs the ruby into a specific spot on the box, and switches it to on, and the machinery hums to life slowly.",
+  "id" : 889185985724022785,
+  "created_at" : "2017-07-23 18:10:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889185391542140928",
+  "text" : "\"For now? ... this.\", he then gets up and moves toward the big box occupying a chunk of the office windows. \"I hope this is worth it.\"",
+  "id" : 889185391542140928,
+  "created_at" : "2017-07-23 18:08:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889184374247354368",
+  "text" : "\"So, I've basically created a partially charged mana battery.\"",
+  "id" : 889184374247354368,
+  "created_at" : "2017-07-23 18:04:09 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889183212597121026",
+  "text" : "\"Basically stored it all in this little thing.\", he sets the ruby down on the desk.",
+  "id" : 889183212597121026,
+  "created_at" : "2017-07-23 17:59:32 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889183088529604608",
+  "text" : "\"I broke them down to their basic mana level, so that I removed the impurities that the curse usually imbues, and then ...\"",
+  "id" : 889183088529604608,
+  "created_at" : "2017-07-23 17:59:03 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889182693002547202",
+  "text" : "\"So, a while back, I managed to convince a few ponies to send me the remains of a few of those amulets that were supposed to be destroyed.\"",
+  "id" : 889182693002547202,
+  "created_at" : "2017-07-23 17:57:28 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889182536294965248",
+  "text" : "As they enter the office, a rather large box has been setup just inside one of his windows, with several metal folds on it.",
+  "id" : 889182536294965248,
+  "created_at" : "2017-07-23 17:56:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889181204716584960",
+  "text" : "He casually shows Twibot the sparkling ruby with his cutiemark etched on it, and then opens the door to his office. \"Follow me.\"",
+  "id" : 889181204716584960,
+  "created_at" : "2017-07-23 17:51:34 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889176041176141824",
+  "text" : "He seems to be almost cackling maniacally. Which is really off the wall for a pegasus like this. What did he accomplish?",
+  "id" : 889176041176141824,
+  "created_at" : "2017-07-23 17:31:02 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889174418391535616",
+  "text" : "He clutches the shining gem with him as he walks, heading towards the tree castle, having met his goal.",
+  "id" : 889174418391535616,
+  "created_at" : "2017-07-23 17:24:36 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889174138677538816",
+  "text" : "The resulting smoke and flame is almost immediately put out by a planned localized rain, and he coughs, walking out, covered in soot.",
+  "id" : 889174138677538816,
+  "created_at" : "2017-07-23 17:23:29 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889171054085775360",
+  "text" : "Out of nowhere, he calls down a streak of lightning into the home's roof.",
+  "id" : 889171054085775360,
+  "created_at" : "2017-07-23 17:11:13 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889168436500344838",
+  "text" : "\"This had better be worth all this effort.\", he comments mid-concentration.",
+  "id" : 889168436500344838,
+  "created_at" : "2017-07-23 17:00:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889167900791255040",
+  "text" : "In fact, the only thing left of them is the collar parts, the main parts appear to have been completely shattered.",
+  "id" : 889167900791255040,
+  "created_at" : "2017-07-23 16:58:42 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889167640400461826",
+  "text" : "The remains of three significantly damaged alicorn amulets rest in the corner. The stored power has long since been released in them.",
+  "id" : 889167640400461826,
+  "created_at" : "2017-07-23 16:57:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889167290117369857",
+  "text" : "Whatever he's doing, it appears to be working as amounts of magical energy seem to be pulled into the ruby, which it itself glows slowly.",
+  "id" : 889167290117369857,
+  "created_at" : "2017-07-23 16:56:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889166620756762628",
+  "text" : "Then again, who would go outside, wearing a ridiculous cloak, mostly in purple with red accents.\n\nThe etched ruby sits on the floor.",
+  "id" : 889166620756762628,
+  "created_at" : "2017-07-23 16:53:36 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sunburst",
+      "screen_name" : "mlp_SunburstS",
+      "indices" : [ 53, 67 ],
+      "id_str" : "713760485737410560",
+      "id" : 713760485737410560
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889165865807204352",
+  "text" : "The stallion is inside, in an outfit that would make @mlp_SunburstS laugh. He's attempting more traditional spell casting.",
+  "id" : 889165865807204352,
+  "created_at" : "2017-07-23 16:50:36 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "889165493256560642",
+  "text" : "A home that appears abandoned in Ponyville seems to have it's door open, and strange lights seem to emminate from it.",
+  "id" : 889165493256560642,
+  "created_at" : "2017-07-23 16:49:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888946252737597442",
+  "text" : "He continues his walk, the gem carried in a protective locked case, the only thing special about it is the imprint of his own mark.",
+  "id" : 888946252737597442,
+  "created_at" : "2017-07-23 02:17:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888943765649580032",
+  "text" : "The only thing he has with him is a specifically cut ruby.",
+  "id" : 888943765649580032,
+  "created_at" : "2017-07-23 02:08:04 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888942019128819713",
+  "text" : "The stallion walks out of the tree castle, he has a serious look on his face. The kind that hasn't been seen in years.",
+  "id" : 888942019128819713,
+  "created_at" : "2017-07-23 02:01:07 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888888487298183169",
+  "text" : "He naturally, doesn't expect to get any sort of answer for weeks, given how this sort of paperwork plays out.",
+  "id" : 888888487298183169,
+  "created_at" : "2017-07-22 22:28:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CLOUDSDALE WEATHER FACTORY",
+      "screen_name" : "CWF_Report",
+      "indices" : [ 39, 50 ],
+      "id_str" : "897642889",
+      "id" : 897642889
+    }, {
+      "name" : "Twilight Sparkle",
+      "screen_name" : "mlp_Twilight",
+      "indices" : [ 112, 125 ],
+      "id_str" : "258925492",
+      "id" : 258925492
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888888363960459264",
+  "text" : "A bundle of paperwork larger than even @CWF_Report usually puts out is mailed off to Canterlot's Day Castle, to @mlp_Twilight herself.",
+  "id" : 888888363960459264,
+  "created_at" : "2017-07-22 22:27:55 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888884048323629057",
+  "text" : "\"I suppose I should send the paperwork for the title request through the usual ponies, just to see if they'll accept it.\"",
+  "id" : 888884048323629057,
+  "created_at" : "2017-07-22 22:10:46 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888882676907769856",
+  "text" : "\"At the very least, if such a thing happened, I can name one mare that I would have at my side in an instant.\", he comments, sighing.",
+  "id" : 888882676907769856,
+  "created_at" : "2017-07-22 22:05:19 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888880719983980545",
+  "text" : "\"... and then the community would tar and feather me.\"",
+  "id" : 888880719983980545,
+  "created_at" : "2017-07-22 21:57:32 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888880491432218624",
+  "text" : "\"Honestly, at this point, I'm just missing the horn and requisite magical power complement.\"",
+  "id" : 888880491432218624,
+  "created_at" : "2017-07-22 21:56:38 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888879235947016193",
+  "text" : "\"... besides, who wants to be royalty? That usually has obligations attached to it.\"",
+  "id" : 888879235947016193,
+  "created_at" : "2017-07-22 21:51:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888878547129036802",
+  "text" : "\"I have to admit, it sounds better than Princess Grumphammer. \n\nForgemaster Starhammer of the Grand Library.\"",
+  "id" : 888878547129036802,
+  "created_at" : "2017-07-22 21:48:54 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888876370373337090",
+  "text" : "A book is opened, and he finds a reference.\n\n\"So, Forgemaster is a viable title.\"",
+  "id" : 888876370373337090,
+  "created_at" : "2017-07-22 21:40:15 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888868801273573376",
+  "text" : "\"When the flame and frost fight, calamity will give rise to purity.\"\n\nHe thinks for a moment.\n\n\"Who writes this drivel?\"",
+  "id" : 888868801273573376,
+  "created_at" : "2017-07-22 21:10:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888861494565363712",
+  "text" : "He finally forces himself off of the same chair and heads for his office, looking slightly less hot.",
+  "id" : 888861494565363712,
+  "created_at" : "2017-07-22 20:41:09 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888799417356226560",
+  "text" : "Sadly, even the heat resistant have physical limits, and thus, he continues to drink iced tea.",
+  "id" : 888799417356226560,
+  "created_at" : "2017-07-22 16:34:28 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888797776229920768",
+  "text" : "The quartermaster is in the castle commons, cooling off. The heat is rather high today.",
+  "id" : 888797776229920768,
+  "created_at" : "2017-07-22 16:27:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888557808823697408",
+  "text" : "\"So, apparently one can't just create a title out of thin air.\"",
+  "id" : 888557808823697408,
+  "created_at" : "2017-07-22 00:34:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888557007170678786",
+  "text" : "He looks over the records sent to him from two years ago regarding a specific inquiry.\n\n\"Okay, this didn't pan out as expected.\"",
+  "id" : 888557007170678786,
+  "created_at" : "2017-07-22 00:31:13 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Plotline",
+      "screen_name" : "mlp_Plotline",
+      "indices" : [ 60, 73 ],
+      "id_str" : "633232805",
+      "id" : 633232805
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888469577113505792",
+  "text" : "He sends a birthday card with a bag of caramel candy to the @mlp_Plotline residence.",
+  "id" : 888469577113505792,
+  "created_at" : "2017-07-21 18:43:48 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888456077322354688",
+  "text" : "Meanwhile, a set of paperwork that was filed a good two years ago, finally makes it way back to his office.",
+  "id" : 888456077322354688,
+  "created_at" : "2017-07-21 17:50:10 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888455710148841473",
+  "text" : "The probably red pegaplush would shrug if it could.",
+  "id" : 888455710148841473,
+  "created_at" : "2017-07-21 17:48:42 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "888439768157126656",
+  "text" : "He should definitely pay a visit to his ... ahem, queen.",
+  "id" : 888439768157126656,
+  "created_at" : "2017-07-21 16:45:21 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887937212029054979",
+  "text" : "\"... I need to get this thing adjusted again.\", he comments as he sweeps.",
+  "id" : 887937212029054979,
+  "created_at" : "2017-07-20 07:28:23 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887936760491147264",
+  "text" : "A few seconds of shifting his head to shake the cobwebs loose, and he grabs a broom to do some quick clean up before bed.",
+  "id" : 887936760491147264,
+  "created_at" : "2017-07-20 07:26:35 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887936507432095745",
+  "text" : "For a brief moment, he ... feels an extension of his own body push through the headset, but then the concentration breaks.",
+  "id" : 887936507432095745,
+  "created_at" : "2017-07-20 07:25:35 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887935834346987521",
+  "text" : "He then stops moving and closes his eyes, trying to push out his willpower outward. The brown sparks increase in activity.",
+  "id" : 887935834346987521,
+  "created_at" : "2017-07-20 07:22:54 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887935551520858112",
+  "text" : "He then sighs and heads for a broom, the purple sparking of the horn changing in color to brown, reflecting his own nature. \"Hmmm.\"",
+  "id" : 887935551520858112,
+  "created_at" : "2017-07-20 07:21:47 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887934963097755648",
+  "text" : "He merely bows to her. \"Don't let Wintertide know about that, she'd never let me hear the end of it.\"",
+  "id" : 887934963097755648,
+  "created_at" : "2017-07-20 07:19:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887934429066395648",
+  "text" : "\"Anyway, yeah, I'll clean this up.\"",
+  "id" : 887934429066395648,
+  "created_at" : "2017-07-20 07:17:19 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887933946780110852",
+  "text" : "He nods to her. \"This would be brief, anyway. I think what happened is the magical equivalent to radio interference.\"",
+  "id" : 887933946780110852,
+  "created_at" : "2017-07-20 07:15:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887932761138487296",
+  "text" : "\"Only for a few moments. I felt something while you casted it.\", he then taps the horn antenna which gives off small purple sparks.",
+  "id" : 887932761138487296,
+  "created_at" : "2017-07-20 07:10:41 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887931917856899072",
+  "text" : "\"A wise idea. He's probably incredibly good at it.\", he then walks up to the rune circle remains.",
+  "id" : 887931917856899072,
+  "created_at" : "2017-07-20 07:07:20 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887931195627065344",
+  "text" : "He sighs and climbs out of the chair, grabbing a box of cloth towels, walking toward Twilight. \"Didn't work as advertised?\"",
+  "id" : 887931195627065344,
+  "created_at" : "2017-07-20 07:04:28 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887930786300780544",
+  "text" : "\"A passing interest in enchanting goes well with the blacksmithing trade.\"",
+  "id" : 887930786300780544,
+  "created_at" : "2017-07-20 07:02:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887930685226450944",
+  "text" : "\"I know one such pegasus that has actually successfully done that in Cloudsdale, but not myself. I have inscribed runes, though.\"",
+  "id" : 887930685226450944,
+  "created_at" : "2017-07-20 07:02:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887930336629469185",
+  "text" : "\"Not to dampen your enthusiasm, Twilight, but does it taste like Kale or papyrus?\"",
+  "id" : 887930336629469185,
+  "created_at" : "2017-07-20 07:01:03 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887929982990864384",
+  "text" : "\"Runes aren't a unicorn specific school, though. Just a means to an end, really.\"",
+  "id" : 887929982990864384,
+  "created_at" : "2017-07-20 06:59:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887929853785276416",
+  "text" : "\"As opposed to pegasus magic, which is more steeped in subconscious thought in my experience. ... well, usually.\"",
+  "id" : 887929853785276416,
+  "created_at" : "2017-07-20 06:59:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887928716529205248",
+  "text" : "\"... well, one of them, I gather.\"",
+  "id" : 887928716529205248,
+  "created_at" : "2017-07-20 06:54:37 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887928632416624640",
+  "text" : "\"Hmm.\", he continues to watch, recalling some of what he was taught.\n\n\"Magic's foundational principle is that it's based on emotion.\"",
+  "id" : 887928632416624640,
+  "created_at" : "2017-07-20 06:54:17 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887927942311030785",
+  "text" : "He starts to climb up a bit on the chair, adjusting the headset, the horn antenna picking up small amounts of the spell Twilight is casting.",
+  "id" : 887927942311030785,
+  "created_at" : "2017-07-20 06:51:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887927166129905664",
+  "text" : "\"The regulators are rather delicate and react badly to certain types of magic. I tried to mess with it once as part of a magic theory class.",
+  "id" : 887927166129905664,
+  "created_at" : "2017-07-20 06:48:27 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887926884629188608",
+  "text" : "\"Then that's easy. The blenders have their own power settings. I believe you only need medium, or high if the kale is thick enough.\"",
+  "id" : 887926884629188608,
+  "created_at" : "2017-07-20 06:47:20 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887925962435940352",
+  "text" : "\"Now, first of all, do you mix the substance in a pitcher, by chance? Probably with a telekinesis spell?\", he thinks back to magic theory.",
+  "id" : 887925962435940352,
+  "created_at" : "2017-07-20 06:43:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887925205108129801",
+  "text" : "He thinks for a few minutes. \"I think I have a potential reason why, if you'd like to hear my theory out.\"",
+  "id" : 887925205108129801,
+  "created_at" : "2017-07-20 06:40:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887924454478819328",
+  "text" : "\"What did you do to horribly fail at it, I wonder, Twilight?\", he asks while adjusting the increasingly stupid looking headset of his.",
+  "id" : 887924454478819328,
+  "created_at" : "2017-07-20 06:37:41 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887924266024529920",
+  "text" : "He sighs. \"I'm by no means an expert cook or anything, but I thought you just blend kale with some sort of milkshake like product.\"",
+  "id" : 887924266024529920,
+  "created_at" : "2017-07-20 06:36:56 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887923005548056576",
+  "text" : "\"Kale ... shakes? ... by Faust's feathers, even I can make that.\"",
+  "id" : 887923005548056576,
+  "created_at" : "2017-07-20 06:31:55 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887922025771270144",
+  "text" : "\"I second that.\"",
+  "id" : 887922025771270144,
+  "created_at" : "2017-07-20 06:28:02 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "887920586634272769",
+  "geo" : { },
+  "id_str" : "887921249128787968",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"Good to know.\", his ears then flinch.",
+  "id" : 887921249128787968,
+  "in_reply_to_status_id" : 887920586634272769,
+  "created_at" : "2017-07-20 06:24:57 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "887919196029452290",
+  "geo" : { },
+  "id_str" : "887919498459836416",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi He nods to the dragon, while looking toward Twilight. \"Appreciate the update. Have you had any trouble with the translation so far?\"",
+  "id" : 887919498459836416,
+  "in_reply_to_status_id" : 887919196029452290,
+  "created_at" : "2017-07-20 06:17:59 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 106, 118 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887918811223142400",
+  "text" : "He responds in kind to the mirror princess, and actually gives Yaretzi a curious look. \"Good evening. Uh, @mlp_Yaretzi, any progress?\"",
+  "id" : 887918811223142400,
+  "created_at" : "2017-07-20 06:15:15 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887916764922863617",
+  "text" : "The stallion yawns and he leans forward, enjoying the quiet, though he knows it's probably all too brief.",
+  "id" : 887916764922863617,
+  "created_at" : "2017-07-20 06:07:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887906041727516674",
+  "text" : "He sits in the main library room, resting.",
+  "id" : 887906041727516674,
+  "created_at" : "2017-07-20 05:24:31 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "887174593773006848",
+  "geo" : { },
+  "id_str" : "887174713855926272",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul He nods and reaches for the book. \"You too.\"",
+  "id" : 887174713855926272,
+  "in_reply_to_status_id" : 887174593773006848,
+  "created_at" : "2017-07-18 04:58:29 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "887173024960716800",
+  "geo" : { },
+  "id_str" : "887173986928533505",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul \"Long story. Not one worth repeating.\"",
+  "id" : 887173986928533505,
+  "in_reply_to_status_id" : 887173024960716800,
+  "created_at" : "2017-07-18 04:55:36 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "887172578237976578",
+  "geo" : { },
+  "id_str" : "887172772195184641",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul \"I have a few other options for that, but thanks.\"",
+  "id" : 887172772195184641,
+  "in_reply_to_status_id" : 887172578237976578,
+  "created_at" : "2017-07-18 04:50:46 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887170677459083264",
+  "text" : "\"Just unusually tired, Brave. The last few days have not been kind to me.\"",
+  "id" : 887170677459083264,
+  "created_at" : "2017-07-18 04:42:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887169506136731649",
+  "text" : "He yawns and sits down in the Tree Castle library, looking a bit ragged. There's a tome of runes sitting near him.",
+  "id" : 887169506136731649,
+  "created_at" : "2017-07-18 04:37:47 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -3975,7 +7385,7 @@ Grailbird.data.tweets_2016_12 =
     "user_mentions" : [ {
       "name" : "Wintertide \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
-      "indices" : [ 29, 41 ],
+      "indices" : [ 31, 43 ],
       "id_str" : "788122955762896897",
       "id" : 788122955762896897
     } ],
@@ -3984,10 +7394,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811380783801888768",
-  "text" : "He gets out a response TB to @mlp_WinterT informing her that he'll be available on Saturday, but a family trip awaits him on Sunday.",
-  "id" : 811380783801888768,
-  "created_at" : "2016-12-21 01:20:28 +0000",
+  "id_str" : "887115024040439808",
+  "text" : "A boxed lunch waits inside for @mlp_WinterT.",
+  "id" : 887115024040439808,
+  "created_at" : "2017-07-18 01:01:18 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4006,10 +7416,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811380159077056515",
-  "text" : "A late supper in his office, the remains of some older ration attempts. There's a lot of spice to help with the taste.",
-  "id" : 811380159077056515,
-  "created_at" : "2016-12-21 01:17:59 +0000",
+  "id_str" : "887106781851389957",
+  "text" : "He decides on Prench and sits near the kitchen window, watching the skies above.",
+  "id" : 887106781851389957,
+  "created_at" : "2017-07-18 00:28:33 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4020,7 +7430,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4028,236 +7438,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811254677752913920",
-  "text" : "For some reason, he turns to look towards Canterlot, but only briefly.",
-  "id" : 811254677752913920,
-  "created_at" : "2016-12-20 16:59:22 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811251302126784512",
-  "text" : "He finishes the last of the purchase orders and sends them out. \"... that should last us till mid January, hopefully.\"",
-  "id" : 811251302126784512,
-  "created_at" : "2016-12-20 16:45:57 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811245893412384768",
-  "text" : "He's already up and awake, working on a pile of paperwork in the office. Mostly purchase orders today.",
-  "id" : 811245893412384768,
-  "created_at" : "2016-12-20 16:24:27 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811110355665649664",
-  "text" : "\"Nothing important. Just a bit of insurance.\"",
-  "id" : 811110355665649664,
-  "created_at" : "2016-12-20 07:25:53 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811103390705025024",
-  "text" : "\"As well as anyone who went through another dimension, I guess. I'll live, and move on. We made an agreement, anyway.\"",
-  "id" : 811103390705025024,
-  "created_at" : "2016-12-20 06:58:12 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811102057226706945",
-  "text" : "\"Based on what he told me, he caught her by surprise, and managed to damage her armor significantly, but little else.\"",
-  "id" : 811102057226706945,
-  "created_at" : "2016-12-20 06:52:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811099877425971200",
-  "text" : "\"Picture me with a spear and without any actual care for other ponies whatsoever. He even told me that he tried to attack Evilestia.\"",
-  "id" : 811099877425971200,
-  "created_at" : "2016-12-20 06:44:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811099629513244672",
-  "text" : "\"It's not the worst that I've ever done. You should have seen Darkhammer, though. You want to see me scary, that's him.\"",
-  "id" : 811099629513244672,
-  "created_at" : "2016-12-20 06:43:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Evil Guard",
-      "screen_name" : "mlp_EvilGuard",
-      "indices" : [ 31, 45 ],
-      "id_str" : "728204739511525378",
-      "id" : 728204739511525378
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811091906105110528",
-  "text" : "\"Just on a hunch, probably the @mlp_EvilGuard that was around a few days ago. I followed to the dimension on a hunch.\"",
-  "id" : 811091906105110528,
-  "created_at" : "2016-12-20 06:12:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811090715082166273",
-  "text" : "\"Well, I took my alter ego behind the castle while Spike's mob was approaching. Spur of the moment plan.\"",
-  "id" : 811090715082166273,
-  "created_at" : "2016-12-20 06:07:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811090114017427456",
-  "text" : "\"A shattering experience. ... as in, I broke a wall.\"",
-  "id" : 811090114017427456,
-  "created_at" : "2016-12-20 06:05:27 +0000",
+  "id_str" : "887105715579572226",
+  "text" : "\"Did we run out of Catalina dressing?\"",
+  "id" : 887105715579572226,
+  "created_at" : "2017-07-18 00:24:18 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4271,154 +7455,27 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Twibot Sparker",
-      "screen_name" : "mlp_Twibot",
-      "indices" : [ 24, 35 ],
-      "id_str" : "398109064",
-      "id" : 398109064
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "811041512515481600",
-  "geo" : { },
-  "id_str" : "811087658365677568",
-  "in_reply_to_user_id" : 398109064,
-  "text" : "\"Yeah.\", he responds to @mlp_Twibot.",
-  "id" : 811087658365677568,
-  "in_reply_to_status_id" : 811041512515481600,
-  "created_at" : "2016-12-20 05:55:41 +0000",
-  "in_reply_to_screen_name" : "mlp_Twibot",
-  "in_reply_to_user_id_str" : "398109064",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811040954194989057",
-  "text" : "\"Enter.\"",
-  "id" : 811040954194989057,
-  "created_at" : "2016-12-20 02:50:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811038187590189056",
-  "text" : "\"I may have to call in a favor for that project.\", he comments while opening a local newspaper.",
-  "id" : 811038187590189056,
-  "created_at" : "2016-12-20 02:39:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811036415769407488",
-  "text" : "\"Hope she can do something with that, as my hooves are tied till I get a blueprint.\"",
-  "id" : 811036415769407488,
-  "created_at" : "2016-12-20 02:32:04 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mother Goose",
-      "screen_name" : "mlp_Goose",
-      "indices" : [ 128, 138 ],
-      "id_str" : "741071173883027456",
-      "id" : 741071173883027456
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811036211137617921",
-  "text" : "Shortly after that, a packet of paperwork, enclosed inside packaging intended to obscure the contents, is delivered via mail to @mlp_goose.",
-  "id" : 811036211137617921,
-  "created_at" : "2016-12-20 02:31:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Twilight Sparkle",
-      "screen_name" : "mlp_Twilight",
-      "indices" : [ 87, 100 ],
-      "id_str" : "258925492",
-      "id" : 258925492
+      "name" : "Open Hooves Orphanage",
+      "screen_name" : "mlp_OHO",
+      "indices" : [ 76, 84 ],
+      "id_str" : "844335810279288832",
+      "id" : 844335810279288832
     }, {
-      "name" : "Twibot Sparker",
-      "screen_name" : "mlp_Twibot",
-      "indices" : [ 105, 116 ],
-      "id_str" : "398109064",
-      "id" : 398109064
+      "name" : "Wintertide \u2744\uFE0F",
+      "screen_name" : "mlp_WinterT",
+      "indices" : [ 99, 111 ],
+      "id_str" : "788122955762896897",
+      "id" : 788122955762896897
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811035167846526976",
-  "text" : "The report gets finished after a few more minutes of deliberation and then sent out to @mlp_Twilight and @mlp_Twibot to review.",
-  "id" : 811035167846526976,
-  "created_at" : "2016-12-20 02:27:06 +0000",
+  "id_str" : "887105134311952385",
+  "text" : "As he prepares a light salad in the kitchen, a similar sized box arrives at @mlp_OHO, addressed to @mlp_WinterT.",
+  "id" : 887105134311952385,
+  "created_at" : "2017-07-18 00:22:00 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4437,10 +7494,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811032023657807873",
-  "text" : "He once used eldritch rituals just to summon the princess.",
-  "id" : 811032023657807873,
-  "created_at" : "2016-12-20 02:14:37 +0000",
+  "id_str" : "887056036368142337",
+  "text" : "He meanwhile seems to be daydreaming in his office.",
+  "id" : 887056036368142337,
+  "created_at" : "2017-07-17 21:06:54 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4459,98 +7516,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "811030731266867201",
-  "text" : "He made some careful observations while off dimension, and seems to be trying to put them into words.",
-  "id" : 811030731266867201,
-  "created_at" : "2016-12-20 02:09:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "811030317033226240",
-  "text" : "After a half decent lunch, he continues to work on his report.",
-  "id" : 811030317033226240,
-  "created_at" : "2016-12-20 02:07:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810980082705645569",
-  "text" : "\"I've gone from humble blacksmith to armorer specialist to paperwork pusher to rescue efforts.\" \uD83D\uDE29",
-  "id" : 810980082705645569,
-  "created_at" : "2016-12-19 22:48:13 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810979702563368960",
-  "text" : "\"My job is never easy.\"",
-  "id" : 810979702563368960,
-  "created_at" : "2016-12-19 22:46:43 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810979157500948480",
-  "text" : "A stack of papers are on his inbox, and he's busy writing up a report from last night's events.",
-  "id" : 810979157500948480,
-  "created_at" : "2016-12-19 22:44:33 +0000",
+  "id_str" : "887055890528034816",
+  "text" : "Several flasks of chilled water sit just inside the tree castle, set aside for passerby as an attempt to beat the current heat wave.",
+  "id" : 887055890528034816,
+  "created_at" : "2017-07-17 21:06:19 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4569,10 +7538,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810906406362742784",
-  "text" : "He wakes up and slowly trudges out of his bedroom.",
-  "id" : 810906406362742784,
-  "created_at" : "2016-12-19 17:55:27 +0000",
+  "id_str" : "886861300311232512",
+  "text" : "\"So far, nothing.\"\n\n\/\/ Apologies, Feather, I have to go to bed. :(",
+  "id" : 886861300311232512,
+  "created_at" : "2017-07-17 08:13:05 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4591,10 +7560,428 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810751491422253061",
-  "text" : "He follows suit, heading for his personal bedroom, exhausted from the day's events.",
-  "id" : 810751491422253061,
-  "created_at" : "2016-12-19 07:39:53 +0000",
+  "id_str" : "886855407062458368",
+  "text" : "\"the pegasus in question, but thanks to the annals of history, now, partially in my hooves. In essence, caution is merited with spellcraft.\"",
+  "id" : 886855407062458368,
+  "created_at" : "2017-07-17 07:49:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886855152212340737",
+  "text" : "\"So, one of the two tomes recovered from the old castle, merely confirmed what we already know. The other is an old textbook, intended for-\"",
+  "id" : 886855152212340737,
+  "created_at" : "2017-07-17 07:48:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886853040128618496",
+  "text" : "\"To this day, we don't know the extent of the damage he did to Cloudsdale, but there was at least several injuries, if not worse.\"",
+  "id" : 886853040128618496,
+  "created_at" : "2017-07-17 07:40:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886852892854030337",
+  "text" : "\"He tried to cast a freezing spell without the degree of control required to safely do so. It was enough to freeze several blocks.\"",
+  "id" : 886852892854030337,
+  "created_at" : "2017-07-17 07:39:41 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886850381594185728",
+  "text" : "\"The main reason he's not heard of today, is because for the most part, the dumb stallion tried to do something way over his head.\"",
+  "id" : 886850381594185728,
+  "created_at" : "2017-07-17 07:29:42 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886850097161658368",
+  "text" : "\"This one was known for great things, based on Starswirl's accounts while trying to establish some sort of college. However.\"",
+  "id" : 886850097161658368,
+  "created_at" : "2017-07-17 07:28:34 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886847973006745601",
+  "text" : "He pauses and wonders if she wants him to continue or not.",
+  "id" : 886847973006745601,
+  "created_at" : "2017-07-17 07:20:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886847786964090880",
+  "text" : "\"Yeah, there's a legend of a pegasus spellcaster that went by the name of Aether Cloud, you see.\"",
+  "id" : 886847786964090880,
+  "created_at" : "2017-07-17 07:19:23 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886846626215718913",
+  "text" : "\"Like a recent discovery from the nightmare castle, an old spellbook from the days when Starswirl was still alive, intended for teaching.\"",
+  "id" : 886846626215718913,
+  "created_at" : "2017-07-17 07:14:47 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886844334653526017",
+  "text" : "\"Though most of my research has led me to the reoccurring deal where I've found old knowledge and brought it to the modern world.\"",
+  "id" : 886844334653526017,
+  "created_at" : "2017-07-17 07:05:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886843793764474880",
+  "text" : "\"It's more of a general education type of problem, as I'm continually tackling the problem of pegasus active spellcasting.\"",
+  "id" : 886843793764474880,
+  "created_at" : "2017-07-17 07:03:31 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886841446975889408",
+  "text" : "\"Other than that, outside of a few spells, I'm not sure how much help I can be.\"",
+  "id" : 886841446975889408,
+  "created_at" : "2017-07-17 06:54:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886841351773577216",
+  "text" : "\"As someone trying to further his own knowledge on the subject as a pegasus, I can at least point you in the general direction.\"",
+  "id" : 886841351773577216,
+  "created_at" : "2017-07-17 06:53:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886839170815188993",
+  "text" : "\"A test? Now you have my attention.\", he then enters the main library, sitting down on the chair as before.",
+  "id" : 886839170815188993,
+  "created_at" : "2017-07-17 06:45:09 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886836302037102592",
+  "text" : "\"... flashes of light? Care to elaborate?\", he asks while walking with her, thinking back to his spellcasting research.",
+  "id" : 886836302037102592,
+  "created_at" : "2017-07-17 06:33:45 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886835657053798400",
+  "text" : "He nods. \"I'll be in the main library if you need me.\"",
+  "id" : 886835657053798400,
+  "created_at" : "2017-07-17 06:31:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886834784189784064",
+  "text" : "\"So, please keep the volume to a minimum, so to speak.\"",
+  "id" : 886834784189784064,
+  "created_at" : "2017-07-17 06:27:43 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886834698978197504",
+  "text" : "\"It is, but all the librarians have turned in for the evening, so checkout and checkin isn't available at this time.\"",
+  "id" : 886834698978197504,
+  "created_at" : "2017-07-17 06:27:23 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886833355832131584",
+  "text" : "He stops to greet the mare. \"Ah, good evening. What brings you to the Treecastle at this hour?\"",
+  "id" : 886833355832131584,
+  "created_at" : "2017-07-17 06:22:03 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886832086597939200",
+  "text" : "A yawn escapes his mouth and he continues to walk down a similar hallway, probably within view of the mare.",
+  "id" : 886832086597939200,
+  "created_at" : "2017-07-17 06:17:00 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4608,148 +7995,21 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Plywood",
-      "screen_name" : "mlp_Plywood",
-      "indices" : [ 44, 56 ],
-      "id_str" : "1186822176",
-      "id" : 1186822176
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810747667257114624",
-  "text" : "He yawns and then gets up from the office. \"@mlp_Plywood, the bedrooms are towards the center of the castle. That key opens 3F.\"",
-  "id" : 810747667257114624,
-  "created_at" : "2016-12-19 07:24:41 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810742360678211584",
-  "text" : "\"When a project requires your services, which, for building, probably will happen at some point. So, ... part time labor, basically.\"",
-  "id" : 810742360678211584,
-  "created_at" : "2016-12-19 07:03:36 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810739780082343936",
-  "text" : "\"Carpenter contractor work.\"",
-  "id" : 810739780082343936,
-  "created_at" : "2016-12-19 06:53:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810738751970430976",
-  "text" : "\"I'm contracting you in exchange for room and board in the castle.\"",
-  "id" : 810738751970430976,
-  "created_at" : "2016-12-19 06:49:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Plywood",
-      "screen_name" : "mlp_Plywood",
-      "indices" : [ 81, 93 ],
-      "id_str" : "1186822176",
-      "id" : 1186822176
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "810734721298796544",
-  "geo" : { },
-  "id_str" : "810735027403259904",
-  "in_reply_to_user_id" : 1186822176,
-  "text" : "He then pulls out a key from one of the lockboxes inside his desk, tossing it to @mlp_Plywood. \"I'm going to break a rule.\"",
-  "id" : 810735027403259904,
-  "in_reply_to_status_id" : 810734721298796544,
-  "created_at" : "2016-12-19 06:34:27 +0000",
-  "in_reply_to_screen_name" : "mlp_Plywood",
-  "in_reply_to_user_id_str" : "1186822176",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Plywood",
-      "screen_name" : "mlp_Plywood",
+      "name" : "Aerion Featherquill",
+      "screen_name" : "mlp_Feather",
       "indices" : [ 66, 78 ],
-      "id_str" : "1186822176",
-      "id" : 1186822176
+      "id_str" : "742075140926640128",
+      "id" : 742075140926640128
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810734076596469764",
-  "text" : "\"Well, it grew from some sort of crystal thing a year or two ago, @mlp_Plywood.\", he then motions to his office. \"Anyway, in here.\"",
-  "id" : 810734076596469764,
-  "created_at" : "2016-12-19 06:30:41 +0000",
+  "id_str" : "886830913635725312",
+  "text" : "\"We have a visitor at this hour?\", he comments as he heads toward @mlp_Feather's general location.",
+  "id" : 886830913635725312,
+  "created_at" : "2017-07-17 06:12:20 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4762,27 +8022,349 @@ Grailbird.data.tweets_2016_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Plywood",
-      "screen_name" : "mlp_Plywood",
-      "indices" : [ 24, 36 ],
-      "id_str" : "1186822176",
-      "id" : 1186822176
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886830746069065728",
+  "text" : "He blinks and shakes his head, hearing the call of a visitor in the distance.",
+  "id" : 886830746069065728,
+  "created_at" : "2017-07-17 06:11:41 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886829405099765760",
+  "text" : "\"Good evening.\", he comments as he carries the manual in one of his wings.",
+  "id" : 886829405099765760,
+  "created_at" : "2017-07-17 06:06:21 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886827593139453952",
+  "text" : "The pegasus walks up to the pair of booklord ponies with a brief yawn.",
+  "id" : 886827593139453952,
+  "created_at" : "2017-07-17 05:59:09 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886819594090012672",
+  "text" : "His reading continues slowly and surely, the antenna picking up minor transmissions from several places near to the tree castle.",
+  "id" : 886819594090012672,
+  "created_at" : "2017-07-17 05:27:22 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886817432769363969",
+  "text" : "He picks up a manual and sits in one of the comfy chairs, slowly opening it. Tiny particles start to accumulate on the horn antenna.",
+  "id" : 886817432769363969,
+  "created_at" : "2017-07-17 05:18:46 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886816784925556737",
+  "text" : "After a bit of rest, he makes his way to the tree castle, heading to the library in a fit of boredom.",
+  "id" : 886816784925556737,
+  "created_at" : "2017-07-17 05:16:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886814018551373825",
+  "text" : "\"Then again, I'm waxing poetical again.\"",
+  "id" : 886814018551373825,
+  "created_at" : "2017-07-17 05:05:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886807646761877504",
+  "text" : "\"I'm starting to wonder if retirement really is an option, now. It seems the town is getting quieter and quieter.\"",
+  "id" : 886807646761877504,
+  "created_at" : "2017-07-17 04:39:53 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886802992544002049",
+  "text" : "He then enters shortly afterword, walking to his couch in the main room, sitting down with a bit of a sigh.",
+  "id" : 886802992544002049,
+  "created_at" : "2017-07-17 04:21:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886802342724743168",
+  "text" : "Slowly, the stallion returns to his home, and walks into the door. The expected smack of the face happens, and then he opens the door.",
+  "id" : 886802342724743168,
+  "created_at" : "2017-07-17 04:18:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886785297220071425",
+  "text" : "He leaves the cafe and heads for home, yawning.",
+  "id" : 886785297220071425,
+  "created_at" : "2017-07-17 03:11:05 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886762571457548291",
+  "text" : "An order is placed, and he sits at a table.",
+  "id" : 886762571457548291,
+  "created_at" : "2017-07-17 01:40:46 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886740654029754368",
+  "text" : "The stallion quietly walks into a quiet cafe in the middle of town, while one of the local tabloids report on a so called marriage.",
+  "id" : 886740654029754368,
+  "created_at" : "2017-07-17 00:13:41 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886357026510700545",
+  "text" : "The quartermaster slowly walks into the library room with a yawn, carrying a small mug of tea with him.",
+  "id" : 886357026510700545,
+  "created_at" : "2017-07-15 22:49:17 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "886300798971502594",
+  "text" : "Blacksmithing noises.",
+  "id" : 886300798971502594,
+  "created_at" : "2017-07-15 19:05:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 69, 77 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "810731486286675968",
   "geo" : { },
-  "id_str" : "810731703610339328",
-  "in_reply_to_user_id" : 1186822176,
-  "text" : "He nods and enters with @mlp_Plywood following him. \"I'm the castle quartermaster, now, actually, so technically it's my home.\"",
-  "id" : 810731703610339328,
-  "in_reply_to_status_id" : 810731486286675968,
-  "created_at" : "2016-12-19 06:21:15 +0000",
-  "in_reply_to_screen_name" : "mlp_Plywood",
-  "in_reply_to_user_id_str" : "1186822176",
+  "id_str" : "886026307477409792",
+  "text" : "He then waves to the princesses and moves on elsewhere in the crowd. #HighTea",
+  "id" : 886026307477409792,
+  "created_at" : "2017-07-15 00:55:07 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4793,24 +8375,21 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Plywood",
-      "screen_name" : "mlp_Plywood",
-      "indices" : [ 26, 38 ],
-      "id_str" : "1186822176",
-      "id" : 1186822176
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 44, 52 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810729712238624768",
-  "text" : "\"Not bad, not bad at all, @mlp_Plywood.\", he then starts to walk to the tree castle. \"Follow me.\"",
-  "id" : 810729712238624768,
-  "created_at" : "2016-12-19 06:13:20 +0000",
+  "id_str" : "886025610740596736",
+  "text" : "He blinks and then looks down for a moment. #HighTea",
+  "id" : 886025610740596736,
+  "created_at" : "2017-07-15 00:52:21 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4821,24 +8400,21 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Plywood",
-      "screen_name" : "mlp_Plywood",
-      "indices" : [ 75, 87 ],
-      "id_str" : "1186822176",
-      "id" : 1186822176
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 97, 105 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810727917470838784",
-  "text" : "\"Don't waste your time with the building, it's an empty lot at this point, @mlp_Plywood. It was sold off a good half a year ago.\"",
-  "id" : 810727917470838784,
-  "created_at" : "2016-12-19 06:06:12 +0000",
+  "id_str" : "886025330842116096",
+  "text" : "A sip and he corrects himself. \"The uncertainty of it, anyway. I might have found a marefriend.\" #HighTea",
+  "id" : 886025330842116096,
+  "created_at" : "2017-07-15 00:51:15 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4849,29 +8425,21 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Plywood",
-      "screen_name" : "mlp_Plywood",
-      "indices" : [ 71, 83 ],
-      "id_str" : "1186822176",
-      "id" : 1186822176
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 77, 85 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "810723325651648512",
   "geo" : { },
-  "id_str" : "810724057381535744",
-  "in_reply_to_user_id" : 1186822176,
-  "text" : "\"Eh, I got my wings done. Nothing major. Do you have anywhere to stay, @mlp_Plywood?\"",
-  "id" : 810724057381535744,
-  "in_reply_to_status_id" : 810723325651648512,
-  "created_at" : "2016-12-19 05:50:52 +0000",
-  "in_reply_to_screen_name" : "mlp_Plywood",
-  "in_reply_to_user_id_str" : "1186822176",
+  "id_str" : "886025046115966976",
+  "text" : "\"Just food for thought, I'd suppose. In the meantime, I fear my own future.\" #HighTea",
+  "id" : 886025046115966976,
+  "created_at" : "2017-07-15 00:50:07 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4882,24 +8450,21 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Plywood",
-      "screen_name" : "mlp_Plywood",
-      "indices" : [ 16, 28 ],
-      "id_str" : "1186822176",
-      "id" : 1186822176
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 126, 134 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810721269268316160",
-  "text" : "He looks toward @mlp_Plywood, who probably didn't hear him. \"At least a year.\"",
-  "id" : 810721269268316160,
-  "created_at" : "2016-12-19 05:39:47 +0000",
+  "id_str" : "886023746330517504",
+  "text" : "\"Well, take it from me, vacations are fine in moderation. The wheel of time tends to move with us, regardless of what we do.\" #HighTea",
+  "id" : 886023746330517504,
+  "created_at" : "2017-07-15 00:44:57 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -4910,222 +8475,21 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810717659612463108",
-  "text" : "\"About a year ago, man. Where in Tartarus have you been?\"",
-  "id" : 810717659612463108,
-  "created_at" : "2016-12-19 05:25:27 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810715653841817600",
-  "text" : "\"A few years ago, I used to live here.\", he then sits on a small pile of scraps and rock. \"It's amazing what has changed.\"",
-  "id" : 810715653841817600,
-  "created_at" : "2016-12-19 05:17:28 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810714547409604608",
-  "text" : "He walks toward the remains of the old Starbreaker Foundry, which is now a giant pile of rubble.",
-  "id" : 810714547409604608,
-  "created_at" : "2016-12-19 05:13:05 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810709708076105728",
-  "text" : "After a checkup in medical, he's released out to Ponyville, looking a bit worm down, and walking to the remains of an old building.",
-  "id" : 810709708076105728,
-  "created_at" : "2016-12-19 04:53:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810706700793745412",
-  "text" : "Where did he go? We will never know.",
-  "id" : 810706700793745412,
-  "created_at" : "2016-12-19 04:41:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810706030535606272",
-  "text" : "Darkhammer has disappeared from public view, having long since done what he needed to do, the cabin in the woods unoccupied.",
-  "id" : 810706030535606272,
-  "created_at" : "2016-12-19 04:39:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810705465806094337",
-  "text" : "The sound of a body hitting the floor can be heard in the credits.",
-  "id" : 810705465806094337,
-  "created_at" : "2016-12-19 04:36:59 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810704679969718272",
-  "text" : "He stumbles to his hooves and starts to walk. \"I'm never doing that again.\"",
-  "id" : 810704679969718272,
-  "created_at" : "2016-12-19 04:33:52 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810702812640399360",
-  "text" : "He mumbles something about cheesecake.",
-  "id" : 810702812640399360,
-  "created_at" : "2016-12-19 04:26:27 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Princess Celestia",
-      "screen_name" : "mlp_Celestia",
-      "indices" : [ 27, 40 ],
-      "id_str" : "262811871",
-      "id" : 262811871
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 91, 99 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810702510184927232",
-  "text" : "Starhammer weakly waves to @mlp_Celestia and then collapses, exhausted.",
-  "id" : 810702510184927232,
-  "created_at" : "2016-12-19 04:25:15 +0000",
+  "id_str" : "886021919576817665",
+  "text" : "\"Ah, how is your vacation going, Princess?\", the stallion comments when he's close enough. #HighTea",
+  "id" : 886021919576817665,
+  "created_at" : "2017-07-15 00:37:41 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -5136,7 +8500,7 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5144,10 +8508,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810702270576885760",
-  "text" : "He yells. \"DO IT.\", and Darkhammer SHATTERS the mirror.",
-  "id" : 810702270576885760,
-  "created_at" : "2016-12-19 04:24:18 +0000",
+  "id_str" : "886021683747975169",
+  "text" : "For some reason, his player chuckles.",
+  "id" : 886021683747975169,
+  "created_at" : "2017-07-15 00:36:45 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -5158,90 +8522,21 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810702044889829377",
-  "text" : "The moment Darkhammer gets in front of the mirror, he can be seen raising the spear, while Starhammer makes his entrance.",
-  "id" : 810702044889829377,
-  "created_at" : "2016-12-19 04:23:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810701795857170432",
-  "text" : "Then Darkhammer runs into the mirror room, brandishing the spear.",
-  "id" : 810701795857170432,
-  "created_at" : "2016-12-19 04:22:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810701629435641856",
-  "text" : "He naturally practically runs after Spike, waving to Darkhammer in the process, who nods.",
-  "id" : 810701629435641856,
-  "created_at" : "2016-12-19 04:21:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lyndis",
-      "screen_name" : "MLP_Lyndis",
-      "indices" : [ 36, 47 ],
-      "id_str" : "786656142780956673",
-      "id" : 786656142780956673
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 48, 56 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810701426867453952",
-  "text" : "Darkhammer turns toward the running @mlp_Lyndis and dives for him. \"No. You belong here, they don't.\"",
-  "id" : 810701426867453952,
-  "created_at" : "2016-12-19 04:20:56 +0000",
+  "id_str" : "886020995995373568",
+  "text" : "He quietly walks around, mingling where he can. #HighTea",
+  "id" : 886020995995373568,
+  "created_at" : "2017-07-15 00:34:01 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -5252,2579 +8547,27 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Capt. Brave Soul",
-      "screen_name" : "mlp_Brave_Soul",
-      "indices" : [ 9, 24 ],
-      "id_str" : "2988118703",
-      "id" : 2988118703
-    }, {
-      "name" : "Spike Dragon",
-      "screen_name" : "mlp_spike",
-      "indices" : [ 73, 83 ],
-      "id_str" : "262742727",
-      "id" : 262742727
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810700894971039748",
-  "text" : "He spots @mlp_Brave_Soul in the distance and double times it, picking up @mlp_Spike in the process. \"Let's move!\"",
-  "id" : 810700894971039748,
-  "created_at" : "2016-12-19 04:18:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810700595317395456",
-  "text" : "Further and further they travel. \"... it's probably toward the back.\"",
-  "id" : 810700595317395456,
-  "created_at" : "2016-12-19 04:17:38 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Spike Dragon",
-      "screen_name" : "mlp_spike",
-      "indices" : [ 1, 11 ],
-      "id_str" : "262742727",
-      "id" : 262742727
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810700296632631296",
-  "text" : "\"@mlp_Spike! Call Celestia, double time, when you arrive.\"",
-  "id" : 810700296632631296,
-  "created_at" : "2016-12-19 04:16:27 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810700114247487488",
-  "text" : "\"I hear familiar faces.\", he continues to walk, going into a run.",
-  "id" : 810700114247487488,
-  "created_at" : "2016-12-19 04:15:43 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810699920470605829",
-  "text" : "Darkhammer sits down and laughs. \"Who said anything about defeating you?\"",
-  "id" : 810699920470605829,
-  "created_at" : "2016-12-19 04:14:57 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Spike Dragon",
-      "screen_name" : "mlp_spike",
-      "indices" : [ 30, 40 ],
-      "id_str" : "262742727",
-      "id" : 262742727
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810699736973971456",
-  "text" : "\"That's what I'm looking for, @mlp_Spike.\"",
-  "id" : 810699736973971456,
-  "created_at" : "2016-12-19 04:14:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810699372996554753",
-  "text" : "\"Now, where is it. I left something at home before I crossed.\"",
-  "id" : 810699372996554753,
-  "created_at" : "2016-12-19 04:12:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810699235909914624",
-  "text" : "\"It's transient at best.\"\nHe then continues to look, various rooms and looks seem to come out of the displays.",
-  "id" : 810699235909914624,
-  "created_at" : "2016-12-19 04:12:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810698813258211328",
-  "text" : "Darkhammer starts to do a speech while Grumphammer continues to look.\n\"That's the problem with power. Even if it is absolute.\"",
-  "id" : 810698813258211328,
-  "created_at" : "2016-12-19 04:10:33 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810698244254744576",
-  "text" : "He then slowly walks toward the hall of mirrors, nodding toward Darkhammer, per a previously made plan, who then merely stands guard.",
-  "id" : 810698244254744576,
-  "created_at" : "2016-12-19 04:08:18 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810697604996747268",
-  "text" : "He then starts to sing. \"And then the wall came tumbling down~\", causing more laughter from Darkhammer.",
-  "id" : 810697604996747268,
-  "created_at" : "2016-12-19 04:05:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810696160532905984",
-  "text" : "He pulls back and starts to swing again, letting years upon years of stress out. Darkhammer starts to laugh.",
-  "id" : 810696160532905984,
-  "created_at" : "2016-12-19 04:00:01 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810695704507256832",
-  "text" : "He slams down hard against the wall in the back, greatly cracking the walls in one single swing of his hammer.",
-  "id" : 810695704507256832,
-  "created_at" : "2016-12-19 03:58:12 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810694900488568832",
-  "text" : "\"The more things change,\" he then pulls out his hammer. \"The more they stay the same.\"",
-  "id" : 810694900488568832,
-  "created_at" : "2016-12-19 03:55:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810694626843721728",
-  "text" : "Once Grumphammer is at the far end of the throne room, he takes a deep breath, calling forth all of his strength, even Darkhammer looks.",
-  "id" : 810694626843721728,
-  "created_at" : "2016-12-19 03:53:55 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810693994015494144",
-  "text" : "Darkhammer retorts. \"Who keeps their power in one place, anyway? Even I don't do that.\"\nGrumphammer walks calmly to the back of the room.",
-  "id" : 810693994015494144,
-  "created_at" : "2016-12-19 03:51:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810693526707195904",
-  "text" : "Darkhammer then slams hard, shattering it into about a hundred pieces, flying everywhere, and one smacks the remaining elite on the head.",
-  "id" : 810693526707195904,
-  "created_at" : "2016-12-19 03:49:33 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810693349237780481",
-  "text" : "\"Actually, he knows that your throne, among other objects in the castle isn't covered by your insurance policy.\"",
-  "id" : 810693349237780481,
-  "created_at" : "2016-12-19 03:48:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810692721786650624",
-  "text" : "Grumphammer walks up toward one of the windows. \n\"It really is the Angry Mob of 2014.\"\nDarkhammer continues to strike and slam the throne.",
-  "id" : 810692721786650624,
-  "created_at" : "2016-12-19 03:46:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810691945450315776",
-  "text" : "Darkhammer retorts. \"It's the same with every leader, really.\" He then stabs her throne with the spear.",
-  "id" : 810691945450315776,
-  "created_at" : "2016-12-19 03:43:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810691813497520128",
-  "text" : "After another elite is thrown into a nearby wall, Grumphammer walks in, looking a bit rough. \"Isn't that the case with all mobs?\"",
-  "id" : 810691813497520128,
-  "created_at" : "2016-12-19 03:42:44 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810691358470078464",
-  "text" : "Darkhammer seems to jump \/over\/ the burning princess.",
-  "id" : 810691358470078464,
-  "created_at" : "2016-12-19 03:40:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810691037836509184",
-  "text" : "Grumphammer throws one of the elites through the right throne door and into a wall.",
-  "id" : 810691037836509184,
-  "created_at" : "2016-12-19 03:39:39 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810690833498390528",
-  "text" : "\"Why? I prefer to \/cause\/ it.\", he then removes the spear from his back, and takes an attacking stance, starting to run toward her.",
-  "id" : 810690833498390528,
-  "created_at" : "2016-12-19 03:38:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "mlp_Evilestia",
-      "screen_name" : "mlp_Evilestia",
-      "indices" : [ 64, 78 ],
-      "id_str" : "721339304576987137",
-      "id" : 721339304576987137
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810689886621696000",
-  "text" : "Darkhammer opens the throne room and slowly steps inside toward @mlp_Evilestia, the wicked spear on his back.",
-  "id" : 810689886621696000,
-  "created_at" : "2016-12-19 03:35:05 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810689332738686976",
-  "text" : "He grabs one of the elites and performs a suplex on him, while Darkhammer nears the throne room door.\n\"Go, I got this.\"",
-  "id" : 810689332738686976,
-  "created_at" : "2016-12-19 03:32:53 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Evil Guard",
-      "screen_name" : "mlp_EvilGuard",
-      "indices" : [ 36, 50 ],
-      "id_str" : "728204739511525378",
-      "id" : 728204739511525378
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810688334792101893",
-  "text" : "Grumphammer jumps over the taunting @mlp_EvilGuard, finding an opening. \"You are ready for the mob, but \/not\/ for us.\"",
-  "id" : 810688334792101893,
-  "created_at" : "2016-12-19 03:28:55 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810687877164179462",
-  "text" : "The spear wielding maniac sprints forward, engaging the elites in combat, in an attempt to get past the throne room door.",
-  "id" : 810687877164179462,
-  "created_at" : "2016-12-19 03:27:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Evil Guard",
-      "screen_name" : "mlp_EvilGuard",
-      "indices" : [ 52, 66 ],
-      "id_str" : "728204739511525378",
-      "id" : 728204739511525378
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810686987489394692",
-  "text" : "After a few minutes, the pair near the Elite of the @mlp_EvilGuard.\n\"Plan?\"\n\"What plan.\"",
-  "id" : 810686987489394692,
-  "created_at" : "2016-12-19 03:23:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810686461347528704",
-  "text" : "\"I used to have to walk this everyday, I have no excuse.\"\nHe looks at the Darker pegasus in awe. \"Badflank.\"\n\"I'm in armor, though.\"",
-  "id" : 810686461347528704,
-  "created_at" : "2016-12-19 03:21:28 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810686225845719040",
-  "text" : "Both pegasi stop moving at the very next to top of the tower, panting.\n\"All my scouting experience hasn't prepared me for this.\"",
-  "id" : 810686225845719040,
-  "created_at" : "2016-12-19 03:20:32 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810685299638620160",
-  "text" : "Practically all of the guards get bowled over, and the pair continue their ascent.",
-  "id" : 810685299638620160,
-  "created_at" : "2016-12-19 03:16:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810684853175848960",
-  "text" : "\"Oh hey, a checkpoint. The halfway mark.\"\n\"With two platoons.\"\n\"... not enough.\"",
-  "id" : 810684853175848960,
-  "created_at" : "2016-12-19 03:15:05 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810684393333424136",
-  "text" : "\"Based on the size of the stairs, and the distance per floor, it's actually faster if we run.\"\n\"... are you kidding me?\"\n\"If only.\", a sigh.",
-  "id" : 810684393333424136,
-  "created_at" : "2016-12-19 03:13:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810684109966155776",
-  "text" : "\"A thought occurs to me.\"\n\"Eh?\"\nDarkhammer then practically yells. \"WHY AREN'T WE FLYING?\"",
-  "id" : 810684109966155776,
-  "created_at" : "2016-12-19 03:12:08 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810683914494836736",
-  "text" : "\"Oh come on, who the heck builds a few hundred floors of stairs?\"\n\"... the architect responsible is in the fungeon.\"\n\"Oh. Lovely.\"",
-  "id" : 810683914494836736,
-  "created_at" : "2016-12-19 03:11:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810683277187121152",
-  "text" : "Grumphammer makes a few complicated movements.\nDarkhammer gives a look of confusion.\n\"Formations 101\"",
-  "id" : 810683277187121152,
-  "created_at" : "2016-12-19 03:08:49 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810682524875759620",
-  "text" : "\"... wait, then how did we defeat the rear guards so easily?\"\nThe pair pause for a moment.\n\"The guard has had barely any combat experience.\"",
-  "id" : 810682524875759620,
-  "created_at" : "2016-12-19 03:05:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810681836787601408",
-  "text" : "\"Who trained these guards, anyway? Flash Sentry?\"\n\"... he's actually one of the best drill sargents we have.\"\n\"WHAT?\"",
-  "id" : 810681836787601408,
-  "created_at" : "2016-12-19 03:03:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810681032362119168",
-  "text" : "\"How do you intend on dealing with the princess when we get up there? A spear by itself isn't enough.\"\n\"And a lowly hammer is?\"",
-  "id" : 810681032362119168,
-  "created_at" : "2016-12-19 02:59:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810680841181528068",
-  "text" : "\"Who designed this castle, M.C. Escher?\"\n\"Look, the Equestrian castle isn't much better, but at least it's only three floors.\"",
-  "id" : 810680841181528068,
-  "created_at" : "2016-12-19 02:59:08 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810680371918635008",
-  "text" : "In a fashion resembling a popular snes game from back in the day, the pair start arguing while climbing an absurd amount of stairs.",
-  "id" : 810680371918635008,
-  "created_at" : "2016-12-19 02:57:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810679964798484480",
-  "text" : "The worst quality iron, but they exist. Bring your own fire, though.",
-  "id" : 810679964798484480,
-  "created_at" : "2016-12-19 02:55:39 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810679867104755712",
-  "text" : "\"... did you at least leave the pitchfork collection for the mob?\"\n\"Oh yeah, sure, it's right outside.\"\nSure enough, a pile of pitchforks.",
-  "id" : 810679867104755712,
-  "created_at" : "2016-12-19 02:55:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810679649386766336",
-  "text" : "Some slamming and hammering noises were probably briefly heard in the rear of the castle.\n\"I can't believe that worked.\"",
-  "id" : 810679649386766336,
-  "created_at" : "2016-12-19 02:54:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810679016478961664",
-  "text" : "\"Fine, I'll just climb up the wall.\"\n\"Idiot, they'll be expecting that. Jump the rear guards and waltz right in.\"\n\"... oh.\"",
-  "id" : 810679016478961664,
-  "created_at" : "2016-12-19 02:51:53 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810678729601060864",
-  "text" : "\"Look, the castle is right there. If it's anything like ours, there's more than one entrance.\"",
-  "id" : 810678729601060864,
-  "created_at" : "2016-12-19 02:50:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810678036077150208",
-  "text" : "The Darkhammer starts to go into a vault, but Grumphammer stops him at the last moment, pointing out a quieter path.",
-  "id" : 810678036077150208,
-  "created_at" : "2016-12-19 02:48:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810677180023918592",
-  "text" : "Strangely, both the pegasi are absent, now.",
-  "id" : 810677180023918592,
-  "created_at" : "2016-12-19 02:44:36 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810674477029793792",
-  "text" : "\"If you have a plan, now might be good.\", he comments as he heads outside to calm his opposite.",
-  "id" : 810674477029793792,
-  "created_at" : "2016-12-19 02:33:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810674237019213824",
-  "text" : "EqStarham meanwhile, slowly gets up and walks after him. \"... I'll get him.\"",
-  "id" : 810674237019213824,
-  "created_at" : "2016-12-19 02:32:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810674057947578368",
-  "text" : "His alternate self takes off running, and he has a look of shock in his eyes.",
-  "id" : 810674057947578368,
-  "created_at" : "2016-12-19 02:32:11 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810673213114056704",
-  "text" : "Both the Equestrian and Dark-equestrian pegasus briefly waves a wing.",
-  "id" : 810673213114056704,
-  "created_at" : "2016-12-19 02:28:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810672513122439168",
-  "text" : "\"At least one of us managed to find the dimension in question by sheer luck.\"",
-  "id" : 810672513122439168,
-  "created_at" : "2016-12-19 02:26:03 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810671713084145664",
-  "text" : "The pair remove their respective head cloaks shortly after one is called out, and the real article gives the dragon a look.",
-  "id" : 810671713084145664,
-  "created_at" : "2016-12-19 02:22:52 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810671441003868160",
-  "text" : "Both of the cloaked pegasi are still inside the building, seemly quiet.",
-  "id" : 810671441003868160,
-  "created_at" : "2016-12-19 02:21:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810604648688189442",
-  "text" : "@mlp_JackK \/\/ Season 6 Finale",
-  "id" : 810604648688189442,
-  "created_at" : "2016-12-18 21:56:23 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810590752099147776",
-  "text" : "Darkhammer slowly starts to eat and drink, while Grumphammer takes a tentative drink of the water, a bit horrified at the taste.",
-  "id" : 810590752099147776,
-  "created_at" : "2016-12-18 21:01:10 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810590170554703873",
-  "text" : "The pair nod to her.",
-  "id" : 810590170554703873,
-  "created_at" : "2016-12-18 20:58:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810588119821123584",
-  "text" : "\"Just for me, he'll have water.\"",
-  "id" : 810588119821123584,
-  "created_at" : "2016-12-18 20:50:42 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810587729629212672",
-  "text" : "The lighter one had the foresight to bring rations with him, and he's still living off of them, so he doesn't order anything.",
-  "id" : 810587729629212672,
-  "created_at" : "2016-12-18 20:49:09 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810586994757791745",
-  "text" : "The darker one gets out a \"The Usual\" toward Chimie.",
-  "id" : 810586994757791745,
-  "created_at" : "2016-12-18 20:46:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chimie Changa",
-      "screen_name" : "mlp_Chimie",
-      "indices" : [ 47, 58 ],
-      "id_str" : "2555202907",
-      "id" : 2555202907
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810584849681678337",
-  "text" : "A pair of cloaked figures near the Can't Erlot @mlp_Chimie branch of painfully bland eateries and quietly enter, taking respective seats.",
-  "id" : 810584849681678337,
-  "created_at" : "2016-12-18 20:37:42 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810539697646829568",
-  "text" : "\"... not the worst of situations, but it's workable. For now, we should wait.\", he then pulls out the ration and starts to munch on it.",
-  "id" : 810539697646829568,
-  "created_at" : "2016-12-18 17:38:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810532408420405248",
-  "text" : "And thus, the two converse on the state of the Evilquestria as far as he knows, having seen the equestrian Spike, and related topics.",
-  "id" : 810532408420405248,
-  "created_at" : "2016-12-18 17:09:19 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810529476484415492",
-  "text" : "\"Give me a SITREP, soldier.\"",
-  "id" : 810529476484415492,
-  "created_at" : "2016-12-18 16:57:40 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810529314152321024",
-  "text" : "He quietly moves to the cabin, his alternate self does the same but much less quieter than he does. Once he's facing the clone, he asks.",
-  "id" : 810529314152321024,
-  "created_at" : "2016-12-18 16:57:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810528753080299521",
-  "text" : "His alternate self seems to nod after a bit of thought. \"Okay, now \/quietly\/ walk into the cabin after me, okay?\"",
-  "id" : 810528753080299521,
-  "created_at" : "2016-12-18 16:54:48 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810528498343440384",
-  "text" : "\"If you even come near me with that spear, I will break every weapon you have, and then your bones. Do you understand?\"",
-  "id" : 810528498343440384,
-  "created_at" : "2016-12-18 16:53:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810528143249444865",
-  "text" : "The spear is pushed away, and he makes sure he can't see him, sure to use his own voice. \"I'm going to make this clear as crystal.\"",
-  "id" : 810528143249444865,
-  "created_at" : "2016-12-18 16:52:22 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810527822452289536",
-  "text" : "Once the dark pegasus leaps into the air, he decides to make his attack, and runs toward him, doing a dive tackle, bringing him down hard.",
-  "id" : 810527822452289536,
-  "created_at" : "2016-12-18 16:51:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810526228037980160",
-  "text" : "Each thrust and strike is powerful enough to pierce two \/seperate\/ sets of armor. Caution is merited, he thinks.",
-  "id" : 810526228037980160,
-  "created_at" : "2016-12-18 16:44:46 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810526055261962240",
-  "text" : "His other self is practicing some sort of spear dive into a used guard armor set, with another behind it, and there's multiple holes.",
-  "id" : 810526055261962240,
-  "created_at" : "2016-12-18 16:44:05 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810525888936902656",
-  "text" : "Another yell, and another armor break, as he moves to get closer to the scene of the battle, and then a strange scene unfolds to him.",
-  "id" : 810525888936902656,
-  "created_at" : "2016-12-18 16:43:25 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810525188928454659",
-  "text" : "A shard of a piece of armor goes flying and lands near the hiding pegasus, and he has a brief look of shock, and then moves to the side.",
-  "id" : 810525188928454659,
-  "created_at" : "2016-12-18 16:40:38 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810523225092395008",
-  "text" : "The metal of a spear tip, slams hard into some thick armor, and a great yell of pure anger and rage is bellowed, followed by piercing.",
-  "id" : 810523225092395008,
-  "created_at" : "2016-12-18 16:32:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810523034528452612",
-  "text" : "Once he nears the cabin, the tell tale sounds of battle start to ring, and he moves so he's against the wooden wall, listening.",
-  "id" : 810523034528452612,
-  "created_at" : "2016-12-18 16:32:04 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810521986128613377",
-  "text" : "\"This is some sloppy planning. At least sixteen squads, I think? All defeated or worse?\"",
-  "id" : 810521986128613377,
-  "created_at" : "2016-12-18 16:27:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Spike Dragon",
-      "screen_name" : "mlp_spike",
-      "indices" : [ 44, 54 ],
-      "id_str" : "262742727",
-      "id" : 262742727
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810521836178075648",
-  "text" : "Soon, Starham walks the familiar trail that @mlp_Spike did not, heading for the signs of battle previously seen. He's not impressed.",
-  "id" : 810521836178075648,
-  "created_at" : "2016-12-18 16:27:19 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810521154666512384",
-  "text" : "In fact, he dare says that Brave Soul is the only one in the tree castle currently out and about at the moment.",
-  "id" : 810521154666512384,
-  "created_at" : "2016-12-18 16:24:36 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "King Choclorok",
-      "screen_name" : "MLP_Choclorok",
-      "indices" : [ 0, 14 ],
-      "id_str" : "2418011745",
-      "id" : 2418011745
-    }, {
       "name" : "Twilight Sparkle",
       "screen_name" : "mlp_Twilight",
-      "indices" : [ 28, 41 ],
+      "indices" : [ 4, 17 ],
       "id_str" : "258925492",
       "id" : 258925492
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810521036370354177",
-  "in_reply_to_user_id" : 2418011745,
-  "text" : "@mlp_Choclorok's invite for @mlp_Twilight probably got filtered into the castle mail room per usual. Neither she nor him can deal with it.",
-  "id" : 810521036370354177,
-  "created_at" : "2016-12-18 16:24:08 +0000",
-  "in_reply_to_screen_name" : "MLP_Choclorok",
-  "in_reply_to_user_id_str" : "2418011745",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810519782147653632",
-  "text" : "He then rests in a bunch of thick trees, panting. He's a scout, not a full blown soldier, so even he has to keep his stamina up.",
-  "id" : 810519782147653632,
-  "created_at" : "2016-12-18 16:19:09 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Evil Guard",
-      "screen_name" : "mlp_EvilGuard",
-      "indices" : [ 15, 29 ],
-      "id_str" : "728204739511525378",
-      "id" : 728204739511525378
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 50, 58 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810518934948560896",
-  "text" : "A pair of idle @mlp_EvilGuard were stationed nearby, watching some sort of street fight in Ponyville erupt, so he takes advantage, running.",
-  "id" : 810518934948560896,
-  "created_at" : "2016-12-18 16:15:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810517843833978880",
-  "text" : "He sneaks his way toward the Everfree entrance, and starts to walk toward it, half expecting guards or worse.",
-  "id" : 810517843833978880,
-  "created_at" : "2016-12-18 16:11:27 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810517296473116672",
-  "text" : "He continues to travel, having the utmost caution in doing so, the only thing with him is a set of scout armor, a hammer, and rations.",
-  "id" : 810517296473116672,
-  "created_at" : "2016-12-18 16:09:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810515466728906752",
-  "text" : "He seems to be leaning against the remains of one of the homes, hearing some sort of bizarre noises inside, and ignoring them.",
-  "id" : 810515466728906752,
-  "created_at" : "2016-12-18 16:02:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810513533066739712",
-  "text" : "He whispers to himself, \"So this is Evilquestria, huh? ... not much to it.\", the stallion comments as he scouts out the gated Ponyville.",
-  "id" : 810513533066739712,
-  "created_at" : "2016-12-18 15:54:19 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810314089528524807",
-  "text" : "\"Why is the sky gray?\"",
-  "id" : 810314089528524807,
-  "created_at" : "2016-12-18 02:41:48 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810314026794287104",
-  "text" : "He seems to go across the dimensional rift and then ... ends up in ...",
-  "id" : 810314026794287104,
-  "created_at" : "2016-12-18 02:41:33 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810303371018178561",
-  "text" : "He then starts to slowly walk through the mirror, starting to disappear into the aether ...",
-  "id" : 810303371018178561,
-  "created_at" : "2016-12-18 01:59:13 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810300576290525184",
-  "text" : "\"I've crossed a dimension twice in my life. Do I want to try for a hat trick?\"",
-  "id" : 810300576290525184,
-  "created_at" : "2016-12-18 01:48:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810300147641044993",
-  "text" : "He starts to approach the magic mirror, walking deliberately slow.",
-  "id" : 810300147641044993,
-  "created_at" : "2016-12-18 01:46:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810294880522084352",
-  "text" : "He puts on a familiar set of armor, and takes a deep breath.",
-  "id" : 810294880522084352,
-  "created_at" : "2016-12-18 01:25:28 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810290552923156480",
-  "text" : "He turns and looks at some sort of magic mirror. \"Hmm. Should I?\"",
-  "id" : 810290552923156480,
-  "created_at" : "2016-12-18 01:08:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810287572459147265",
-  "text" : "The stallion nears a room that he's only heard about.",
-  "id" : 810287572459147265,
-  "created_at" : "2016-12-18 00:56:26 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810282937430265856",
-  "text" : "Downstairs in the lower parts of the tree castle, a familiar pegasus walks down the hallways.",
-  "id" : 810282937430265856,
-  "created_at" : "2016-12-18 00:38:01 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810232105762426880",
-  "text" : "He heads for the office and continues on paperwork.",
-  "id" : 810232105762426880,
-  "created_at" : "2016-12-17 21:16:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810219032221798400",
-  "text" : "He nods, blushing to her, and then taking off into the air towards the tree castle.",
-  "id" : 810219032221798400,
-  "created_at" : "2016-12-17 20:24:05 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810217396321525760",
-  "text" : "He then pulls away and starts to walk off. \"Until we meet again, Wintertide~\"",
-  "id" : 810217396321525760,
-  "created_at" : "2016-12-17 20:17:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810216243978444800",
-  "text" : "He then wraps his hooves around her and kisses her on the muzzle.",
-  "id" : 810216243978444800,
-  "created_at" : "2016-12-17 20:13:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810214741935321088",
-  "text" : "\"Well, there is one thing that might be worth the gossip, though.\", he turns to her and leans forward.",
-  "id" : 810214741935321088,
-  "created_at" : "2016-12-17 20:07:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810213576589840384",
-  "text" : "\"Then we should have a date, soon~\", he says and then starts to get up. \"For now, I believe we have our respective jobs to do.\"",
-  "id" : 810213576589840384,
-  "created_at" : "2016-12-17 20:02:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810211839548256256",
-  "text" : "\"Also, ...\", he nuzzles her. \"We should probably go out at some point.\"",
-  "id" : 810211839548256256,
-  "created_at" : "2016-12-17 19:55:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810209514322587648",
-  "text" : "\"Well, if you see her, I'm in. I just need to get some paperwork out of the way. Could you have her send some details on the where and size\"",
-  "id" : 810209514322587648,
-  "created_at" : "2016-12-17 19:46:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810207433096384512",
-  "text" : "\"I think I can definitely be of help there, but there's paperwork that needs to be filed for this sort of thing.\"",
-  "id" : 810207433096384512,
-  "created_at" : "2016-12-17 19:37:59 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810205572209528832",
-  "text" : "\"So, that's what she wanted? Got any details, or do I have basically artistic license?\", he ears perk up as she nuzzles him, blushing.",
-  "id" : 810205572209528832,
-  "created_at" : "2016-12-17 19:30:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810203215597891584",
-  "text" : "He nods and just shares her warmth. \"As do I, believe me. It's comforting to know that, at least.\"",
-  "id" : 810203215597891584,
-  "created_at" : "2016-12-17 19:21:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810201863987593216",
-  "text" : "\"I think it's like that in a lot of places, not just here.\", he then shifts closer to her. \"I'm sorry if I'm worrying you or anything.\"",
-  "id" : 810201863987593216,
-  "created_at" : "2016-12-17 19:15:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810199823706099712",
-  "text" : "\"Honestly, you look like you are right at home, here, Winter. I feel somewhat out of place, to be honest.\"",
-  "id" : 810199823706099712,
-  "created_at" : "2016-12-17 19:07:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810198631580135424",
-  "text" : "He looks up toward Wintertide and pats the ground next to him.",
-  "id" : 810198631580135424,
-  "created_at" : "2016-12-17 19:03:01 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810197276136247296",
-  "text" : "He seems to have gone outside and just sat on the porch.",
-  "id" : 810197276136247296,
-  "created_at" : "2016-12-17 18:57:38 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810196024295833600",
-  "text" : "He starts to open his mouth, and then just closes it, walking out toward the front door of the orphanage.",
-  "id" : 810196024295833600,
-  "created_at" : "2016-12-17 18:52:39 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810195417858273284",
-  "text" : "He had managed to eat part of the dinner, and then walked to the kitchen after Wintertide, lost in his own problems.",
-  "id" : 810195417858273284,
-  "created_at" : "2016-12-17 18:50:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810193126350585858",
-  "text" : "He looks down at his, half in thought, and he gets out a smile toward Wintertide in an attempt to console her.",
-  "id" : 810193126350585858,
-  "created_at" : "2016-12-17 18:41:08 +0000",
+  "id_str" : "886019925411852288",
+  "text" : "\"To @mlp_Twilight.\", he comments and sips slowly. #HighTea",
+  "id" : 886019925411852288,
+  "created_at" : "2017-07-15 00:29:46 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -7839,218 +8582,17 @@ Grailbird.data.tweets_2016_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810187992316919809",
-  "text" : "He sighs and shakes his head.",
-  "id" : 810187992316919809,
-  "created_at" : "2016-12-17 18:20:44 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810186226464657408",
-  "text" : "\"Oh, that's rather cute!\"",
-  "id" : 810186226464657408,
-  "created_at" : "2016-12-17 18:13:43 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810185760859160576",
-  "text" : "\"A show?\", he asks the other caretaker, in curiosity.",
-  "id" : 810185760859160576,
-  "created_at" : "2016-12-17 18:11:52 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810184960816676864",
-  "text" : "\"How do I get myself into these situations?\", he whispers.",
-  "id" : 810184960816676864,
-  "created_at" : "2016-12-17 18:08:41 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810183399717617665",
-  "text" : "He looks toward Wintertide, blushing.",
-  "id" : 810183399717617665,
-  "created_at" : "2016-12-17 18:02:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810182638887641089",
-  "text" : "He also waves at those who did.",
-  "id" : 810182638887641089,
-  "created_at" : "2016-12-17 17:59:28 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810182515537412096",
-  "text" : "He snaps to attention.\n\n\"Yeah, apparently I was asked to meet with someone.\"",
-  "id" : 810182515537412096,
-  "created_at" : "2016-12-17 17:58:58 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810174361898467328",
-  "text" : "He takes a seat at the dining room, yawning.",
-  "id" : 810174361898467328,
-  "created_at" : "2016-12-17 17:26:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810171923909017600",
-  "text" : "\"Sounds like a plan.\"",
-  "id" : 810171923909017600,
-  "created_at" : "2016-12-17 17:16:53 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mother Goose",
-      "screen_name" : "mlp_Goose",
-      "indices" : [ 16, 26 ],
-      "id_str" : "741071173883027456",
-      "id" : 741071173883027456
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 54, 62 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810170795548934144",
-  "text" : "\"Apparently Ms. @mlp_Goose wanted to meet with me or something. The notice wasn't very clear.\"",
-  "id" : 810170795548934144,
-  "created_at" : "2016-12-17 17:12:24 +0000",
+  "id_str" : "886018647529070593",
+  "text" : "For some reason, he cringes, and watches the sun set. #HighTea",
+  "id" : 886018647529070593,
+  "created_at" : "2017-07-15 00:24:41 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -8061,68 +8603,21 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810170284766543874",
-  "text" : "He waves toward Wintertide as she enters. \"Good morning.\"",
-  "id" : 810170284766543874,
-  "created_at" : "2016-12-17 17:10:22 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mother Goose",
-      "screen_name" : "mlp_Goose",
-      "indices" : [ 58, 68 ],
-      "id_str" : "741071173883027456",
-      "id" : 741071173883027456
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 81, 89 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "810169511378882560",
-  "text" : "He lands and soon enters inside, asking around for Mother @mlp_Goose. Apparently she wanted to meet with him?",
-  "id" : 810169511378882560,
-  "created_at" : "2016-12-17 17:07:18 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810166871320305664",
-  "text" : "Starhammer seems to be gliding overhead toward OHO, for some reason.",
-  "id" : 810166871320305664,
-  "created_at" : "2016-12-17 16:56:48 +0000",
+  "id_str" : "886017783066234881",
+  "text" : "\"It's not coffee, but it'll do.\", he comments while walking around to the crowd. #HighTea",
+  "id" : 886017783066234881,
+  "created_at" : "2017-07-15 00:21:15 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -8137,86 +8632,17 @@ Grailbird.data.tweets_2016_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809935710593622016",
-  "text" : "\"Well, someone's gotta keep the lights on.\"",
-  "id" : 809935710593622016,
-  "created_at" : "2016-12-17 01:38:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809932512856342528",
-  "text" : "\"I'd bring it up with the Princess, but apparently she's dimension hopping. ... why does she get to have all the fun?\"",
-  "id" : 809932512856342528,
-  "created_at" : "2016-12-17 01:25:33 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809931769763995648",
-  "text" : "\"More budget errors, my accounting friends would have my head for this.\", yet another sigh.",
-  "id" : 809931769763995648,
-  "created_at" : "2016-12-17 01:22:36 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mother Goose",
-      "screen_name" : "mlp_Goose",
-      "indices" : [ 35, 45 ],
-      "id_str" : "741071173883027456",
-      "id" : 741071173883027456
+    "hashtags" : [ {
+      "text" : "HighTea",
+      "indices" : [ 102, 110 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "809930816751095808",
-  "text" : "He takes a moment to inform Mother @mlp_goose that he's best contacted on weekend when he has actual free time.",
-  "id" : 809930816751095808,
-  "created_at" : "2016-12-17 01:18:49 +0000",
+  "id_str" : "886017009359749120",
+  "text" : "He seems to head for the stand and picks up his usual brew. A standard cup of black tea, unsweetened. #HighTea",
+  "id" : 886017009359749120,
+  "created_at" : "2017-07-15 00:18:11 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -8235,10 +8661,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "809930267511156736",
-  "text" : "While he practices, the genuine article is reviewing paperwork in his office, the trash bin looking a bit full.",
-  "id" : 809930267511156736,
-  "created_at" : "2016-12-17 01:16:38 +0000",
+  "id_str" : "886016314648788997",
+  "text" : "Fashionably late, as usual, he arrives to the Canterlot shindig, wearing nothing but the silver hoofboots.",
+  "id" : 886016314648788997,
+  "created_at" : "2017-07-15 00:15:25 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -8257,10 +8683,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "809929927940276224",
-  "text" : "Bizarro Starhammer seems to be at the back of his cabin, wielding a fairly wicked looking spear of his own design.",
-  "id" : 809929927940276224,
-  "created_at" : "2016-12-17 01:15:17 +0000",
+  "id_str" : "885935181814796289",
+  "text" : "A big binder with two red stripes on the cover is dug out and sat on the desk.",
+  "id" : 885935181814796289,
+  "created_at" : "2017-07-14 18:53:01 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -8279,10 +8705,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "809848208239263744",
-  "text" : "A sigh escapes his muzzle.",
-  "id" : 809848208239263744,
-  "created_at" : "2016-12-16 19:50:33 +0000",
+  "id_str" : "885934026145624069",
+  "text" : "After a few moments, he gets up and heads for the farthest file cabinet.",
+  "id" : 885934026145624069,
+  "created_at" : "2017-07-14 18:48:26 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -8301,115 +8727,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "809847652611489792",
-  "text" : "The pegasus rests on a chair in his office.",
-  "id" : 809847652611489792,
-  "created_at" : "2016-12-16 19:48:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 16, 39 ],
-      "url" : "https:\/\/t.co\/nk39Pc0Am7",
-      "expanded_url" : "https:\/\/support.twitter.com\/articles\/185703",
-      "display_url" : "support.twitter.com\/articles\/185703"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "809833492259491844",
-  "text" : "\/\/ In addition: https:\/\/t.co\/nk39Pc0Am7 is probably a good article to review.",
-  "id" : 809833492259491844,
-  "created_at" : "2016-12-16 18:52:05 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809832828661878785",
-  "text" : "\/\/ Report original as hacked, mind you.",
-  "id" : 809832828661878785,
-  "created_at" : "2016-12-16 18:49:26 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "moved",
-      "screen_name" : "mlp_DustyHail",
-      "indices" : [ 19, 33 ],
-      "id_str" : "717207187047727104",
-      "id" : 717207187047727104
-    }, {
-      "name" : "Dusty Hail",
-      "screen_name" : "mlp_Dusty_Hail",
-      "indices" : [ 94, 109 ],
-      "id_str" : "809825472964005888",
-      "id" : 809825472964005888
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809832749716606976",
-  "text" : "\/\/ PSA: Apparently @mlp_DustyHail was hacked, the original owner is abandoning it in favor of @mlp_Dusty_Hail. Report as hacked and move on.",
-  "id" : 809832749716606976,
-  "created_at" : "2016-12-16 18:49:08 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809644738567700480",
-  "text" : "The stallion walks around Ponyville at the oddest time of the night, yawning.",
-  "id" : 809644738567700480,
-  "created_at" : "2016-12-16 06:22:02 +0000",
+  "id_str" : "885933452767485952",
+  "text" : "He appears to be in his office, contemplating a few things.",
+  "id" : 885933452767485952,
+  "created_at" : "2017-07-14 18:46:09 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -8428,10 +8749,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "809484037203050496",
-  "text" : "\"Soon, you will see what happens when you laugh at me ...\"",
-  "id" : 809484037203050496,
-  "created_at" : "2016-12-15 19:43:28 +0000",
+  "id_str" : "885670843900190720",
+  "text" : "\"The more things change, the more they stay the same.\", he comments while reading a local newspaper in his office.",
+  "id" : 885670843900190720,
+  "created_at" : "2017-07-14 01:22:38 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -8442,4605 +8763,6 @@ Grailbird.data.tweets_2016_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809483498197254144",
-  "text" : "\"Refuse to pay the licensing fee, will you?\", he comments, while hearing movement upstairs, away from the bunker.",
-  "id" : 809483498197254144,
-  "created_at" : "2016-12-15 19:41:20 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809483083963580419",
-  "text" : "The stallion in the Evil verse looks over a wicked looking spear.",
-  "id" : 809483083963580419,
-  "created_at" : "2016-12-15 19:39:41 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809445677264732161",
-  "text" : "For some reason, he whistles innocently.",
-  "id" : 809445677264732161,
-  "created_at" : "2016-12-15 17:11:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809435654308397056",
-  "text" : "Princess Grumphammer (ha) awakens from his slumber and heads for his office. Today is a new day.",
-  "id" : 809435654308397056,
-  "created_at" : "2016-12-15 16:31:13 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809266439911784450",
-  "text" : "He walks down into some sort of blacksmith's bunker, where there's nothing but the usual blacksmith trappings and a small cache of gear sits",
-  "id" : 809266439911784450,
-  "created_at" : "2016-12-15 05:18:49 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809264227730997248",
-  "text" : "\"If the princess knew this was out here, I'd be in the fungeon for the rest of my natural life.\", he comments while slipping down it.",
-  "id" : 809264227730997248,
-  "created_at" : "2016-12-15 05:10:01 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809263461012275200",
-  "text" : "Antihammer arrives at his cabin, quietly entering it, and then looking left, and then right, followed by opening a trap door at the bottom.",
-  "id" : 809263461012275200,
-  "created_at" : "2016-12-15 05:06:59 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809216805143269377",
-  "text" : "All he says is \"I have a cabin further inside. We plan there, where it's safe. Just mind the ... metal and bone.\" before taking off.",
-  "id" : 809216805143269377,
-  "created_at" : "2016-12-15 02:01:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809216086491168773",
-  "text" : "As the dragon progresses, a trail of broken and battered guard armor soon becomes apparent.",
-  "id" : 809216086491168773,
-  "created_at" : "2016-12-15 01:58:44 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809215047637594113",
-  "text" : "Confident that he's not being followed, he heads into the forest for his cabin.",
-  "id" : 809215047637594113,
-  "created_at" : "2016-12-15 01:54:36 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809213884183834624",
-  "text" : "He lands on the top of a tree and hides within the leaves, catching sight of a patrolling guard.",
-  "id" : 809213884183834624,
-  "created_at" : "2016-12-15 01:49:59 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809213174503395328",
-  "text" : "He then leaves as quickly as he entered, an air of mystery around the stallion.",
-  "id" : 809213174503395328,
-  "created_at" : "2016-12-15 01:47:09 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809212411278479361",
-  "text" : "He then just looks around, paranoid. He then gets up and whispers to the dragon. \"Meet me outside the Everfree entrance.\"",
-  "id" : 809212411278479361,
-  "created_at" : "2016-12-15 01:44:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809211687064784898",
-  "text" : "He looks to the young dragon in total confusion, not saying a word.",
-  "id" : 809211687064784898,
-  "created_at" : "2016-12-15 01:41:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809210821700177921",
-  "text" : "He then walks to a nearby table, as far back in the eatery as possible, sitting down.",
-  "id" : 809210821700177921,
-  "created_at" : "2016-12-15 01:37:48 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809210275199119360",
-  "text" : "He quietly lands and slowly enters AntiChimie's place of business, looking around briefly.",
-  "id" : 809210275199119360,
-  "created_at" : "2016-12-15 01:35:38 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809208283902971904",
-  "text" : "He cautiously climbs on the side of a building, the cloak flowing behind him, and blending him somewhat against the wall color.",
-  "id" : 809208283902971904,
-  "created_at" : "2016-12-15 01:27:43 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809207406626557953",
-  "text" : "Not soon after, he cautiously heads to the city, taking the relatively unguarded back roads.",
-  "id" : 809207406626557953,
-  "created_at" : "2016-12-15 01:24:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809206216996114434",
-  "text" : "The stallion cautiously moves about the cabin, digging out a patchwork cloak.",
-  "id" : 809206216996114434,
-  "created_at" : "2016-12-15 01:19:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809205021636259840",
-  "text" : "\"Are they finally gone?\"",
-  "id" : 809205021636259840,
-  "created_at" : "2016-12-15 01:14:46 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809204722288750592",
-  "text" : "Antihammer peeks out of the cabin window.",
-  "id" : 809204722288750592,
-  "created_at" : "2016-12-15 01:13:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809118178077003777",
-  "text" : "\"Hmm.\"",
-  "id" : 809118178077003777,
-  "created_at" : "2016-12-14 19:29:40 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809117211487064064",
-  "text" : "He blinks and looks out the window.",
-  "id" : 809117211487064064,
-  "created_at" : "2016-12-14 19:25:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809109388665487360",
-  "text" : "Scenes of the battle still fresh in his mind, combined with the initial battle with the evil princess, the PTSD is a bit much for him.",
-  "id" : 809109388665487360,
-  "created_at" : "2016-12-14 18:54:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809108525498695682",
-  "text" : "The stallion, unlike his normal self, fully in red, still covered in a blanket, muttering to himself in the corner of the cabin.",
-  "id" : 809108525498695682,
-  "created_at" : "2016-12-14 18:51:19 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809108363208429569",
-  "text" : "Several platoons worth of guard armor, bruised, battered, broken, the stench of battle ripe in the land, the forest inhabitants steer clear.",
-  "id" : 809108363208429569,
-  "created_at" : "2016-12-14 18:50:40 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809107967731793920",
-  "text" : "In the depths of the Anti-Everfree or whatever it would be called, near the hastily built and maintained cabin, rests something horrible.",
-  "id" : 809107967731793920,
-  "created_at" : "2016-12-14 18:49:06 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809083834885177344",
-  "text" : "Some might ask, what makes the alternate Starhammer evil? That remains to be seen.",
-  "id" : 809083834885177344,
-  "created_at" : "2016-12-14 17:13:12 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809082317679579136",
-  "text" : "He seems to even be rocking against the side of a tree, chanting to himself, clearly in denial. \"I'm fine, I'm fine, I'm fine.\"",
-  "id" : 809082317679579136,
-  "created_at" : "2016-12-14 17:07:11 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Spike Dragon",
-      "screen_name" : "mlp_spike",
-      "indices" : [ 28, 38 ],
-      "id_str" : "262742727",
-      "id" : 262742727
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809081538033971200",
-  "text" : "Unfortunately, at least for @mlp_Spike, it's like he doesn't want to be found at all.",
-  "id" : 809081538033971200,
-  "created_at" : "2016-12-14 17:04:05 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "809081391585624064",
-  "text" : "In the depths of the Everfree, because why not, Dark Starhammer continues to rest in relative secrecy, a thick blanket around him.",
-  "id" : 809081391585624064,
-  "created_at" : "2016-12-14 17:03:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808850514775523328",
-  "text" : "The real article, meanwhile, works on his supper.",
-  "id" : 808850514775523328,
-  "created_at" : "2016-12-14 01:46:05 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808847514212401152",
-  "text" : "The last thing he was heard saying, was something about pride.",
-  "id" : 808847514212401152,
-  "created_at" : "2016-12-14 01:34:09 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808846696973209601",
-  "text" : "To this day, the blacksmiths under her dark employ are still trying to fix the holes in her battle armor.",
-  "id" : 808846696973209601,
-  "created_at" : "2016-12-14 01:30:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "mlp_Evilestia",
-      "screen_name" : "mlp_Evilestia",
-      "indices" : [ 23, 37 ],
-      "id_str" : "721339304576987137",
-      "id" : 721339304576987137
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808846502995038208",
-  "text" : "Rumors went around how @mlp_Evilestia tried to get him to make armor for her guards, and he responded appropriately.",
-  "id" : 808846502995038208,
-  "created_at" : "2016-12-14 01:30:08 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808846079953424384",
-  "text" : "In Bizarro Equestria, his doppelganger is surprisingly absent from the general public.",
-  "id" : 808846079953424384,
-  "created_at" : "2016-12-14 01:28:27 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808733420448841728",
-  "text" : "He had the foresight to lock the office door.",
-  "id" : 808733420448841728,
-  "created_at" : "2016-12-13 18:00:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808729887724994560",
-  "text" : "He wonders what his equivalent in the evil realm would be like.",
-  "id" : 808729887724994560,
-  "created_at" : "2016-12-13 17:46:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808727922991362052",
-  "text" : "He's in his office, grumbling, today. Something about a budget.",
-  "id" : 808727922991362052,
-  "created_at" : "2016-12-13 17:38:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Friendship Guard",
-      "screen_name" : "mlp_FriendGuard",
-      "indices" : [ 24, 40 ],
-      "id_str" : "3059690825",
-      "id" : 3059690825
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808490962850816001",
-  "text" : "He sighs and alerts the @mlp_FriendGuard.",
-  "id" : 808490962850816001,
-  "created_at" : "2016-12-13 01:57:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Evil Guard",
-      "screen_name" : "mlp_EvilGuard",
-      "indices" : [ 44, 58 ],
-      "id_str" : "728204739511525378",
-      "id" : 728204739511525378
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808490566472372224",
-  "text" : "He opens the office window, staring down at @mlp_EvilGuard. \"GET OUT.\"",
-  "id" : 808490566472372224,
-  "created_at" : "2016-12-13 01:55:46 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808363749044264962",
-  "text" : "He then gets back to his relatively normal paperwork, filling out a few purchase orders.",
-  "id" : 808363749044264962,
-  "created_at" : "2016-12-12 17:31:51 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Princess Celestia",
-      "screen_name" : "mlp_Celestia",
-      "indices" : [ 31, 44 ],
-      "id_str" : "262811871",
-      "id" : 262811871
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808363160709251073",
-  "text" : "He sends off the letter to Pr. @mlp_Celestia's office, asking about historical trends in aetheric mana levels, and the next predicted high.",
-  "id" : 808363160709251073,
-  "created_at" : "2016-12-12 17:29:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808359952586801152",
-  "text" : "INT 19 STR 13 CON 15 DEX 14 WIS 16 CHA 11",
-  "id" : 808359952586801152,
-  "created_at" : "2016-12-12 17:16:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808359762253479936",
-  "text" : "He stops, long enough to pull up a small card, it seems to have some obscure text printed on it.",
-  "id" : 808359762253479936,
-  "created_at" : "2016-12-12 17:16:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808358623894208516",
-  "text" : "He starts to comment, \"The difference between intelligence and wisdom is hard to pick up for some, isn't it?\"",
-  "id" : 808358623894208516,
-  "created_at" : "2016-12-12 17:11:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808350100397445126",
-  "text" : "Another day starts, and he's already in his office, composing a letter with some sort of stationery.",
-  "id" : 808350100397445126,
-  "created_at" : "2016-12-12 16:37:37 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808200534456930304",
-  "text" : "\"... but who in equestria would have a clue about aetheric levels in the air and the historic patterns to forecast on?\"",
-  "id" : 808200534456930304,
-  "created_at" : "2016-12-12 06:43:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808197424586035200",
-  "text" : "\"The only thing left, is to get in touch with a friend about forecasts.\"",
-  "id" : 808197424586035200,
-  "created_at" : "2016-12-12 06:30:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808196519954411520",
-  "text" : "\"It's time to get the retirement paperwork in play, if what's going on is what I think is going on.\"",
-  "id" : 808196519954411520,
-  "created_at" : "2016-12-12 06:27:20 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808196162784206848",
-  "text" : "Before the stallion heads to his bedroom to sleep for the night, a very thick sealed packet is removed from a thrice locked safe.",
-  "id" : 808196162784206848,
-  "created_at" : "2016-12-12 06:25:55 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808159777360584704",
-  "text" : "\"I've only been down this road once.\"",
-  "id" : 808159777360584704,
-  "created_at" : "2016-12-12 04:01:20 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808159385960714241",
-  "text" : "\"I know this feeling.\"",
-  "id" : 808159385960714241,
-  "created_at" : "2016-12-12 03:59:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808158505567944705",
-  "text" : "He sits at a table in the common room, resting. Thoughts long brought to the forefront about the future.",
-  "id" : 808158505567944705,
-  "created_at" : "2016-12-12 03:56:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808154722972659716",
-  "text" : "He walks into the tree castle, with an aura never before seen, though imperceptible to most ponies.",
-  "id" : 808154722972659716,
-  "created_at" : "2016-12-12 03:41:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808116321833590784",
-  "text" : "The train for Ponyville rolls into the station and he disembarks.",
-  "id" : 808116321833590784,
-  "created_at" : "2016-12-12 01:08:39 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808058525796749312",
-  "text" : "He appears to be waiting near the throne room for some reason, today.",
-  "id" : 808058525796749312,
-  "created_at" : "2016-12-11 21:19:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "808052914702942208",
-  "text" : "He continues to converse with the local guards in the castle, presumably for no real reason, but for intel gathering.",
-  "id" : 808052914702942208,
-  "created_at" : "2016-12-11 20:56:42 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Guard Ponies",
-      "screen_name" : "mlp_guardpony",
-      "indices" : [ 94, 108 ],
-      "id_str" : "278650968",
-      "id" : 278650968
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807982785721929728",
-  "text" : "He's been hanging around the Day Castle for some odd reason, today, conversing with the local @mlp_guardpony stationed there.",
-  "id" : 807982785721929728,
-  "created_at" : "2016-12-11 16:18:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807819253646757888",
-  "text" : "The stallion enters the royal castle's entrance, conversing with the local guards, mostly for his own purposes.",
-  "id" : 807819253646757888,
-  "created_at" : "2016-12-11 05:28:13 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Princess Celestia",
-      "screen_name" : "RoyalDayShift",
-      "indices" : [ 0, 14 ],
-      "id_str" : "328979511",
-      "id" : 328979511
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "807810039503273984",
-  "geo" : { },
-  "id_str" : "807810215794147328",
-  "in_reply_to_user_id" : 328979511,
-  "text" : "@RoyalDayShift \"... do we even have bandages?\"",
-  "id" : 807810215794147328,
-  "in_reply_to_status_id" : 807810039503273984,
-  "created_at" : "2016-12-11 04:52:18 +0000",
-  "in_reply_to_screen_name" : "RoyalDayShift",
-  "in_reply_to_user_id_str" : "328979511",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807756163689357312",
-  "text" : "\"Ah, there we go, Runic Writing, Volume 3.\", he pulls down a medium sized tome with some gray accents on the cover.",
-  "id" : 807756163689357312,
-  "created_at" : "2016-12-11 01:17:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807753977341378560",
-  "text" : "For some reason, he exclaims, \"I DIDN'T DO IT.\"",
-  "id" : 807753977341378560,
-  "created_at" : "2016-12-11 01:08:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807752843717410816",
-  "text" : "\"Let's see what's available, here.\", he looks around briefly for a local librarian.",
-  "id" : 807752843717410816,
-  "created_at" : "2016-12-11 01:04:19 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807747314664296448",
-  "text" : "\"Well, that was not worth the time and effort, so it's back to research, I guess. Magic theory is a hard subject to figure out.\"",
-  "id" : 807747314664296448,
-  "created_at" : "2016-12-11 00:42:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807745672141271040",
-  "text" : "The stallion walks to the Canterlot University, heading specifically for the library section for research.",
-  "id" : 807745672141271040,
-  "created_at" : "2016-12-11 00:35:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807734420526481408",
-  "text" : "After several hours of boring and long lecture, he exits the building.",
-  "id" : 807734420526481408,
-  "created_at" : "2016-12-10 23:51:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807670826879356929",
-  "text" : "\"Welcome to Alternative Spellcasting 201, fillies and gentlecolts.\", the lead starts to elaborate.",
-  "id" : 807670826879356929,
-  "created_at" : "2016-12-10 19:38:25 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807670645731500034",
-  "text" : "The stallion sits down in a chair with several other ponies, most of them unicorns, and some fancy looking one walks up to a podium.",
-  "id" : 807670645731500034,
-  "created_at" : "2016-12-10 19:37:42 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807665591767203840",
-  "text" : "He finishes off the lunch, leaving behind the newspaper, and heads out for the building in Canterlot.",
-  "id" : 807665591767203840,
-  "created_at" : "2016-12-10 19:17:37 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807656314063110145",
-  "text" : "With his experience with figuring out his spice tolerance, he won't need any.",
-  "id" : 807656314063110145,
-  "created_at" : "2016-12-10 18:40:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807654840775999488",
-  "text" : "He turns toward her. \"Ah, sorry. Chimie then?\"",
-  "id" : 807654840775999488,
-  "created_at" : "2016-12-10 18:34:54 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807654737185214464",
-  "text" : "He starts to slowly munch on one of the tacos while looking over the local news. \"... a tomato shortage? At this time of year?\"",
-  "id" : 807654737185214464,
-  "created_at" : "2016-12-10 18:34:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807653487601295360",
-  "text" : "He looks up from his newspaper and nods to the pegapheonix. \"Thanks, Lady Chimie.\"",
-  "id" : 807653487601295360,
-  "created_at" : "2016-12-10 18:29:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807650759584034816",
-  "text" : "He then sits down, pulling out a local newspaper from one of the neighboring tables.",
-  "id" : 807650759584034816,
-  "created_at" : "2016-12-10 18:18:41 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807649909209870336",
-  "text" : "\"Thanks!\", he comments as he walks, looking toward the evil princess with the same look from before, being totally creepy looking.",
-  "id" : 807649909209870336,
-  "created_at" : "2016-12-10 18:15:18 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807648780585549824",
-  "text" : "He bows to Dame Chimie. \"HAAAAAAI.\", he then coughs. \"Uhm, anyway, could I get a triple taco pack with the usual medium heat sauce?\"",
-  "id" : 807648780585549824,
-  "created_at" : "2016-12-10 18:10:49 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chimie Changa",
-      "screen_name" : "mlp_Chimie",
-      "indices" : [ 58, 69 ],
-      "id_str" : "2555202907",
-      "id" : 2555202907
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807648030409134080",
-  "text" : "He then gets up and heads for the counter, looking toward @mlp_Chimie.",
-  "id" : 807648030409134080,
-  "created_at" : "2016-12-10 18:07:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807643492285497345",
-  "text" : "He replies with the classic \"I've worked retail for years and I'm dead inside, happy face\" to the Evil princess.",
-  "id" : 807643492285497345,
-  "created_at" : "2016-12-10 17:49:48 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807641345049460736",
-  "text" : "The very idea of the princess cooking causes him to laugh a bit.",
-  "id" : 807641345049460736,
-  "created_at" : "2016-12-10 17:41:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807640028021223424",
-  "text" : "He's been a drill sarge at least twice in his guard career, so he knows how to handle this sort of situation.",
-  "id" : 807640028021223424,
-  "created_at" : "2016-12-10 17:36:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807638239032975360",
-  "text" : "He seems to just roll his eyes, and wait patiently.",
-  "id" : 807638239032975360,
-  "created_at" : "2016-12-10 17:28:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807636402418565120",
-  "text" : "He heads in behind the evil company and Flash, sitting at a table. \"Might as well get some dinner before the seminar.\"",
-  "id" : 807636402418565120,
-  "created_at" : "2016-12-10 17:21:38 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807633370477895680",
-  "text" : "He deposits the gear and heads out for the shopping part of the city.",
-  "id" : 807633370477895680,
-  "created_at" : "2016-12-10 17:09:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807625689029427202",
-  "text" : "Meanwhile, elsewhere in Canterlot, he arrives at a building near the Day Castle. \"... never thought I'd be here again.\"",
-  "id" : 807625689029427202,
-  "created_at" : "2016-12-10 16:39:03 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807393767267373056",
-  "text" : "\"There's a parade going on?\"",
-  "id" : 807393767267373056,
-  "created_at" : "2016-12-10 01:17:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807349816015589376",
-  "text" : "\"Princess Grumphammer. I still can't believe that is a thing.\", he comments while putting on the travel packs.",
-  "id" : 807349816015589376,
-  "created_at" : "2016-12-09 22:22:50 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807348529781997568",
-  "text" : "\"There we go, all packed.\"",
-  "id" : 807348529781997568,
-  "created_at" : "2016-12-09 22:17:43 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807309574474760192",
-  "text" : "\"Can't believe Canterlot has a seminar that I have to attend.\"",
-  "id" : 807309574474760192,
-  "created_at" : "2016-12-09 19:42:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807308602692304899",
-  "text" : "Today, the Grumphammer is busy packing a travel saddlebag.",
-  "id" : 807308602692304899,
-  "created_at" : "2016-12-09 19:39:04 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "807116808524361728",
-  "text" : "He was in the beta ARKS team, but only briefly. The pay was insufficient.",
-  "id" : 807116808524361728,
-  "created_at" : "2016-12-09 06:56:57 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806911458831310852",
-  "text" : "He certainly feels the love today, carrying a mug of hot tea with him to the office.",
-  "id" : 806911458831310852,
-  "created_at" : "2016-12-08 17:20:58 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806907013896798208",
-  "text" : "\"First thing's first. I need some hot tea, then.\", he then starts to head for the kitchen.",
-  "id" : 806907013896798208,
-  "created_at" : "2016-12-08 17:03:18 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806904681305935872",
-  "text" : "He sighs while in his office. \"Time flies. In fact, the more I dwell on the past, the more I probably could learn from it.\"",
-  "id" : 806904681305935872,
-  "created_at" : "2016-12-08 16:54:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 54, 77 ],
-      "url" : "https:\/\/t.co\/CuDXStRLoM",
-      "expanded_url" : "https:\/\/twitter.com\/mlp_starhammer\/statuses\/277782483901235202",
-      "display_url" : "twitter.com\/mlp_starhammer\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "806904180585746434",
-  "text" : "\"Has it really been four years since I came to town?\"\nhttps:\/\/t.co\/CuDXStRLoM",
-  "id" : 806904180585746434,
-  "created_at" : "2016-12-08 16:52:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806671787245322252",
-  "text" : "\"Maybe, I should have been a mare.\"",
-  "id" : 806671787245322252,
-  "created_at" : "2016-12-08 01:28:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806668941816905730",
-  "text" : "The radio transmission ends, and he sighs. \"That's a stupid name.\"",
-  "id" : 806668941816905730,
-  "created_at" : "2016-12-08 01:17:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806668783318351876",
-  "text" : "\"As always, thank you for your time, Equestria. This is Princess Grumphammer, signing out.\"",
-  "id" : 806668783318351876,
-  "created_at" : "2016-12-08 01:16:39 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806668347265925122",
-  "text" : "\"Guards assigned to Ponyville should consult with your captain or guard dispatch about shifts, as we do not directly handle it.\"",
-  "id" : 806668347265925122,
-  "created_at" : "2016-12-08 01:14:55 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806667958013620232",
-  "text" : "\"We apologize for any inconvenience this may cause. Mail services will be delayed as usual.\"",
-  "id" : 806667958013620232,
-  "created_at" : "2016-12-08 01:13:23 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806667507847360512",
-  "text" : "\"All support services and offices will be unavailable, this weekend in the tree castle due to a scheduled vacation.\"",
-  "id" : 806667507847360512,
-  "created_at" : "2016-12-08 01:11:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806667104107855872",
-  "text" : "The radio fires to life, and he starts broadcasting. \"Once again, this is Princess Grumphammer, relaying an announcement.\"",
-  "id" : 806667104107855872,
-  "created_at" : "2016-12-08 01:09:59 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806616829779202056",
-  "text" : "He finishes up a bit of paperwork and heads for the radio room. \"Might as well get the word out.\"",
-  "id" : 806616829779202056,
-  "created_at" : "2016-12-07 21:50:13 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Princess Luna",
-      "screen_name" : "RoyalNightShift",
-      "indices" : [ 57, 73 ],
-      "id_str" : "283320306",
-      "id" : 283320306
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "806394626764632064",
-  "geo" : { },
-  "id_str" : "806394823422918656",
-  "in_reply_to_user_id" : 283320306,
-  "text" : "\"I tried that with a mare, and look where that got me.\"\n\n@RoyalNightShift",
-  "id" : 806394823422918656,
-  "in_reply_to_status_id" : 806394626764632064,
-  "created_at" : "2016-12-07 07:08:02 +0000",
-  "in_reply_to_screen_name" : "RoyalNightShift",
-  "in_reply_to_user_id_str" : "283320306",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806376878483341312",
-  "text" : "He heads for his bedroom and climbs into bed.",
-  "id" : 806376878483341312,
-  "created_at" : "2016-12-07 05:56:44 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806371225731735552",
-  "text" : "The reply arrives rather quickly, and he just sighs. He then gets up to look out the office window.",
-  "id" : 806371225731735552,
-  "created_at" : "2016-12-07 05:34:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
-      "screen_name" : "mlp_WinterT",
-      "indices" : [ 38, 50 ],
-      "id_str" : "788122955762896897",
-      "id" : 788122955762896897
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806369766327861248",
-  "text" : "He finally gets around to replying to @mlp_WinterT's request.\n\"I'll be free this weekend, more than likely, assuming nothing odd happens.\"",
-  "id" : 806369766327861248,
-  "created_at" : "2016-12-07 05:28:28 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806344153034620928",
-  "text" : "The last time someone tried to win favor with him, there was a huge pan of strawberry cheesecake waiting for him.",
-  "id" : 806344153034620928,
-  "created_at" : "2016-12-07 03:46:41 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806343260557803520",
-  "text" : "The tree castle has fruitcake \/banned\/.",
-  "id" : 806343260557803520,
-  "created_at" : "2016-12-07 03:43:09 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806307611574464512",
-  "text" : "He's in the kitchen, lightly munching on some obscure fruit.",
-  "id" : 806307611574464512,
-  "created_at" : "2016-12-07 01:21:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806202335013781504",
-  "text" : "He merely sends off a package of caramel candies in response and goes back to the ledger.",
-  "id" : 806202335013781504,
-  "created_at" : "2016-12-06 18:23:09 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806201436145074176",
-  "text" : "The note arrives and he just shakes his head.",
-  "id" : 806201436145074176,
-  "created_at" : "2016-12-06 18:19:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806196173392478208",
-  "text" : "A purchase order is filed for cake supplies and pushed out.",
-  "id" : 806196173392478208,
-  "created_at" : "2016-12-06 17:58:40 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806185717323956229",
-  "text" : "In the office, he's reviewing a ledger of recent expenses.",
-  "id" : 806185717323956229,
-  "created_at" : "2016-12-06 17:17:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805623390241521665",
-  "text" : "\"... no need, I live in the castle, these days. I'll just go to my bedroom.\", he yawns.",
-  "id" : 805623390241521665,
-  "created_at" : "2016-12-05 04:02:38 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805612912677158921",
-  "text" : "\"The answer just never comes to you, right away.\"",
-  "id" : 805612912677158921,
-  "created_at" : "2016-12-05 03:21:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805612805772742657",
-  "text" : "\"If it's anything I've learned lately, you'll figure something out.\"",
-  "id" : 805612805772742657,
-  "created_at" : "2016-12-05 03:20:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805611253649514496",
-  "text" : "He shrugs. \"Not my call to make, really.\"",
-  "id" : 805611253649514496,
-  "created_at" : "2016-12-05 03:14:25 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805608762912477184",
-  "text" : "\"Maybe you should setup a first aid class or something.\"",
-  "id" : 805608762912477184,
-  "created_at" : "2016-12-05 03:04:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805608702057316352",
-  "text" : "\"So? That's nothing new. I haven't done that much blacksmithing work in recent months, and the town has at least one capable smith.\"",
-  "id" : 805608702057316352,
-  "created_at" : "2016-12-05 03:04:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805607489769242624",
-  "text" : "\"It's your choice to make, but don't kid yourself. There's always a need for them. Just a matter of where.\"",
-  "id" : 805607489769242624,
-  "created_at" : "2016-12-05 02:59:27 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805606424298590208",
-  "text" : "\"Experience is the best teacher, sometimes.\"",
-  "id" : 805606424298590208,
-  "created_at" : "2016-12-05 02:55:13 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805605696100335617",
-  "text" : "\"I've been experimenting with alternative spellcasting, and it finally paid off last night.\"",
-  "id" : 805605696100335617,
-  "created_at" : "2016-12-05 02:52:20 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805605263227158528",
-  "text" : "\"It's too much into the realm of magic to explain easily.\"",
-  "id" : 805605263227158528,
-  "created_at" : "2016-12-05 02:50:36 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805604536664674304",
-  "text" : "\"I guess, the easiest way to explain it, is I ... tempered myself.\"",
-  "id" : 805604536664674304,
-  "created_at" : "2016-12-05 02:47:43 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805601150938546176",
-  "text" : "He expands one of his wings fully to the unicorn. \"Anything looks different to you?\"",
-  "id" : 805601150938546176,
-  "created_at" : "2016-12-05 02:34:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805600217781387264",
-  "text" : "He turns toward her. \"Earl Grey, if you please.\"",
-  "id" : 805600217781387264,
-  "created_at" : "2016-12-05 02:30:33 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805598947981008900",
-  "text" : "He sits in the chair. \"... why did you get the comfy chair?\"",
-  "id" : 805598947981008900,
-  "created_at" : "2016-12-05 02:25:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805598161796558852",
-  "text" : "He fully expands his wings and just shrugs. \"After what I did last night, I'm not so sure.\"",
-  "id" : 805598161796558852,
-  "created_at" : "2016-12-05 02:22:23 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805597411896938497",
-  "text" : "\"I'm not that important.\"",
-  "id" : 805597411896938497,
-  "created_at" : "2016-12-05 02:19:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805595356247506944",
-  "text" : "\"Uh, sorry, that I haven't been in touch, I've been rather busy as of late.\"",
-  "id" : 805595356247506944,
-  "created_at" : "2016-12-05 02:11:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805594931075149824",
-  "text" : "Enters further, anyway.",
-  "id" : 805594931075149824,
-  "created_at" : "2016-12-05 02:09:33 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805594879795531776",
-  "text" : "He sighs and slowly enters. \"You okay in here?\"",
-  "id" : 805594879795531776,
-  "created_at" : "2016-12-05 02:09:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805594291611570176",
-  "text" : "He quietly enters the room, a bit ... concerned.",
-  "id" : 805594291611570176,
-  "created_at" : "2016-12-05 02:07:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ace Bandage",
-      "screen_name" : "mlp_Bandage",
-      "indices" : [ 67, 79 ],
-      "id_str" : "2872052244",
-      "id" : 2872052244
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805593059190865921",
-  "text" : "\"Where was her office again, I forget.\", the pegasus looks for the @mlp_Bandage office. \"... Note to self, update the map.\"",
-  "id" : 805593059190865921,
-  "created_at" : "2016-12-05 02:02:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805592681665724416",
-  "text" : "After some flight, he lands at the balcony to his office, and heads downstairs, shortly afterword.",
-  "id" : 805592681665724416,
-  "created_at" : "2016-12-05 02:00:37 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805580579504852993",
-  "text" : "He glides around town.",
-  "id" : 805580579504852993,
-  "created_at" : "2016-12-05 01:12:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805547462681395201",
-  "text" : "He sits on the roof of the tree castle and takes off into a glide.",
-  "id" : 805547462681395201,
-  "created_at" : "2016-12-04 23:00:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805482783560830977",
-  "text" : "\"Foxtrot? Interesting name. Let me know if you need additional help.\", he then walks to the common room tables to rest.",
-  "id" : 805482783560830977,
-  "created_at" : "2016-12-04 18:43:55 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805481688277123076",
-  "text" : "\"Starhammer, castle quartermaster. Ms. ...\"",
-  "id" : 805481688277123076,
-  "created_at" : "2016-12-04 18:39:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805480065479872513",
-  "text" : "\"I believe that's in the references section.\", he points to a specific rack with one of his wings. \"Try there.\"",
-  "id" : 805480065479872513,
-  "created_at" : "2016-12-04 18:33:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805479177629667329",
-  "text" : "\"Do you need some help, miss? You appear to be a bit lost.\"",
-  "id" : 805479177629667329,
-  "created_at" : "2016-12-04 18:29:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Foxtrot",
-      "screen_name" : "mlp_FoxTrotter",
-      "indices" : [ 18, 33 ],
-      "id_str" : "793224982113361920",
-      "id" : 793224982113361920
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805478297618485249",
-  "text" : "The pegasus nears @mlp_Foxtrotter, about to ask if they need assistance.",
-  "id" : 805478297618485249,
-  "created_at" : "2016-12-04 18:26:05 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sweet Mocha",
-      "screen_name" : "mlp_SMocha",
-      "indices" : [ 51, 62 ],
-      "id_str" : "2302152912",
-      "id" : 2302152912
-    }, {
-      "name" : "Annie",
-      "screen_name" : "mlp_Anya",
-      "indices" : [ 67, 76 ],
-      "id_str" : "560858724",
-      "id" : 560858724
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805458155308191744",
-  "text" : "\/\/ The art credit from last night's reveal is from @mlp_SMocha and @mlp_Anya's players. The player deeply regrets the error.",
-  "id" : 805458155308191744,
-  "created_at" : "2016-12-04 17:06:03 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805452421208145920",
-  "text" : "\"Kind of a quiet morning, isn't it?\"",
-  "id" : 805452421208145920,
-  "created_at" : "2016-12-04 16:43:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Capt. Brave Soul",
-      "screen_name" : "mlp_Brave_Soul",
-      "indices" : [ 12, 27 ],
-      "id_str" : "2988118703",
-      "id" : 2988118703
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805451171544567808",
-  "text" : "He waves to @mlp_Brave_Soul, the moment he catches sight of him.",
-  "id" : 805451171544567808,
-  "created_at" : "2016-12-04 16:38:18 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805449970161684481",
-  "text" : "The pegasus is up and awake, in the common room. The new look might be a surprise to some.",
-  "id" : 805449970161684481,
-  "created_at" : "2016-12-04 16:33:32 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805321874888605696",
-  "text" : "\"I'd appreciate that, thanks.\"",
-  "id" : 805321874888605696,
-  "created_at" : "2016-12-04 08:04:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805321612107149312",
-  "text" : "\"I think we all will, in time. For now, I should head home before I pass out. That little stunt was rather taxing on me.\"",
-  "id" : 805321612107149312,
-  "created_at" : "2016-12-04 08:03:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805320318365659136",
-  "text" : "He has a grand smirk on his face. \"Magic.\"",
-  "id" : 805320318365659136,
-  "created_at" : "2016-12-04 07:58:20 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805317869131141120",
-  "text" : "\"Only certain families did it, back when it was first discovered as a form of augmentation, back when it was needed.\"",
-  "id" : 805317869131141120,
-  "created_at" : "2016-12-04 07:48:36 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805317642240278528",
-  "text" : "\"Probably not. The act of feather imbuing is intended to assist with weather management, and fell out of practice years ago.\"",
-  "id" : 805317642240278528,
-  "created_at" : "2016-12-04 07:47:42 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805316712346374144",
-  "text" : "He then starts to get up, stumbling as the exhaustion hits him like a ton of bricks.",
-  "id" : 805316712346374144,
-  "created_at" : "2016-12-04 07:44:00 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805315933996720128",
-  "text" : "\"So, in essence, I tempered myself.\", the gold tips seem to not only cover his feathers, but the ears as well.",
-  "id" : 805315933996720128,
-  "created_at" : "2016-12-04 07:40:55 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sweet Mocha",
-      "screen_name" : "mlp_SMocha",
-      "indices" : [ 3, 14 ],
-      "id_str" : "2302152912",
-      "id" : 2302152912
-    }, {
-      "name" : "Quartermaster Starhammer",
-      "screen_name" : "mlp_starhammer",
-      "indices" : [ 16, 31 ],
-      "id_str" : "998563693",
-      "id" : 998563693
-    }, {
-      "name" : "Annie",
-      "screen_name" : "mlp_Anya",
-      "indices" : [ 54, 63 ],
-      "id_str" : "560858724",
-      "id" : 560858724
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805315167244455936",
-  "text" : "RT @mlp_SMocha: @mlp_starhammer ((The other artist is @mlp_Anya! ^.^))",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Quartermaster Starhammer",
-        "screen_name" : "mlp_starhammer",
-        "indices" : [ 0, 15 ],
-        "id_str" : "998563693",
-        "id" : 998563693
-      }, {
-        "name" : "Annie",
-        "screen_name" : "mlp_Anya",
-        "indices" : [ 38, 47 ],
-        "id_str" : "560858724",
-        "id" : 560858724
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "805314665823793152",
-    "geo" : { },
-    "id_str" : "805315051259330560",
-    "in_reply_to_user_id" : 998563693,
-    "text" : "@mlp_starhammer ((The other artist is @mlp_Anya! ^.^))",
-    "id" : 805315051259330560,
-    "in_reply_to_status_id" : 805314665823793152,
-    "created_at" : "2016-12-04 07:37:24 +0000",
-    "in_reply_to_screen_name" : "mlp_starhammer",
-    "in_reply_to_user_id_str" : "998563693",
-    "user" : {
-      "name" : "Sweet Mocha",
-      "screen_name" : "mlp_SMocha",
-      "protected" : false,
-      "id_str" : "2302152912",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925699906697773057\/yzekLOE-_normal.jpg",
-      "id" : 2302152912,
-      "verified" : false
-    }
-  },
-  "id" : 805315167244455936,
-  "created_at" : "2016-12-04 07:37:52 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sweet Mocha",
-      "screen_name" : "mlp_SMocha",
-      "indices" : [ 15, 26 ],
-      "id_str" : "2302152912",
-      "id" : 2302152912
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805314665823793152",
-  "text" : "\/\/ Art credit: @mlp_SMocha's player and another artist.",
-  "id" : 805314665823793152,
-  "created_at" : "2016-12-04 07:35:53 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/mlp_starhammer\/status\/805314392573308928\/photo\/1",
-      "indices" : [ 80, 103 ],
-      "url" : "https:\/\/t.co\/K3vsLTDU9Z",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cy0NJCfW8AE2uPD.jpg",
-      "id_str" : "805314357307568129",
-      "id" : 805314357307568129,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cy0NJCfW8AE2uPD.jpg",
-      "sizes" : [ {
-        "h" : 1451,
-        "resize" : "fit",
-        "w" : 1023
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1451,
-        "resize" : "fit",
-        "w" : 1023
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 846
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 479
-      } ],
-      "display_url" : "pic.twitter.com\/K3vsLTDU9Z"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805314392573308928",
-  "text" : "He sits down, waiting for his body to recover, his wings out and fully visible. https:\/\/t.co\/K3vsLTDU9Z",
-  "id" : 805314392573308928,
-  "created_at" : "2016-12-04 07:34:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805313812022906880",
-  "text" : "The gleam dissipates and scatters with the wind, the spell's effect having taken hold on him, and he glides to the ground.",
-  "id" : 805313812022906880,
-  "created_at" : "2016-12-04 07:32:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805313311487180800",
-  "text" : "He opens his eyes, and expands his wings out, the sheen completely coating the pegasus. After a few minutes, the wind starts to die down.",
-  "id" : 805313311487180800,
-  "created_at" : "2016-12-04 07:30:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805312780349952000",
-  "text" : "The wind picks up and starts to rotate around the pegasus, the gold starting to wrap him, breaking the previous enchantment into dust.",
-  "id" : 805312780349952000,
-  "created_at" : "2016-12-04 07:28:23 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805312460790099969",
-  "text" : "\"Tonight, I pledge myself to furthering my life, I pledge myself to being what I was always meant to be. Tonight, it all changes.\"",
-  "id" : 805312460790099969,
-  "created_at" : "2016-12-04 07:27:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805312125220651012",
-  "text" : "\"He has no idea how right he was, but I got this far from pure willpower. Tonight, this would have never happened if I gave up, or faltered\"",
-  "id" : 805312125220651012,
-  "created_at" : "2016-12-04 07:25:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805311809041342465",
-  "text" : "The wind buildup seems to stabilize, and the gold sheen brightens as he talks. \"I am the most stubborn pegasus alive. His exact words.\"",
-  "id" : 805311809041342465,
-  "created_at" : "2016-12-04 07:24:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805311248044883968",
-  "text" : "\"Tailsin, my dad was right about one thing when it came to me above all else, and tonight, I remind myself of it.\"",
-  "id" : 805311248044883968,
-  "created_at" : "2016-12-04 07:22:18 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805311053475311616",
-  "text" : "He starts to get up, eyes closed still, but fully aware of where the wind is, and starts to talk loud.",
-  "id" : 805311053475311616,
-  "created_at" : "2016-12-04 07:21:31 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805310594731667456",
-  "text" : "A third and fourth layer of the gold sheen flies out, meshing in layers upon layers of wind. His concentration is all that keeps it afloat.",
-  "id" : 805310594731667456,
-  "created_at" : "2016-12-04 07:19:42 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805309552954642432",
-  "text" : "The power build up, at this point might cause some of the more sensitive to magic types to take notice, as a second set of the magic flows.",
-  "id" : 805309552954642432,
-  "created_at" : "2016-12-04 07:15:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805309150934798336",
-  "text" : "A sudden build up of wind based magic flows out of him carried by the very winds, and slowly dancing around the area with a gold sheen.",
-  "id" : 805309150934798336,
-  "created_at" : "2016-12-04 07:13:58 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805308442089058304",
-  "text" : "The effect starts to magnify, making his mane resemble someone else's for a bit, and then he takes a deep breath, the wind getting strong.",
-  "id" : 805308442089058304,
-  "created_at" : "2016-12-04 07:11:09 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805307733243203584",
-  "text" : "The wind pushes through his mane and seems to make it float into the air a bit, making it almost sparkle against the moonlight.",
-  "id" : 805307733243203584,
-  "created_at" : "2016-12-04 07:08:20 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805307460055629824",
-  "text" : "The binding gets more and more complex, and he keeps focused, wrapping around the problem in a fashion never before seen mentally.",
-  "id" : 805307460055629824,
-  "created_at" : "2016-12-04 07:07:15 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805307129041129472",
-  "text" : "As he concentrates, the wind starts to pick up around them, and a ray of moonlight starts to shine down toward the pegasus.",
-  "id" : 805307129041129472,
-  "created_at" : "2016-12-04 07:05:56 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805306714023194624",
-  "text" : "He starts to breath slow. The focus is brought out and his mind is racing with all sorts of runes and rules, binding them.",
-  "id" : 805306714023194624,
-  "created_at" : "2016-12-04 07:04:17 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805305451965509632",
-  "text" : "\"... nah, just for it to be within range. Ever since the moon trip, I have an attunement with it.\", he then tries to focus more.",
-  "id" : 805305451965509632,
-  "created_at" : "2016-12-04 06:59:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805304870970466304",
-  "text" : "\"Truthfully? The moon.\", he then sits in front of the book, his eyes closed andhe tries to pull out the inner focus.",
-  "id" : 805304870970466304,
-  "created_at" : "2016-12-04 06:56:57 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805303488968323072",
-  "text" : "\"Well, if you consider the round hole the previous enchantment, then probably. I figure it was this or another ten years of feather dye.\"",
-  "id" : 805303488968323072,
-  "created_at" : "2016-12-04 06:51:28 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805302529512927232",
-  "text" : "\"That's what's currently written in the tome. It's a level 4.\"",
-  "id" : 805302529512927232,
-  "created_at" : "2016-12-04 06:47:39 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805302303213297664",
-  "text" : "\"In a sense, I'm following in his hoofsteps, but on myself. The correct spell was supposed to be Imbue Feathers, All Weather.\", he points.",
-  "id" : 805302303213297664,
-  "created_at" : "2016-12-04 06:46:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805301417984610304",
-  "text" : "\"According to several unicorns I spoke to about it, most of them professors, it's a Class 3 enchantment. The chainable kind.\"",
-  "id" : 805301417984610304,
-  "created_at" : "2016-12-04 06:43:14 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805301187473997824",
-  "text" : "\"The modern name for the spell he used was Imbue Feather, Summer, which was a rare enchantment for types of weather.\"",
-  "id" : 805301187473997824,
-  "created_at" : "2016-12-04 06:42:19 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805300802923429888",
-  "text" : "He finally stops at the large grassy field, the moon hanging toward the far eastern area of the sky, and the tome is set down.",
-  "id" : 805300802923429888,
-  "created_at" : "2016-12-04 06:40:47 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805299968944852992",
-  "text" : "\"I ended up adjusting to his screw up, and did research on the side as to what exactly he did. It wasn't easy.\"",
-  "id" : 805299968944852992,
-  "created_at" : "2016-12-04 06:37:29 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805299626060480512",
-  "text" : "Oddly, the pegasus hasn't complained about the weather once, for some reason, he hasn't felt the cold in weeks.",
-  "id" : 805299626060480512,
-  "created_at" : "2016-12-04 06:36:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805298888265572354",
-  "text" : "\"It turns out, my family has a history of dabbling in pegasus magic, and these were the result of an experiment my dad did when I was young\"",
-  "id" : 805298888265572354,
-  "created_at" : "2016-12-04 06:33:11 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805297977426374656",
-  "text" : "\"For years, I thought it was a genetic defect.\"",
-  "id" : 805297977426374656,
-  "created_at" : "2016-12-04 06:29:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805297162871521280",
-  "text" : "Taking the tome with him, he walks toward a clearing, a fair distance away from town. \"Have you ever wondered why my wings are colored odd?\"",
-  "id" : 805297162871521280,
-  "created_at" : "2016-12-04 06:26:19 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805296747333513217",
-  "text" : "\"I can think of one way, and it's only because of the nature of the spell.\", he then shuts the tome and gets up from the desk. \"Follow me.\"",
-  "id" : 805296747333513217,
-  "created_at" : "2016-12-04 06:24:40 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805296321523499008",
-  "text" : "He frowns at Tailsin. \"Then at the very least, I'll move to a safe distance and not try to do this in the middle of the tree castle.\"",
-  "id" : 805296321523499008,
-  "created_at" : "2016-12-04 06:22:59 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805295352198942720",
-  "text" : "\"... and then I'd be on the moon. Again.\"",
-  "id" : 805295352198942720,
-  "created_at" : "2016-12-04 06:19:08 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805295272414875648",
-  "text" : "\"This isn't some crackpot get rich scheme or anything like that, if it were, the castle would have burned down by now, and I'd be dead.\"",
-  "id" : 805295272414875648,
-  "created_at" : "2016-12-04 06:18:49 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805294604480368640",
-  "text" : "\"My point? Proving myself with what I'm truly capable of. I didn't become the legendary blacksmith by just sitting on my flank.\"",
-  "id" : 805294604480368640,
-  "created_at" : "2016-12-04 06:16:10 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805293899128471552",
-  "text" : "The magic bolt makes him jump up a bit and then he glides down, his rear smoking a bit.",
-  "id" : 805293899128471552,
-  "created_at" : "2016-12-04 06:13:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805293406406791168",
-  "text" : "\"... can you summon a lightning bolt at will?\"",
-  "id" : 805293406406791168,
-  "created_at" : "2016-12-04 06:11:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805293181239721984",
-  "text" : "\"Two years of magic theory and alternative spellcasting training on the side more than makes up for that. Unicorns are overrated.\"",
-  "id" : 805293181239721984,
-  "created_at" : "2016-12-04 06:10:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805292540291383296",
-  "text" : "\"Nah, that would be stupid. A thought hit me a week ago. Can I apply the same efficiency when it comes to spell casting? Spells have rules.\"",
-  "id" : 805292540291383296,
-  "created_at" : "2016-12-04 06:07:57 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805290722270253056",
-  "text" : "\"Paperwork. Mounds and mounds of it, of which I have gotten rather efficient at, lately. Every bit of paperwork has rules attached to it.\"",
-  "id" : 805290722270253056,
-  "created_at" : "2016-12-04 06:00:44 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805290025600647169",
-  "text" : "\"A theory for you. What do I do as a quartermaster more than anything else, ever?\"",
-  "id" : 805290025600647169,
-  "created_at" : "2016-12-04 05:57:58 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805289835388870656",
-  "text" : "He blinks. \"Wait what?\", he then shakes his head. \"Not quite. I'm trying something that I normally shouldn't be able to do.\"",
-  "id" : 805289835388870656,
-  "created_at" : "2016-12-04 05:57:12 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805289219438604288",
-  "text" : "\"Sort of. I'm trying to apply a type of knowledge to another field, if that makes any sort of sense.\"",
-  "id" : 805289219438604288,
-  "created_at" : "2016-12-04 05:54:46 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805288713798479872",
-  "text" : "He opens his eyes and looks toward Tailsin. \"AGH. ... erm, sorry. What's up, Tailsin?\"",
-  "id" : 805288713798479872,
-  "created_at" : "2016-12-04 05:52:45 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -13049,10 +8771,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805288280593993729",
-  "text" : "He then closes his eyes, going to the deepest and brightest part of his mind, finding the focus he's only previously seen when on paperwork.",
-  "id" : 805288280593993729,
-  "created_at" : "2016-12-04 05:51:02 +0000",
+  "id_str" : "885378513917943808",
+  "text" : "He finishes some filing, and heads out. Locking the office tight.",
+  "id" : 885378513917943808,
+  "created_at" : "2017-07-13 06:01:01 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13071,10 +8793,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805287647291772928",
-  "text" : "He starts to read over the spell's runes, memorizing them slowly, checking, double checking, triple checking, even quad checking them.",
-  "id" : 805287647291772928,
-  "created_at" : "2016-12-04 05:48:31 +0000",
+  "id_str" : "885367969949380609",
+  "text" : "He heads for the office, yawning.",
+  "id" : 885367969949380609,
+  "created_at" : "2017-07-13 05:19:08 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13093,10 +8815,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805287305011490816",
-  "text" : "\"Lately, though, with my spell theory research and training, ... I might be able to finally do this.\"",
-  "id" : 805287305011490816,
-  "created_at" : "2016-12-04 05:47:09 +0000",
+  "id_str" : "885367503240798210",
+  "text" : "\"I guess I'll ask about the title thing later. It is getting late.\"",
+  "id" : 885367503240798210,
+  "created_at" : "2017-07-13 05:17:16 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13115,10 +8837,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805287002283380736",
-  "text" : "The huge tome is flipped and a few pages before the bookmark is referenced. \"A spell of this magnitude should be beyond me.\"",
-  "id" : 805287002283380736,
-  "created_at" : "2016-12-04 05:45:57 +0000",
+  "id_str" : "885367408378212352",
+  "text" : "He nods to the alternate Twilight. \"Aye.\"",
+  "id" : 885367408378212352,
+  "created_at" : "2017-07-13 05:16:54 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13137,10 +8859,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805282629138481152",
-  "text" : "He exits the office and heads to the common room, a big and thick book set down with a thud, with a silver bookmark embedded inside.",
-  "id" : 805282629138481152,
-  "created_at" : "2016-12-04 05:28:34 +0000",
+  "id_str" : "885367195706040320",
+  "text" : "He stops for a moment and turns to the pair of princesses.\n\n\"I have one request that's incredibly silly, if you would hear me out.\"",
+  "id" : 885367195706040320,
+  "created_at" : "2017-07-13 05:16:03 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13159,10 +8881,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805248414925656064",
-  "text" : "He calmly walks to his office, and sits down, drinking the rest of the red fluid down. A long sigh escapes him.",
-  "id" : 805248414925656064,
-  "created_at" : "2016-12-04 03:12:37 +0000",
+  "id_str" : "885366937294966784",
+  "text" : "\"... and with that, I should leave you all. I'll be in my office, reviewing paperwork.\"",
+  "id" : 885366937294966784,
+  "created_at" : "2017-07-13 05:15:01 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13176,43 +8898,15 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805232743227523072",
-  "text" : "\"Just another day.\"",
-  "id" : 805232743227523072,
-  "created_at" : "2016-12-04 02:10:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Pinkie Pie",
-      "screen_name" : "mlp_Pinkie",
-      "indices" : [ 24, 35 ],
-      "id_str" : "263645185",
-      "id" : 263645185
-    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805217894074302464",
-  "text" : "He takes the plate from @mlp_Pinkie and offers a rare smile. \"Thanks!\"",
-  "id" : 805217894074302464,
-  "created_at" : "2016-12-04 01:11:20 +0000",
+  "id_str" : "885366581429243904",
+  "text" : "He gives the signed document to the bird and pats it. \"Head out Cherry. Drop off in Canterlot.\"",
+  "id" : 885366581429243904,
+  "created_at" : "2017-07-13 05:13:36 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13231,10 +8925,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805213821941981184",
-  "text" : "He sits on a nearby couch, resting, a brief cough escaping him.",
-  "id" : 805213821941981184,
-  "created_at" : "2016-12-04 00:55:09 +0000",
+  "id_str" : "885366482997313536",
+  "text" : "\"Alright. I'll review the results personally in a month, given the travel time that this much material requires. Thank you both.\"",
+  "id" : 885366482997313536,
+  "created_at" : "2017-07-13 05:13:13 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13253,10 +8947,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805212928395902976",
-  "text" : "He takes a sip of the red liquid while giving a look of curiosity.",
-  "id" : 805212928395902976,
-  "created_at" : "2016-12-04 00:51:36 +0000",
+  "id_str" : "885366229971722240",
+  "text" : "\"The 62nd, 73rd, and 99th Squads were hoof-picked for this specific task, as I know them personally.\"",
+  "id" : 885366229971722240,
+  "created_at" : "2017-07-13 05:12:13 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13275,10 +8969,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805212832707055620",
-  "text" : "\"Don't suppose you saw me in one of your dimensional trips?\"",
-  "id" : 805212832707055620,
-  "created_at" : "2016-12-04 00:51:14 +0000",
+  "id_str" : "885365878312890369",
+  "text" : "\"It includes language about trespassing as the mirror pool is a protected zone, but basically a work order for the guard to barrier it up.\"",
+  "id" : 885365878312890369,
+  "created_at" : "2017-07-13 05:10:49 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13294,437 +8988,13 @@ Grailbird.data.tweets_2016_12 =
     "user_mentions" : [ {
       "name" : "Twilight Sparkle",
       "screen_name" : "mlp_Twilight",
-      "indices" : [ 44, 57 ],
+      "indices" : [ 1, 14 ],
       "id_str" : "258925492",
       "id" : 258925492
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805211510918279172",
-  "text" : "\"Remind me to purchase order a tea set, Pr. @mlp_Twilight. We could probably make use of it for this sort of thing.\"",
-  "id" : 805211510918279172,
-  "created_at" : "2016-12-04 00:45:58 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805210678101475328",
-  "text" : "\"Really? How are they working out for your troops?\"",
-  "id" : 805210678101475328,
-  "created_at" : "2016-12-04 00:42:40 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shining Armor",
-      "screen_name" : "mlp_Armor",
-      "indices" : [ 22, 32 ],
-      "id_str" : "436770624",
-      "id" : 436770624
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805209408817000448",
-  "text" : "He then heads for Sir @mlp_Armor. \"Ah, long time no see, Shining. How are things in the crystalline lands?\"",
-  "id" : 805209408817000448,
-  "created_at" : "2016-12-04 00:37:37 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805208874542366720",
-  "text" : "\"Oh! Someone should have notified me, then. I had no idea.\", he frowns briefly and takes a swig of the red stuff.",
-  "id" : 805208874542366720,
-  "created_at" : "2016-12-04 00:35:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805207842064044033",
-  "text" : "\"What's this about a party?\"",
-  "id" : 805207842064044033,
-  "created_at" : "2016-12-04 00:31:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805207390555635715",
-  "text" : "He heads down to the common room with the mixture in a small potion bottle, wondering what the fuss is about.",
-  "id" : 805207390555635715,
-  "created_at" : "2016-12-04 00:29:36 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "805205876156104709",
-  "text" : "A swirl of red powder meeting water slowly mixes into more of a reddish fluid in a container.",
-  "id" : 805205876156104709,
-  "created_at" : "2016-12-04 00:23:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804946455752507392",
-  "text" : "He seems to have looked in the direction of the door for a moment after it's closed.",
-  "id" : 804946455752507392,
-  "created_at" : "2016-12-03 07:12:44 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804944398060552192",
-  "text" : "He seems to pant and look around, giving the appearance of being tired.",
-  "id" : 804944398060552192,
-  "created_at" : "2016-12-03 07:04:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804942932008648704",
-  "text" : "He then lands, a brief trail of flame in his wake, but only from his tail for some reason.",
-  "id" : 804942932008648704,
-  "created_at" : "2016-12-03 06:58:44 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804942000474779648",
-  "text" : "The golden door to his dream seems to sheen, and he continues his flight, unaware of the entry. He seems to bank to the right in his travel.",
-  "id" : 804942000474779648,
-  "created_at" : "2016-12-03 06:55:02 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804940320760877056",
-  "text" : "He starts to dream. A great grassland full of room to fly over. A few trees punctuate his flight.",
-  "id" : 804940320760877056,
-  "created_at" : "2016-12-03 06:48:22 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804936596130824192",
-  "text" : "He closes his eyes and starts to drift off to sleep, passing into the realm of dreams.",
-  "id" : 804936596130824192,
-  "created_at" : "2016-12-03 06:33:34 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804935981191282688",
-  "text" : "He decides to head for his bedroom so he can get some much needed sleep.",
-  "id" : 804935981191282688,
-  "created_at" : "2016-12-03 06:31:07 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804933425723572224",
-  "text" : "\"Apparently. ... so there's a certification for some sort of paperwork filing thing in Canterlot.\"",
-  "id" : 804933425723572224,
-  "created_at" : "2016-12-03 06:20:58 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804932943701479424",
-  "text" : "\"... why is everyone yelling?\"",
-  "id" : 804932943701479424,
-  "created_at" : "2016-12-03 06:19:03 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804931295012945920",
-  "text" : "\"Ah. Keep me posted. The certification will go nicely with another that I'm going to try for in Canterlot in a month.\"",
-  "id" : 804931295012945920,
-  "created_at" : "2016-12-03 06:12:30 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804930406546075648",
-  "text" : "\"That reminds me, Ms. Twibot? What's the requirements for certification on magic theory? I might finally be able to take a test on it.\"",
-  "id" : 804930406546075648,
-  "created_at" : "2016-12-03 06:08:58 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804928972983242752",
-  "text" : "\"I don't. Magic isn't my forte.\"",
-  "id" : 804928972983242752,
-  "created_at" : "2016-12-03 06:03:16 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
+    }, {
       "name" : "Twibot Sparker",
       "screen_name" : "mlp_Twibot",
-      "indices" : [ 46, 57 ],
+      "indices" : [ 16, 27 ],
       "id_str" : "398109064",
       "id" : 398109064
     } ],
@@ -13733,10 +9003,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804928400754348033",
-  "text" : "\"It's a level 5, but should do the trick, Pr. @mlp_Twibot.\"",
-  "id" : 804928400754348033,
-  "created_at" : "2016-12-03 06:01:00 +0000",
+  "id_str" : "885365682073989120",
+  "text" : "\"@mlp_Twilight, @mlp_Twibot, would the two of you sign off on this?\", he passes the document toward them.",
+  "id" : 885365682073989120,
+  "created_at" : "2017-07-13 05:10:02 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13755,10 +9025,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804928314288828416",
-  "text" : "He's back, rather quickly with a fairly large looking and runed storage jar. The glass seems to have a very light cyan filter to it.",
-  "id" : 804928314288828416,
-  "created_at" : "2016-12-03 06:00:39 +0000",
+  "id_str" : "885365559935860736",
+  "text" : "\"Three teams of guards, enough material to construct a fake wall or barrier, and enough obvious warning signs.\"",
+  "id" : 885365559935860736,
+  "created_at" : "2017-07-13 05:09:33 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13777,10 +9047,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804926820265103360",
-  "text" : "For a brief moment, he sees a huge amount of runes surrounding the sweater, and then takes off running, nodding to the princess.",
-  "id" : 804926820265103360,
-  "created_at" : "2016-12-03 05:54:43 +0000",
+  "id_str" : "885365367509590016",
+  "text" : "He starts to write out an official looking order in a special type of writing he reserves for very important orders.",
+  "id" : 885365367509590016,
+  "created_at" : "2017-07-13 05:08:47 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13799,10 +9069,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804926015596363778",
-  "text" : "\"I won't even ask.\", is all he gets out.",
-  "id" : 804926015596363778,
-  "created_at" : "2016-12-03 05:51:31 +0000",
+  "id_str" : "885364097864278016",
+  "text" : "A raven with a red ribbon on her neck flies in at near breakneck speeds, carrying a notepad and quill, landing on the nearest desk.",
+  "id" : 885364097864278016,
+  "created_at" : "2017-07-13 05:03:44 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13821,10 +9091,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804925688906190849",
-  "text" : "He takes that moment to walk toward the golem princess and the guard captain, eyebrow raised.",
-  "id" : 804925688906190849,
-  "created_at" : "2016-12-03 05:50:13 +0000",
+  "id_str" : "885363822197972992",
+  "text" : "He nods, and then does something unexpected.\n\nHe does a brief whistle.",
+  "id" : 885363822197972992,
+  "created_at" : "2017-07-13 05:02:39 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13843,10 +9113,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804924538622447618",
-  "text" : "He heads into the tree castle, yawning.",
-  "id" : 804924538622447618,
-  "created_at" : "2016-12-03 05:45:39 +0000",
+  "id_str" : "885363149679071232",
+  "text" : "He sighs and watches.",
+  "id" : 885363149679071232,
+  "created_at" : "2017-07-13 04:59:58 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13865,10 +9135,280 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804917354182414336",
-  "text" : "After a long day's worth of research, he glides down from a nearby town roof, tired looking.",
-  "id" : 804917354182414336,
-  "created_at" : "2016-12-03 05:17:06 +0000",
+  "id_str" : "885361952461135872",
+  "text" : "\"... wait, so she's like a pikachu in terms of value?\"",
+  "id" : 885361952461135872,
+  "created_at" : "2017-07-13 04:55:13 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885360582056169474",
+  "text" : "\"Should I put in an order to get the place properly sealed, Princess?\"",
+  "id" : 885360582056169474,
+  "created_at" : "2017-07-13 04:49:46 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885359899244466176",
+  "text" : "\". . .\"",
+  "id" : 885359899244466176,
+  "created_at" : "2017-07-13 04:47:03 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885359369642278912",
+  "text" : "The mention of the pond causes him to double facepalm.",
+  "id" : 885359369642278912,
+  "created_at" : "2017-07-13 04:44:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885358230267887618",
+  "text" : "\"How do we know it's poison joke at all?\"",
+  "id" : 885358230267887618,
+  "created_at" : "2017-07-13 04:40:25 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885357767808225280",
+  "text" : "\"... where has Spike been as of late, anyway?\"",
+  "id" : 885357767808225280,
+  "created_at" : "2017-07-13 04:38:35 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885357390421536769",
+  "text" : "He adjusts the horned headset getup, as to not feel completely out of place with the other princesses.",
+  "id" : 885357390421536769,
+  "created_at" : "2017-07-13 04:37:05 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885357026825654272",
+  "text" : "He walks inside the guest room and pulls up a chair. \"This should be good.\"",
+  "id" : 885357026825654272,
+  "created_at" : "2017-07-13 04:35:38 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885356785665794049",
+  "text" : "\"Well, there's a reason, actually.\", he then gives her a smirk.",
+  "id" : 885356785665794049,
+  "created_at" : "2017-07-13 04:34:41 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885356368844214273",
+  "text" : "He blinks at Twibot's sudden knocking attempt, as the door's already open. \"... huh. Should I wait in line?\"",
+  "id" : 885356368844214273,
+  "created_at" : "2017-07-13 04:33:02 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885355349062111232",
+  "text" : "He quietly knocks on the door. \"Pardon me, it's just Starhammer. Do you have a few moments to spare?\"",
+  "id" : 885355349062111232,
+  "created_at" : "2017-07-13 04:28:58 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twilight Sparkle",
+      "screen_name" : "plm_Twilight",
+      "indices" : [ 27, 40 ],
+      "id_str" : "855270546405154816",
+      "id" : 855270546405154816
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885354642896453632",
+  "text" : "He nears the guest bedroom @plm_Twilight is occupied in, and contemplates knocking on it.",
+  "id" : 885354642896453632,
+  "created_at" : "2017-07-13 04:26:10 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885354372959436801",
+  "text" : "He walks around, down the hallways near the residential section of the place.",
+  "id" : 885354372959436801,
+  "created_at" : "2017-07-13 04:25:06 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13887,10 +9427,32 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804865288399441920",
-  "text" : "He packages some of the spice into a sack and sticks it into a ration container.",
-  "id" : 804865288399441920,
-  "created_at" : "2016-12-03 01:50:13 +0000",
+  "id_str" : "885302835767803904",
+  "text" : "He nods and starts to get up.\n\n\"Ah. Well, have the guest bedroom to recuperate when you are done in here. I have to return to work, sadly.\"",
+  "id" : 885302835767803904,
+  "created_at" : "2017-07-13 01:00:18 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885301606689931265",
+  "text" : "\"How long ago was that? Do you have an approximate timestamp?\"",
+  "id" : 885301606689931265,
+  "created_at" : "2017-07-13 00:55:25 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13904,26 +9466,21 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Star heart",
-      "screen_name" : "mlp_starh",
-      "indices" : [ 45, 55 ],
-      "id_str" : "1604164442",
-      "id" : 1604164442
+      "name" : "Twilight Sparkle",
+      "screen_name" : "plm_Twilight",
+      "indices" : [ 36, 49 ],
+      "id_str" : "855270546405154816",
+      "id" : 855270546405154816
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "804863458336473088",
   "geo" : { },
-  "id_str" : "804863646371381248",
-  "in_reply_to_user_id" : 1604164442,
-  "text" : "\"We have to make do with what we have, then, @mlp_starh.\"",
-  "id" : 804863646371381248,
-  "in_reply_to_status_id" : 804863458336473088,
-  "created_at" : "2016-12-03 01:43:41 +0000",
-  "in_reply_to_screen_name" : "mlp_starh",
-  "in_reply_to_user_id_str" : "1604164442",
+  "id_str" : "885300949044035584",
+  "text" : "\"So, where did you stay last night, @plm_Twilight?\"",
+  "id" : 885300949044035584,
+  "created_at" : "2017-07-13 00:52:49 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -13937,70 +9494,21 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Star heart",
-      "screen_name" : "mlp_starh",
-      "indices" : [ 34, 44 ],
-      "id_str" : "1604164442",
-      "id" : 1604164442
+      "name" : "Twilight Sparkle",
+      "screen_name" : "plm_Twilight",
+      "indices" : [ 93, 106 ],
+      "id_str" : "855270546405154816",
+      "id" : 855270546405154816
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "804863144208240640",
   "geo" : { },
-  "id_str" : "804863329588178944",
-  "in_reply_to_user_id" : 1604164442,
-  "text" : "\"Hah, wouldn't that be something, @mlp_starh.\"",
-  "id" : 804863329588178944,
-  "in_reply_to_status_id" : 804863144208240640,
-  "created_at" : "2016-12-03 01:42:26 +0000",
-  "in_reply_to_screen_name" : "mlp_starh",
-  "in_reply_to_user_id_str" : "1604164442",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804862557374836737",
-  "text" : "\"The age old problem of awful tasting Rations will never be solved, will it.\"",
-  "id" : 804862557374836737,
-  "created_at" : "2016-12-03 01:39:21 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804862056902049792",
-  "text" : "\"That's ... probably not the best option, but in a pinch, a packet of spice will make any ration taste less awful.\"",
-  "id" : 804862056902049792,
-  "created_at" : "2016-12-03 01:37:22 +0000",
+  "id_str" : "885300413318213634",
+  "text" : "\"Anyway, we need to talk about an ...\", he coughs, \"unrelated situation later, so lay off of @plm_Twilight.\"",
+  "id" : 885300413318213634,
+  "created_at" : "2017-07-13 00:50:41 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -14014,26 +9522,82 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Star heart",
-      "screen_name" : "mlp_starh",
-      "indices" : [ 11, 21 ],
-      "id_str" : "1604164442",
-      "id" : 1604164442
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 16, 31 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "804860845784178688",
   "geo" : { },
-  "id_str" : "804861047484088320",
-  "in_reply_to_user_id" : 1604164442,
-  "text" : "He nods to @mlp_starh and applies the herb powder to the mix.",
-  "id" : 804861047484088320,
-  "in_reply_to_status_id" : 804860845784178688,
-  "created_at" : "2016-12-03 01:33:21 +0000",
-  "in_reply_to_screen_name" : "mlp_starh",
-  "in_reply_to_user_id_str" : "1604164442",
+  "id_str" : "885299906839281665",
+  "text" : "He looks toward @mlp_Brave_Soul and comments. \"Maybe she's lactose intolerant?\"",
+  "id" : 885299906839281665,
+  "created_at" : "2017-07-13 00:48:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twilight Sparkle",
+      "screen_name" : "plm_Twilight",
+      "indices" : [ 0, 13 ],
+      "id_str" : "855270546405154816",
+      "id" : 855270546405154816
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "885298495594352640",
+  "geo" : { },
+  "id_str" : "885298914617962496",
+  "in_reply_to_user_id" : 855270546405154816,
+  "text" : "@plm_Twilight He nods understandingly to her. \"Some like to cut the crust outright. It helps with the rations, at least.\"",
+  "id" : 885298914617962496,
+  "in_reply_to_status_id" : 885298495594352640,
+  "created_at" : "2017-07-13 00:44:43 +0000",
+  "in_reply_to_screen_name" : "plm_Twilight",
+  "in_reply_to_user_id_str" : "855270546405154816",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twilight Sparkle",
+      "screen_name" : "plm_Twilight",
+      "indices" : [ 19, 32 ],
+      "id_str" : "855270546405154816",
+      "id" : 855270546405154816
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885298100696477698",
+  "text" : "He looks up at the @plm_Twilight that's cooking.\n\n\"Have you tried oregano with the bread, by the by?\"",
+  "id" : 885298100696477698,
+  "created_at" : "2017-07-13 00:41:29 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -14052,10 +9616,189 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804859614441390080",
-  "text" : "A taste, and a frown. \"Needs more rosemary.\"",
-  "id" : 804859614441390080,
-  "created_at" : "2016-12-03 01:27:40 +0000",
+  "id_str" : "885297544221405184",
+  "text" : "For some reason, he's outright avoiding the twilight question. A brief bite of a strawberry and he talks.\n\n\"Whoever it was is awful at it.\"",
+  "id" : 885297544221405184,
+  "created_at" : "2017-07-13 00:39:17 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Animus",
+      "screen_name" : "mlp_Ani",
+      "indices" : [ 70, 78 ],
+      "id_str" : "2584625682",
+      "id" : 2584625682
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885296644828409857",
+  "text" : "\"Yeah, but even you know better than to try and break into my office, @mlp_Ani.\"",
+  "id" : 885296644828409857,
+  "created_at" : "2017-07-13 00:35:42 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    }, {
+      "name" : "Trixie",
+      "screen_name" : "MLP_Trixie",
+      "indices" : [ 16, 27 ],
+      "id_str" : "266669824",
+      "id" : 266669824
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "885295649310355456",
+  "geo" : { },
+  "id_str" : "885296057181143041",
+  "in_reply_to_user_id" : 2988118703,
+  "text" : "@mlp_Brave_Soul @MLP_Trixie \"I don't. Apparently Trixie wasn't in the castle according to reports, so, I can only guess.\"",
+  "id" : 885296057181143041,
+  "in_reply_to_status_id" : 885295649310355456,
+  "created_at" : "2017-07-13 00:33:22 +0000",
+  "in_reply_to_screen_name" : "mlp_Brave_Soul",
+  "in_reply_to_user_id_str" : "2988118703",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 5, 20 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885295460520534016",
+  "text" : "\"So, @mlp_Brave_Soul. Apparently someone triggered the office traps the previous night.\"",
+  "id" : 885295460520534016,
+  "created_at" : "2017-07-13 00:31:00 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twilight Sparkle",
+      "screen_name" : "plm_Twilight",
+      "indices" : [ 56, 69 ],
+      "id_str" : "855270546405154816",
+      "id" : 855270546405154816
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885295007829286912",
+  "text" : "He then quietly unpacks his meal, briefly looking up at @plm_Twilight. He only seems imposing at first glance.",
+  "id" : 885295007829286912,
+  "created_at" : "2017-07-13 00:29:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Animus",
+      "screen_name" : "mlp_Ani",
+      "indices" : [ 26, 34 ],
+      "id_str" : "2584625682",
+      "id" : 2584625682
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885294611769548800",
+  "text" : "\"Well, it is supper time, @mlp_Ani.\"",
+  "id" : 885294611769548800,
+  "created_at" : "2017-07-13 00:27:38 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Animus",
+      "screen_name" : "mlp_Ani",
+      "indices" : [ 74, 82 ],
+      "id_str" : "2584625682",
+      "id" : 2584625682
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885293945655357440",
+  "text" : "He then closes the fridge and cautiously carries the package to the table @mlp_Ani appears to be waiting at.\n\n\"Got room for one more?\"",
+  "id" : 885293945655357440,
+  "created_at" : "2017-07-13 00:24:59 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -14074,10 +9817,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804857393293250560",
-  "text" : "He's in the kitchen, today, working on a recipe of some sort.",
-  "id" : 804857393293250560,
-  "created_at" : "2016-12-03 01:18:50 +0000",
+  "id_str" : "885292918969421824",
+  "text" : "It's like he's trying to avoid being noticed or something.",
+  "id" : 885292918969421824,
+  "created_at" : "2017-07-13 00:20:54 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -14096,10 +9839,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804773323494359040",
-  "text" : "Then more things happen.",
-  "id" : 804773323494359040,
-  "created_at" : "2016-12-02 19:44:46 +0000",
+  "id_str" : "885292706733404160",
+  "text" : "A set of papers is set down and he calmly walks over to one of the other fridges, pulling out a cold lunch, previously made.",
+  "id" : 885292706733404160,
+  "created_at" : "2017-07-13 00:20:03 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -14118,10 +9861,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804773078974812161",
-  "text" : "He does a thing that involves another thing.",
-  "id" : 804773078974812161,
-  "created_at" : "2016-12-02 19:43:48 +0000",
+  "id_str" : "885291978392580096",
+  "text" : "He quietly walks in and takes a seat, a fair distance away from Ani and Twilight.",
+  "id" : 885291978392580096,
+  "created_at" : "2017-07-13 00:17:10 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -14140,10 +9883,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804522637355585536",
-  "text" : "\"Some tea would be nice, regardless.\", he then leaves the office, disappearing from view. The binders seem to sheen for a moment.",
-  "id" : 804522637355585536,
-  "created_at" : "2016-12-02 03:08:38 +0000",
+  "id_str" : "885291275867566081",
+  "text" : "He sniffs the air around the kitchen.\n\n\"Someone's cooking something good.\"",
+  "id" : 885291275867566081,
+  "created_at" : "2017-07-13 00:14:22 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -14162,10 +9905,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804521851988901888",
-  "text" : "\"In the meantime, I could lay low, so to speak.\"",
-  "id" : 804521851988901888,
-  "created_at" : "2016-12-02 03:05:31 +0000",
+  "id_str" : "885290701981986816",
+  "text" : "The pegasus quietly heads for the main kitchen with a yawn, the office closed and locked tight behind him.",
+  "id" : 885290701981986816,
+  "created_at" : "2017-07-13 00:12:05 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -14184,340 +9927,10 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804520375216390145",
-  "text" : "He blinks, and then stumbles. \"There's a real possibility, here. I have to be really careful, going forward.\"",
-  "id" : 804520375216390145,
-  "created_at" : "2016-12-02 02:59:39 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804519352598990848",
-  "text" : "A look of surprise hits him as he realizes. \"Years of it. It's the paperwork. I've gotten so good at it, that no one notices the efficiency\"",
-  "id" : 804519352598990848,
-  "created_at" : "2016-12-02 02:55:35 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804518543563833345",
-  "text" : "The stallion gets up and starts to page through them, the quality level increasing over the years to the point that it's second nature.",
-  "id" : 804518543563833345,
-  "created_at" : "2016-12-02 02:52:22 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804518083809464320",
-  "text" : "He then looks to several binders worth of official forms, documentation, errata, and notes.",
-  "id" : 804518083809464320,
-  "created_at" : "2016-12-02 02:50:33 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804517439832752129",
-  "text" : "\"Have I been going at this problem the wrong way?\"",
-  "id" : 804517439832752129,
-  "created_at" : "2016-12-02 02:47:59 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804517284698030080",
-  "text" : "\"Honestly, it makes me wonder.\", then a thought hits him, and he slams the book shut. \"... no. \/Noooo\/\", he then turns to his bookshelf.",
-  "id" : 804517284698030080,
-  "created_at" : "2016-12-02 02:47:22 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804516096191696896",
-  "text" : "\"It tends to help when one has to keep a magical castle from imploding.\"",
-  "id" : 804516096191696896,
-  "created_at" : "2016-12-02 02:42:39 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804515850501943296",
-  "text" : "\"There's one thing I truly understand, though. Much like paperwork, magic has rules that it has to follow.\"",
-  "id" : 804515850501943296,
-  "created_at" : "2016-12-02 02:41:40 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804515529545359363",
-  "text" : "\"That, or any useable food and water, anyway.\", he comments as he finishes some notation.",
-  "id" : 804515529545359363,
-  "created_at" : "2016-12-02 02:40:24 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804514896410976256",
-  "text" : "\"Now if one can conjure toast with butter out of the aether, that would be impressive.\"",
-  "id" : 804514896410976256,
-  "created_at" : "2016-12-02 02:37:53 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804514220830314496",
-  "text" : "\"At least that advances my theory on unconventional spellcraft, though. The runes have similarity.\"",
-  "id" : 804514220830314496,
-  "created_at" : "2016-12-02 02:35:12 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804513870236831744",
-  "text" : "\"Blink, I can understand. That's a unicorn staple, really.\"",
-  "id" : 804513870236831744,
-  "created_at" : "2016-12-02 02:33:48 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804513497140826112",
-  "text" : "\"... who even still uses Magic Missile?\"",
-  "id" : 804513497140826112,
-  "created_at" : "2016-12-02 02:32:19 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804513322062282753",
-  "text" : "\"This is the worst magic book ever written. Full of useless tidbits like casting ranges and approximate Joule amounts used in casting.\"",
-  "id" : 804513322062282753,
-  "created_at" : "2016-12-02 02:31:37 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804512145278902272",
-  "text" : "After some additional reading, he's been writing out some notes gleaned from it.",
-  "id" : 804512145278902272,
-  "created_at" : "2016-12-02 02:26:57 +0000",
-  "user" : {
-    "name" : "Quartermaster Starhammer",
-    "screen_name" : "mlp_starhammer",
-    "protected" : false,
-    "id_str" : "998563693",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
-    "id" : 998563693,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "804407580156162048",
-  "text" : "His magical research continues in his office, a mug of orange juice keeping him company.",
-  "id" : 804407580156162048,
-  "created_at" : "2016-12-01 19:31:26 +0000",
+  "id_str" : "885244460644302849",
+  "text" : "He calls out from his office. \"Booooo.\"",
+  "id" : 885244460644302849,
+  "created_at" : "2017-07-12 21:08:21 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
@@ -14536,10 +9949,3440 @@ Grailbird.data.tweets_2016_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "804221411040628736",
-  "text" : "After a few hours of reading, he looks toward the window of his office, yawning. \"... I don't think I got much out of that.\"",
-  "id" : 804221411040628736,
-  "created_at" : "2016-12-01 07:11:40 +0000",
+  "id_str" : "885018037035962372",
+  "text" : "He meanwhile just briefly yawns and tries to go back to bed. \"Stupid dog barking and blah blah blah.\"",
+  "id" : 885018037035962372,
+  "created_at" : "2017-07-12 06:08:37 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885017873202241536",
+  "text" : "The spring loaded dirt pile seems to snap back into place, having done it's automated duty, activating some sort of light in his office.",
+  "id" : 885017873202241536,
+  "created_at" : "2017-07-12 06:07:58 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885017006105399296",
+  "text" : "Meanwhile at home, he blinks and wakes up briefly from an attempt at sleep.",
+  "id" : 885017006105399296,
+  "created_at" : "2017-07-12 06:04:31 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885015425637068802",
+  "text" : "A patch of dirt just under Blisk suddenly springs up into the air, sending the thief flying.",
+  "id" : 885015425637068802,
+  "created_at" : "2017-07-12 05:58:14 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885011410350157824",
+  "text" : "A tripwire is triggered, and gears start to slowly turn in his office.",
+  "id" : 885011410350157824,
+  "created_at" : "2017-07-12 05:42:17 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884931930206220290",
+  "text" : "A pot of unusually pungent tea is set on the hotplate and then he goes back to reading some sort of technical manual.",
+  "id" : 884931930206220290,
+  "created_at" : "2017-07-12 00:26:28 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884929997496037376",
+  "text" : "He continues to relax at home, not really worried about any sort of strange or weird crisis, for once.",
+  "id" : 884929997496037376,
+  "created_at" : "2017-07-12 00:18:47 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884882727929032704",
+  "text" : "The stallion seems to have stayed at home today, for some unknown reason.",
+  "id" : 884882727929032704,
+  "created_at" : "2017-07-11 21:10:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884645412824653824",
+  "text" : "The poor stallion quietly collapses on his bed and groans a bit.",
+  "id" : 884645412824653824,
+  "created_at" : "2017-07-11 05:27:56 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884639979426783234",
+  "text" : "He enters slowly and closes the door behind him, locking it, taking off the headset and hanging it up.\n\n\"What a night.\"",
+  "id" : 884639979426783234,
+  "created_at" : "2017-07-11 05:06:21 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884638847002439680",
+  "text" : "He lands with a quiet yawn and quietly opens the door with a unique looking key.",
+  "id" : 884638847002439680,
+  "created_at" : "2017-07-11 05:01:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884632712526667776",
+  "text" : "Once out of the entrance, he takes off into a brief run and flies toward a modest looking home in Ponyville.",
+  "id" : 884632712526667776,
+  "created_at" : "2017-07-11 04:37:29 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884632570687881216",
+  "text" : "He trudges out of his office and heads out of the tree castle, looking somewhat worn down.",
+  "id" : 884632570687881216,
+  "created_at" : "2017-07-11 04:36:55 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rocky",
+      "screen_name" : "mlp_Rocky",
+      "indices" : [ 57, 67 ],
+      "id_str" : "374339547",
+      "id" : 374339547
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884567339299110914",
+  "text" : "A package arrives at the Ket household, addressed to one @mlp_Rocky.\n\nInside is a set of titanium forged grilling utensils. Freshly made.",
+  "id" : 884567339299110914,
+  "created_at" : "2017-07-11 00:17:42 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884182648683249664",
+  "text" : "He smiles and leans back in the desk chair.\n\n\"A good day.\"",
+  "id" : 884182648683249664,
+  "created_at" : "2017-07-09 22:49:05 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884180941333286913",
+  "geo" : { },
+  "id_str" : "884181080978460673",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"Appreciate the help, Yaretzi. Don't be a stranger.\"",
+  "id" : 884181080978460673,
+  "in_reply_to_status_id" : 884180941333286913,
+  "created_at" : "2017-07-09 22:42:51 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884180032851247104",
+  "geo" : { },
+  "id_str" : "884180702601900033",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"The material quality isn't the usual top notch that I have in anything I help make or make myself, after all.\"",
+  "id" : 884180702601900033,
+  "in_reply_to_status_id" : 884180032851247104,
+  "created_at" : "2017-07-09 22:41:21 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884180032851247104",
+  "geo" : { },
+  "id_str" : "884180565708214272",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"Understandable. The spellbook is going to get copied to a proper sized and cared for version first, though, before it can be copied proper\"",
+  "id" : 884180565708214272,
+  "in_reply_to_status_id" : 884180032851247104,
+  "created_at" : "2017-07-09 22:40:48 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884179456281243648",
+  "geo" : { },
+  "id_str" : "884179633968734212",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"Hold on. The pages that are already understandable are marked with red on the sides. So, what's your request?\"",
+  "id" : 884179633968734212,
+  "in_reply_to_status_id" : 884179456281243648,
+  "created_at" : "2017-07-09 22:37:06 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884176631379742720",
+  "geo" : { },
+  "id_str" : "884176843791839233",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"It was related to the Aether Cloud incident. The original's in Canterlot's historical archives now. If you find out anything new, tell me.\"",
+  "id" : 884176843791839233,
+  "in_reply_to_status_id" : 884176631379742720,
+  "created_at" : "2017-07-09 22:26:01 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884174950508220416",
+  "geo" : { },
+  "id_str" : "884175303391752192",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"Think you can do something with it?\"",
+  "id" : 884175303391752192,
+  "in_reply_to_status_id" : 884174950508220416,
+  "created_at" : "2017-07-09 22:19:54 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884174950508220416",
+  "geo" : { },
+  "id_str" : "884175204594966528",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"I've managed to get about 80% of the spell tome translated, but there's entries that I can't make out. This is the modern copy.\"",
+  "id" : 884175204594966528,
+  "in_reply_to_status_id" : 884174950508220416,
+  "created_at" : "2017-07-09 22:19:30 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884174260880764929",
+  "geo" : { },
+  "id_str" : "884174784409595904",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi He pulls out the encrusted spellbook and shows it to her. \"Are you any good with encryption?\"",
+  "id" : 884174784409595904,
+  "in_reply_to_status_id" : 884174260880764929,
+  "created_at" : "2017-07-09 22:17:50 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884172140349718529",
+  "geo" : { },
+  "id_str" : "884172831092867073",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"There are improvements to be made on the active side of things. Also, detection for the thief's aetheric trail.\"",
+  "id" : 884172831092867073,
+  "in_reply_to_status_id" : 884172140349718529,
+  "created_at" : "2017-07-09 22:10:04 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884172140349718529",
+  "geo" : { },
+  "id_str" : "884172645285195776",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"Actually, I think it's already active, it's just more passive in nature, like detection through abnormal means and that sort of thing.\"",
+  "id" : 884172645285195776,
+  "in_reply_to_status_id" : 884172140349718529,
+  "created_at" : "2017-07-09 22:09:20 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884171556942950400",
+  "geo" : { },
+  "id_str" : "884171716771164161",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"Yeah, it's concerning. Quite unwelcome, as well.\"",
+  "id" : 884171716771164161,
+  "in_reply_to_status_id" : 884171556942950400,
+  "created_at" : "2017-07-09 22:05:39 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884169873152258053",
+  "geo" : { },
+  "id_str" : "884170491753357316",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"... did that thief try to break into my office? All I saw when I came in was some half-flanked attempt at a lockpicking.\"",
+  "id" : 884170491753357316,
+  "in_reply_to_status_id" : 884169873152258053,
+  "created_at" : "2017-07-09 22:00:46 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884169470595522560",
+  "geo" : { },
+  "id_str" : "884169662455590912",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"Not really, just the sort of thing a more trained eye could pick up. The wanted poster will be corrected and put up \/everywhere\/.\"",
+  "id" : 884169662455590912,
+  "in_reply_to_status_id" : 884169470595522560,
+  "created_at" : "2017-07-09 21:57:29 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884168652982976512",
+  "text" : "\"Must be a novice thief to be able to camouflage so badly like this.\"",
+  "id" : 884168652982976512,
+  "created_at" : "2017-07-09 21:53:28 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884168114333732864",
+  "geo" : { },
+  "id_str" : "884168550579154944",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"That said, I've seen Zecora's cloak. It's more of a greenish coloring and meshes better in the forest. This idiot, meanwhile has beige.\"",
+  "id" : 884168550579154944,
+  "in_reply_to_status_id" : 884168114333732864,
+  "created_at" : "2017-07-09 21:53:04 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884168114333732864",
+  "geo" : { },
+  "id_str" : "884168357951492097",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"I want to say something about artistic quality, these days, but the wanted posters lately have been more or less accurate.\"",
+  "id" : 884168357951492097,
+  "in_reply_to_status_id" : 884168114333732864,
+  "created_at" : "2017-07-09 21:52:18 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884166196945461248",
+  "geo" : { },
+  "id_str" : "884166376629444608",
+  "in_reply_to_user_id" : 3874517475,
+  "text" : "@mlp_Yaretzi \"Good day, Yaretzi. Sitrep, if you please. I get the feeling I may have to exert authority today.\"",
+  "id" : 884166376629444608,
+  "in_reply_to_status_id" : 884166196945461248,
+  "created_at" : "2017-07-09 21:44:25 +0000",
+  "in_reply_to_screen_name" : "mlp_Yaretzi",
+  "in_reply_to_user_id_str" : "3874517475",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884166036467183616",
+  "text" : "He gets up and heads for the door, looking a bit angry.",
+  "id" : 884166036467183616,
+  "created_at" : "2017-07-09 21:43:04 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884165468118028288",
+  "text" : "He yells at the door. \"ENTER. NOW.\"",
+  "id" : 884165468118028288,
+  "created_at" : "2017-07-09 21:40:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884162505332977664",
+  "text" : "\"... several hundred gem shards and stones of various quality levels, ... and a toaster.\"",
+  "id" : 884162505332977664,
+  "created_at" : "2017-07-09 21:29:02 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884162364555309057",
+  "text" : "\"Let's see here. Specially treated papyrus binding, two sets of used and slightly broken alicorn amulets to be salvaged, ...\"",
+  "id" : 884162364555309057,
+  "created_at" : "2017-07-09 21:28:29 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884160825451302914",
+  "text" : "He sighs and rolls his eyes, opening more of the parcels that arrived.",
+  "id" : 884160825451302914,
+  "created_at" : "2017-07-09 21:22:22 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884156582703116288",
+  "text" : "For some reason, he's starting to wish he had ordered the experimental water cannon from armory R&amp;D.",
+  "id" : 884156582703116288,
+  "created_at" : "2017-07-09 21:05:30 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884149980616949760",
+  "text" : "He then opens one of the other parcels and installs some sort of newfangled mail delivery box.",
+  "id" : 884149980616949760,
+  "created_at" : "2017-07-09 20:39:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884148954727952385",
+  "text" : "He then shuts the box.",
+  "id" : 884148954727952385,
+  "created_at" : "2017-07-09 20:35:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884148819910426624",
+  "text" : "\"... the only one of it's kind. I paid a mere twenty bits for it.\"",
+  "id" : 884148819910426624,
+  "created_at" : "2017-07-09 20:34:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884148696690155522",
+  "text" : "\"The Skip Sandwich EX.\"",
+  "id" : 884148696690155522,
+  "created_at" : "2017-07-09 20:34:10 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884148643179180032",
+  "text" : "\"Smuggled in from the exquisite quality of the Canterlot kitchens, after a long and painful discussion on budgets.\"",
+  "id" : 884148643179180032,
+  "created_at" : "2017-07-09 20:33:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884148199480602627",
+  "text" : "\"... a sandwich.\"",
+  "id" : 884148199480602627,
+  "created_at" : "2017-07-09 20:32:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884148142186397697",
+  "text" : "A gemmed ... plate. The ordinary kind one would find in the depths of some ancient kitchen.",
+  "id" : 884148142186397697,
+  "created_at" : "2017-07-09 20:31:58 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884147858932465664",
+  "text" : "\"It's ...\"",
+  "id" : 884147858932465664,
+  "created_at" : "2017-07-09 20:30:50 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884147712651911168",
+  "text" : "The camera slowly rotates around to over the shoulder, as he slowly lifts out ...",
+  "id" : 884147712651911168,
+  "created_at" : "2017-07-09 20:30:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884147423144181761",
+  "text" : "Slowly, light starts to filter in toward the box's contents, and he opens it, blocking the camera's view.",
+  "id" : 884147423144181761,
+  "created_at" : "2017-07-09 20:29:06 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884146087275134977",
+  "text" : "He starts to slowly undo the locks on the black box that was addressed to his office, taking very unusual care with the security.",
+  "id" : 884146087275134977,
+  "created_at" : "2017-07-09 20:23:48 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884117347723882498",
+  "text" : "Welcome to the Funhouse.",
+  "id" : 884117347723882498,
+  "created_at" : "2017-07-09 18:29:36 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Capt. Brave Soul",
+      "screen_name" : "mlp_Brave_Soul",
+      "indices" : [ 18, 33 ],
+      "id_str" : "2988118703",
+      "id" : 2988118703
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884117179846856706",
+  "text" : "He even did Capt. @mlp_Brave_Soul a rare favor, and installed a similar option at his desk. Switch activated.",
+  "id" : 884117179846856706,
+  "created_at" : "2017-07-09 18:28:56 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884116656380936192",
+  "text" : "Last he heard, the private is nursing a bruised leg, in addition to a broken ego.\n\nAnd the quartermaster wasn't even in the office.",
+  "id" : 884116656380936192,
+  "created_at" : "2017-07-09 18:26:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884116289857499137",
+  "text" : "Most notably, a young private who tried to prank him last night, and triggered the seat ejection mechanism in his desk.",
+  "id" : 884116289857499137,
+  "created_at" : "2017-07-09 18:25:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884115914916073472",
+  "text" : "Only the changeling queen has gotten past them. Everyone else that doesn't have access, according to reports have taken injuries.",
+  "id" : 884115914916073472,
+  "created_at" : "2017-07-09 18:23:54 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884115480361013248",
+  "text" : "There's no evidence of breaking and entering. Given the paranoid nature of the pegasus, he's taken quite a few measures for security.",
+  "id" : 884115480361013248,
+  "created_at" : "2017-07-09 18:22:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "884114663629369344",
+  "text" : "After a long week, he returns to his office. The black box hasn't moved from it's spot on top of his desk. Several packages rest on top.",
+  "id" : 884114663629369344,
+  "created_at" : "2017-07-09 18:18:56 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883773259346579456",
+  "text" : "He leans in to hug her and then walks off to continue his day with an unusual spring in his step.",
+  "id" : 883773259346579456,
+  "created_at" : "2017-07-08 19:42:19 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883771658879868928",
+  "text" : "\"I'd love to, but sadly, I think I have to do things at the castle. ... again.\", he seems to deeply sigh as he says this.",
+  "id" : 883771658879868928,
+  "created_at" : "2017-07-08 19:35:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883770206719549440",
+  "text" : "\"Then it's probably wise to do so. We can discuss our lives another time, right?\"",
+  "id" : 883770206719549440,
+  "created_at" : "2017-07-08 19:30:11 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883768811933114368",
+  "text" : "\"Understatement of the century, there.\"",
+  "id" : 883768811933114368,
+  "created_at" : "2017-07-08 19:24:39 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883766950891069445",
+  "text" : "\"I want to prevent the Aether Cloud disaster, but do so in a way that won't leave any lasting impact on the timeline at all.\"",
+  "id" : 883766950891069445,
+  "created_at" : "2017-07-08 19:17:15 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883765869461073920",
+  "text" : "\"... and if I somehow pulled it off, all four of the princesses wouldn't let me live it down.\"",
+  "id" : 883765869461073920,
+  "created_at" : "2017-07-08 19:12:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883764567482011648",
+  "text" : "\"Well, there is one situation where I would, but it would be impossible to pull off.\"",
+  "id" : 883764567482011648,
+  "created_at" : "2017-07-08 19:07:47 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883763607355478017",
+  "text" : "All he does as she stretches is smile at her.\n\nScary.",
+  "id" : 883763607355478017,
+  "created_at" : "2017-07-08 19:03:58 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883762547605856257",
+  "text" : "\"Just giving more than fair warning about this sort of thing.\"",
+  "id" : 883762547605856257,
+  "created_at" : "2017-07-08 18:59:45 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883759968628989952",
+  "text" : "\"... and then what, you trip over a rock, and then it falls and smashes the leg of some other no name pony that could be my mother?\"",
+  "id" : 883759968628989952,
+  "created_at" : "2017-07-08 18:49:30 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883759785392340992",
+  "text" : "\"Alternatively, the alicorns themselves could be made out of cardboard, and dipped in caramel sauce for all we know.\"",
+  "id" : 883759785392340992,
+  "created_at" : "2017-07-08 18:48:46 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883759079524577280",
+  "text" : "\"Like Princess Celestia would be pink coated for example, and Captain Brave Soul would be a mare.\"",
+  "id" : 883759079524577280,
+  "created_at" : "2017-07-08 18:45:58 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883758946049286146",
+  "text" : "He shakes his head. \"No way. Even if you could change the past, a tiny tiny bit, I'm sure, you'll set in motion events that you can't see.\"",
+  "id" : 883758946049286146,
+  "created_at" : "2017-07-08 18:45:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883757408631353345",
+  "text" : "\"Rule number one with time travel: DON'T.\"",
+  "id" : 883757408631353345,
+  "created_at" : "2017-07-08 18:39:20 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883757336392859649",
+  "text" : "He seems to sigh for a bit. \"Funny you mention that. When this whole Starswirl research thing came up, the mention of time travel occurred.\"",
+  "id" : 883757336392859649,
+  "created_at" : "2017-07-08 18:39:03 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883756699554893824",
+  "text" : "His ears appear to flop for a brief moment, but he pays no attention to them, or why.",
+  "id" : 883756699554893824,
+  "created_at" : "2017-07-08 18:36:31 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883755919200456705",
+  "text" : "\"Honestly, this is why I'm on the path that I am, I believe. It's certainly not easy to do, and has to be worth the effort.\"",
+  "id" : 883755919200456705,
+  "created_at" : "2017-07-08 18:33:25 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883754407195750401",
+  "text" : "He then leans over and gives her a kiss. \"... well, I'm sure you get the gist.\"",
+  "id" : 883754407195750401,
+  "created_at" : "2017-07-08 18:27:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883754314782715904",
+  "text" : "\"... eh, the title itself is pointless, either way. I just want to be something more than I am. ... and if you are there at my side, ...\"",
+  "id" : 883754314782715904,
+  "created_at" : "2017-07-08 18:27:02 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883753294409105410",
+  "text" : "\"Even a ... princess?\", his eyes go wide for a moment before reality smacks him in the face.",
+  "id" : 883753294409105410,
+  "created_at" : "2017-07-08 18:22:59 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883751838666936320",
+  "text" : "\"I don't know, maybe. I'm starting to wonder if I'm just more of different type of specialist or something.\"",
+  "id" : 883751838666936320,
+  "created_at" : "2017-07-08 18:17:12 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883749090156318721",
+  "text" : "\"Well, office work is boring, and it's actually not that bad of an idea.\"",
+  "id" : 883749090156318721,
+  "created_at" : "2017-07-08 18:06:17 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883748125239898115",
+  "text" : "\"The thing that gets me, though. 85% of the tome is readable. Some of the stuff inside is in a cipher that I can't crack.\"",
+  "id" : 883748125239898115,
+  "created_at" : "2017-07-08 18:02:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883747944041771009",
+  "text" : "\"It's becoming a running theme for me lately. Discovering old knowledge and bringing it into the modern age.\"",
+  "id" : 883747944041771009,
+  "created_at" : "2017-07-08 18:01:43 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883746928688812032",
+  "text" : "\"What I have here, is more or less a direct translation with changes pulled in from existing and current textbooks. A personal spellbook.\"",
+  "id" : 883746928688812032,
+  "created_at" : "2017-07-08 17:57:41 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883746698924888065",
+  "text" : "\"Some sort of older style spell-textbook thing. Like a precursor to the textbooks the Canterlot college uses.\", he then holds it up a bit.",
+  "id" : 883746698924888065,
+  "created_at" : "2017-07-08 17:56:46 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883746419349352449",
+  "text" : "\"I found a pair of old tomes that got missed in the old Everfree forest's castle. One was a historical document, the other, is ... uhm.\"",
+  "id" : 883746419349352449,
+  "created_at" : "2017-07-08 17:55:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883743570234146816",
+  "text" : "\"I don't know, either.\", he then closes the spellbook and shifts the elaborate metal and gem covering to her, it's got a red motif.",
+  "id" : 883743570234146816,
+  "created_at" : "2017-07-08 17:44:20 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883742811694264320",
+  "text" : "\"If it's any consolation, I'm not throwing the idea out, but I think we both know that sort of thing is a ways away, isn't it?\"",
+  "id" : 883742811694264320,
+  "created_at" : "2017-07-08 17:41:20 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883741585753747456",
+  "text" : "\"Apparently \/someone\/ thought we were getting-\", he coughs and gets quiet. \"Married.\"",
+  "id" : 883741585753747456,
+  "created_at" : "2017-07-08 17:36:27 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883740529707671552",
+  "text" : "\"If I was, I probably never noticed it, but that could be due to a number of factors. ... have you seen the tabloids?\"",
+  "id" : 883740529707671552,
+  "created_at" : "2017-07-08 17:32:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883740368835096576",
+  "text" : "He nods. \"Yeah, I hear that place is a good vacation spot in the summer, now. I've only been there once, myself.\"",
+  "id" : 883740368835096576,
+  "created_at" : "2017-07-08 17:31:37 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883739426555396097",
+  "text" : "\"Where did you plan to go, then?\", he wonders as he looks up toward her, pulling out the decorated spellbook.",
+  "id" : 883739426555396097,
+  "created_at" : "2017-07-08 17:27:53 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883738571148075009",
+  "text" : "\"I don't know what to tell you. Even with my network of contacts, I don't think even I can pierce that line.\", he then sits down.",
+  "id" : 883738571148075009,
+  "created_at" : "2017-07-08 17:24:29 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883737538883727360",
+  "text" : "He looks at the line. \"So, what's going on? Travel time again?\"",
+  "id" : 883737538883727360,
+  "created_at" : "2017-07-08 17:20:22 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883736676463513600",
+  "text" : "He catches sight of Wintertide in the distance and quietly approaches her, a slight blush on his cheeks.\n\n\"Something wrong, Wintertide?\"",
+  "id" : 883736676463513600,
+  "created_at" : "2017-07-08 17:16:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883733488494575617",
+  "text" : "He then slowly gets up and starts walking toward the train station, having little else to do today, the spellbook in his travel packs.",
+  "id" : 883733488494575617,
+  "created_at" : "2017-07-08 17:04:17 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883732037731004417",
+  "text" : "A gentle breeze seems to filter through his mane, and the sunlight feels almost comforting to him, for some reason.",
+  "id" : 883732037731004417,
+  "created_at" : "2017-07-08 16:58:31 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883731853592670210",
+  "text" : "After the breakfast finishes, he quietly exits the cafe, paying for the meal as he exits, he gives another sigh and just sits down for a bit",
+  "id" : 883731853592670210,
+  "created_at" : "2017-07-08 16:57:47 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883716368469807104",
+  "text" : "A sigh escapes his muzzle as his breakfast arrives, followed by looking toward the window. The sun seems to shine on him a bit.",
+  "id" : 883716368469807104,
+  "created_at" : "2017-07-08 15:56:15 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883713638300823552",
+  "text" : "The waitress passes by his booth and he orders some Brioche Prench Toast with hash browns and cranberry juice.",
+  "id" : 883713638300823552,
+  "created_at" : "2017-07-08 15:45:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Wintertide \u2744\uFE0F",
+      "screen_name" : "mlp_WinterT",
+      "indices" : [ 93, 105 ],
+      "id_str" : "788122955762896897",
+      "id" : 788122955762896897
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883712744545026049",
+  "text" : "He managed to catch sight of one of the tabloids about the supposed marriage between him and @mlp_WinterT and wisely keeps quiet about it.",
+  "id" : 883712744545026049,
+  "created_at" : "2017-07-08 15:41:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883712304554151937",
+  "text" : "Well, his personal version of it, the original is still in Canterlot under lock and key, per artifact protocols.",
+  "id" : 883712304554151937,
+  "created_at" : "2017-07-08 15:40:06 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883712111146303488",
+  "text" : "There's something strange about him today. Aside from the uncharacteristic happiness, he seems to be carrying the spellbook with him.",
+  "id" : 883712111146303488,
+  "created_at" : "2017-07-08 15:39:20 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883711863200075776",
+  "text" : "He stops by a Ponyville breakfast hut to start his day, looking worn down from a long week at this office.",
+  "id" : 883711863200075776,
+  "created_at" : "2017-07-08 15:38:21 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883142989215825920",
+  "text" : "\"This friend of yours better not steal my super important black box.\"",
+  "id" : 883142989215825920,
+  "created_at" : "2017-07-07 01:57:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883142542350581761",
+  "text" : "\"Uhm, yeah, yeah, I certainly do.\", His cheeks get a bit pink.",
+  "id" : 883142542350581761,
+  "created_at" : "2017-07-07 01:56:04 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883142250993246208",
+  "text" : "\"I have secrets. Lots and lots of secrets. ... and an unsent love let-\", he pauses to clear his throat.",
+  "id" : 883142250993246208,
+  "created_at" : "2017-07-07 01:54:55 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883141953453424641",
+  "text" : "\"More than you can ever imagine. ... but only in Ponyville. I'm not responsible for anywhere else.\"",
+  "id" : 883141953453424641,
+  "created_at" : "2017-07-07 01:53:44 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883141535713423362",
+  "text" : "\"... so the originals make it, somehow.\"",
+  "id" : 883141535713423362,
+  "created_at" : "2017-07-07 01:52:04 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yaretzi",
+      "screen_name" : "mlp_Yaretzi",
+      "indices" : [ 62, 74 ],
+      "id_str" : "3874517475",
+      "id" : 3874517475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883141453345677312",
+  "text" : "\"On the upside, the common documents automatically get ran by @mlp_Yaretzi for safe keeping, provided they duplicate them.\"",
+  "id" : 883141453345677312,
+  "created_at" : "2017-07-07 01:51:45 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883141121114820608",
+  "text" : "\"... and that's just for the less \/important\/ stuff. Nothing less than carrier raven with magically guarded envelopes for real security.\"",
+  "id" : 883141121114820608,
+  "created_at" : "2017-07-07 01:50:25 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883140859042156545",
+  "text" : "\"I mean, the itching powder alone in the envelopes for the decoy deliveries in addition to multiple ciphered real documents.\"",
+  "id" : 883140859042156545,
+  "created_at" : "2017-07-07 01:49:23 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883140526433869824",
+  "text" : "He stops transmitting for a moment to vent, making sure he's not talking in the radio.\n\n\"If he only knew the steps I take to secure records.",
+  "id" : 883140526433869824,
+  "created_at" : "2017-07-07 01:48:04 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883140109192876033",
+  "text" : "He blinks. \"I don't stamp my stuff.\"",
+  "id" : 883140109192876033,
+  "created_at" : "2017-07-07 01:46:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883139261578588160",
+  "text" : "He gets on the headset again. \"How do you figure it's mine?\"",
+  "id" : 883139261578588160,
+  "created_at" : "2017-07-07 01:43:02 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883138401268101120",
+  "text" : "\"Did he get put in Solitary or something?\"",
+  "id" : 883138401268101120,
+  "created_at" : "2017-07-07 01:39:37 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883138313154162689",
+  "text" : "\"What ever happened to that one Crosswind fellow who tried to shut down the armory, a few years ago?\"",
+  "id" : 883138313154162689,
+  "created_at" : "2017-07-07 01:39:16 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883137842679087105",
+  "text" : "\"... wonder how the foals are doing, actually.\"",
+  "id" : 883137842679087105,
+  "created_at" : "2017-07-07 01:37:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883137517402370049",
+  "text" : "\"Oh, right, he retired a month after I did. Don't blame him.\"",
+  "id" : 883137517402370049,
+  "created_at" : "2017-07-07 01:36:06 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883137020155047937",
+  "text" : "He mulls over the reply.\n\n\"Where's General Hardflank when I need them.\"",
+  "id" : 883137020155047937,
+  "created_at" : "2017-07-07 01:34:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883135977610457090",
+  "text" : "For some reason, he shakes his head and opens yet another bottle of cider, far away from his paperwork and the Canterlot tomes.\"",
+  "id" : 883135977610457090,
+  "created_at" : "2017-07-07 01:29:59 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883135722592628737",
+  "text" : "\"Let me rephrase. What is the 6-4's current assignment? There's jurisdiction laws in place.\"",
+  "id" : 883135722592628737,
+  "created_at" : "2017-07-07 01:28:58 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883134898290270208",
+  "text" : "\"Acknowledged. Keep in touch with Canterlot Dispatch. This is their turf. ... actually is the 6-4 assigned anywhere at all?\"",
+  "id" : 883134898290270208,
+  "created_at" : "2017-07-07 01:25:42 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883134184038027266",
+  "text" : "\"Redwing here. Sitrep.\"",
+  "id" : 883134184038027266,
+  "created_at" : "2017-07-07 01:22:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883134056816414722",
+  "text" : "A response comes through, as the stallion is surprised to hear from them, as he told no one where he was going.",
+  "id" : 883134056816414722,
+  "created_at" : "2017-07-07 01:22:21 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883133788980731906",
+  "text" : "\"The Starswirl part of the problem is done and dusted, after all. ... but then why is there something in my cipher?\"",
+  "id" : 883133788980731906,
+  "created_at" : "2017-07-07 01:21:17 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883133353603592193",
+  "text" : "\"All I've got left at this point is figuring out the unknown spells.\"",
+  "id" : 883133353603592193,
+  "created_at" : "2017-07-07 01:19:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883132921896480768",
+  "text" : "For some reason, he just sighs while in the Canterlot offices.\n\n\"Now what?\"",
+  "id" : 883132921896480768,
+  "created_at" : "2017-07-07 01:17:51 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883068955371474944",
+  "text" : "\"That's got to be a coincidence.\"",
+  "id" : 883068955371474944,
+  "created_at" : "2017-07-06 21:03:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883068671689732097",
+  "text" : "A chilling thought occurs and he scrambles to look out the office window, just catching a tiny bit of a cloak before it disappears.",
+  "id" : 883068671689732097,
+  "created_at" : "2017-07-06 21:02:32 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883068317992439808",
+  "text" : "\"That's the same cipher I use. ... what in the?\"",
+  "id" : 883068317992439808,
+  "created_at" : "2017-07-06 21:01:08 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883068110265339904",
+  "text" : "For a brief moment, he pauses in his research, spotting something that sticks out in the spellbook.",
+  "id" : 883068110265339904,
+  "created_at" : "2017-07-06 21:00:18 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "883067387242840065",
+  "text" : "As he continues some research in Canterlot, a black box with about \/ten\/ locks and various protections applied, arrives in his office.",
+  "id" : 883067387242840065,
+  "created_at" : "2017-07-06 20:57:26 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bird Cat",
+      "screen_name" : "MLP_Birdcat",
+      "indices" : [ 38, 50 ],
+      "id_str" : "166460962",
+      "id" : 166460962
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "882349687663144960",
+  "text" : "He hasn't sent anything in regards to @mlp_Birdcat's situation, but this is due to being out of the office. A card will probably follow.",
+  "id" : 882349687663144960,
+  "created_at" : "2017-07-04 21:25:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "882348688701616128",
+  "text" : "He rests at an unknown Canterlot location, drinking from a large container of high quality cider.",
+  "id" : 882348688701616128,
+  "created_at" : "2017-07-04 21:21:35 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881656220058345472",
+  "text" : "\"Is she available. That's the real question.\", he comments as he sits on a bench, briefly cracking open the spellbook.",
+  "id" : 881656220058345472,
+  "created_at" : "2017-07-02 23:29:57 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twilight Sparkle",
+      "screen_name" : "mlp_Twilight",
+      "indices" : [ 29, 42 ],
+      "id_str" : "258925492",
+      "id" : 258925492
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881655898430689281",
+  "text" : "Not soon after, he nears Pr. @mlp_Twilight's throne room door. Well, the one she's currently occupying, anyway.",
+  "id" : 881655898430689281,
+  "created_at" : "2017-07-02 23:28:41 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881655587666366464",
+  "text" : "It's like he wants to always have a personal touch in everything he affects, for some vain reason.",
+  "id" : 881655587666366464,
+  "created_at" : "2017-07-02 23:27:27 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881655456640512000",
+  "text" : "It has a bookmark tassel made from his own feathers, dipped in some sort of alchemical liquid, that's astral attuned.",
+  "id" : 881655456640512000,
+  "created_at" : "2017-07-02 23:26:55 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881654986085732352",
+  "text" : "Unlike most spellbooks, this one seems to have been specifically crafted with steel and ruby corner accents, along with several feathers.",
+  "id" : 881654986085732352,
+  "created_at" : "2017-07-02 23:25:03 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881652633508958208",
+  "text" : "The stallion finally exits a specific library room in Canterlot, holding a special looking spellbook.",
+  "id" : 881652633508958208,
+  "created_at" : "2017-07-02 23:15:42 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881588235016830976",
+  "text" : "\"I've been working on this project non-stop since Friday, after all.\"",
+  "id" : 881588235016830976,
+  "created_at" : "2017-07-02 18:59:49 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881588062396051458",
+  "text" : "\"Hmm, about ready to go. Just need to ... actually eat something.\"",
+  "id" : 881588062396051458,
+  "created_at" : "2017-07-02 18:59:07 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881291176720175104",
+  "text" : "The feeling is shaken off, and he goes back to the translation effort, almost 80% done.",
+  "id" : 881291176720175104,
+  "created_at" : "2017-07-01 23:19:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881289918173073408",
+  "text" : "\"I should consider getting a makeover.\"",
+  "id" : 881289918173073408,
+  "created_at" : "2017-07-01 23:14:24 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881289838078685185",
+  "text" : "For some reason, he suddenly looks a bit sad.",
+  "id" : 881289838078685185,
+  "created_at" : "2017-07-01 23:14:05 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881283101053333504",
+  "text" : "\"At this rate, it'll be done translating tomorrow, though. Only a few notes here and there, but still useful information.\"",
+  "id" : 881283101053333504,
+  "created_at" : "2017-07-01 22:47:19 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881282433907396609",
+  "text" : "\"Level 5 Arcane Locks?\", he blinks for a moment. \"Well, I suppose that would be in line with the subject matter.",
+  "id" : 881282433907396609,
+  "created_at" : "2017-07-01 22:44:40 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twilight Sparkle",
+      "screen_name" : "mlp_Twilight",
+      "indices" : [ 30, 43 ],
+      "id_str" : "258925492",
+      "id" : 258925492
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881280392233353218",
+  "text" : "He takes a moment to reply to @mlp_Twilight. \"Appreciated. Attached is one of the unknown spells so far. I think I found new stuff.\"",
+  "id" : 881280392233353218,
+  "created_at" : "2017-07-01 22:36:33 +0000",
+  "user" : {
+    "name" : "Quartermaster Starhammer",
+    "screen_name" : "mlp_starhammer",
+    "protected" : false,
+    "id_str" : "998563693",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931031457631420417\/w_K04swk_normal.jpg",
+    "id" : 998563693,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881279502223015936",
+  "text" : "The radio flips on as he continues translating the spellbook tome and rewriting it, comparing against current spellbooks.",
+  "id" : 881279502223015936,
+  "created_at" : "2017-07-01 22:33:01 +0000",
   "user" : {
     "name" : "Quartermaster Starhammer",
     "screen_name" : "mlp_starhammer",
