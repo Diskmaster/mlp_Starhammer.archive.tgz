@@ -12093,7 +12093,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "404530459",
       "id" : 404530459
     }, {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 54, 64 ],
       "id_str" : "374339547",
@@ -21386,6 +21386,14 @@ Grailbird.data.tweets_2016_04 =
       "id" : 715912046269706245,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ce9uNohUMAUl5gO.jpg",
       "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 510
+      }, {
         "h" : 1400,
         "resize" : "fit",
         "w" : 1050
@@ -21397,14 +21405,6 @@ Grailbird.data.tweets_2016_04 =
         "h" : 1400,
         "resize" : "fit",
         "w" : 1050
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 510
       } ],
       "display_url" : "pic.twitter.com\/LsyHMmgi3b"
     } ],

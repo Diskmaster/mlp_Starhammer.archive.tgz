@@ -17260,7 +17260,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 19, 29 ],
       "id_str" : "374339547",
@@ -17640,7 +17640,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 32, 42 ],
       "id_str" : "374339547",
@@ -17968,7 +17968,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 12, 22 ],
       "id_str" : "374339547",

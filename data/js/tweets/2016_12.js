@@ -1089,7 +1089,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 1, 13 ],
       "id_str" : "788122955762896897",
@@ -1315,7 +1315,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 66, 78 ],
       "id_str" : "788122955762896897",
@@ -1937,7 +1937,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 26, 38 ],
       "id_str" : "788122955762896897",
@@ -1987,7 +1987,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 88, 100 ],
       "id_str" : "788122955762896897",
@@ -2015,7 +2015,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 15, 27 ],
       "id_str" : "788122955762896897",
@@ -3267,7 +3267,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide (Best Princess)",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 22, 34 ],
       "id_str" : "788122955762896897",
@@ -3973,7 +3973,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 29, 41 ],
       "id_str" : "788122955762896897",
@@ -10846,7 +10846,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 38, 50 ],
       "id_str" : "788122955762896897",
@@ -11998,7 +11998,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "mlp_SMocha",
       "protected" : false,
       "id_str" : "2302152912",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925699906697773057\/yzekLOE-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939171512149352449\/8k2Kwlk4_normal.jpg",
       "id" : 2302152912,
       "verified" : false
     }
@@ -12055,25 +12055,25 @@ Grailbird.data.tweets_2016_12 =
       "id" : 805314357307568129,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cy0NJCfW8AE2uPD.jpg",
       "sizes" : [ {
-        "h" : 1451,
+        "h" : 1200,
         "resize" : "fit",
-        "w" : 1023
+        "w" : 846
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 479
+      }, {
         "h" : 1451,
         "resize" : "fit",
         "w" : 1023
       }, {
-        "h" : 1200,
+        "h" : 1451,
         "resize" : "fit",
-        "w" : 846
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 479
+        "w" : 1023
       } ],
       "display_url" : "pic.twitter.com\/K3vsLTDU9Z"
     } ],

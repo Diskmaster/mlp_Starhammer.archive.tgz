@@ -355,7 +355,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 28, 40 ],
       "id_str" : "788122955762896897",
@@ -3248,7 +3248,7 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "166460962",
       "id" : 166460962
     }, {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 13, 25 ],
       "id_str" : "788122955762896897",
@@ -4401,7 +4401,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 121, 133 ],
       "id_str" : "788122955762896897",
@@ -7234,7 +7234,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 61, 73 ],
       "id_str" : "788122955762896897",
@@ -7262,7 +7262,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 124, 136 ],
       "id_str" : "788122955762896897",
@@ -9048,14 +9048,6 @@ Grailbird.data.tweets_2017_02 =
       "id" : 828435362997342209,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C38xksrUEAEjNma.jpg",
       "sizes" : [ {
-        "h" : 510,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 900,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -9067,6 +9059,14 @@ Grailbird.data.tweets_2017_02 =
         "h" : 1800,
         "resize" : "fit",
         "w" : 2400
+      }, {
+        "h" : 510,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 900,
+        "resize" : "fit",
+        "w" : 1200
       } ],
       "display_url" : "pic.twitter.com\/8ClkKo5EGV"
     } ],
@@ -9167,7 +9167,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 0, 12 ],
       "id_str" : "788122955762896897",
@@ -9198,7 +9198,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 0, 10 ],
       "id_str" : "374339547",
@@ -9478,7 +9478,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 0, 10 ],
       "id_str" : "374339547",
@@ -11527,7 +11527,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 22, 32 ],
       "id_str" : "374339547",
@@ -11709,7 +11709,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 44, 54 ],
       "id_str" : "374339547",
@@ -11985,7 +11985,7 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "404530459",
       "id" : 404530459
     }, {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 57, 67 ],
       "id_str" : "374339547",

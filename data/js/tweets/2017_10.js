@@ -4851,12 +4851,6 @@ Grailbird.data.tweets_2017_10 =
       "indices" : [ 0, 15 ],
       "id_str" : "883780221106757632",
       "id" : 883780221106757632
-    }, {
-      "name" : "(( INACTIVE ))",
-      "screen_name" : "mlp_EvilIncar",
-      "indices" : [ 16, 30 ],
-      "id_str" : "905501228162924544",
-      "id" : 905501228162924544
     } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/mlp_starhammer\/status\/924441658204327936\/photo\/1",
@@ -4867,21 +4861,21 @@ Grailbird.data.tweets_2017_10 =
       "id" : 924441641548730368,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DNRGxmwXUAAFOKr.jpg",
       "sizes" : [ {
-        "h" : 305,
-        "resize" : "fit",
-        "w" : 375
-      }, {
-        "h" : 305,
-        "resize" : "fit",
-        "w" : 375
-      }, {
-        "h" : 305,
-        "resize" : "fit",
-        "w" : 375
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 305,
+        "resize" : "fit",
+        "w" : 375
+      }, {
+        "h" : 305,
+        "resize" : "fit",
+        "w" : 375
+      }, {
+        "h" : 305,
+        "resize" : "fit",
+        "w" : 375
       }, {
         "h" : 305,
         "resize" : "fit",
@@ -4914,13 +4908,7 @@ Grailbird.data.tweets_2017_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "(( INACTIVE ))",
-      "screen_name" : "mlp_EvilIncar",
-      "indices" : [ 0, 14 ],
-      "id_str" : "905501228162924544",
-      "id" : 905501228162924544
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4933,7 +4921,7 @@ Grailbird.data.tweets_2017_10 =
   "id" : 924440102360813568,
   "in_reply_to_status_id" : 924439781483757569,
   "created_at" : "2017-10-29 00:57:50 +0000",
-  "in_reply_to_screen_name" : "mlp_EvilIncar",
+  "in_reply_to_screen_name" : "mlp_DBlades",
   "in_reply_to_user_id_str" : "905501228162924544",
   "user" : {
     "name" : "Quartermaster Starhammer",
@@ -7293,7 +7281,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bumboat Scuttle",
+      "name" : "Cap'n Scuttle",
       "screen_name" : "mlp_bumboat",
       "indices" : [ 0, 12 ],
       "id_str" : "797456096",
@@ -7359,7 +7347,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bumboat Scuttle",
+      "name" : "Cap'n Scuttle",
       "screen_name" : "mlp_bumboat",
       "indices" : [ 0, 12 ],
       "id_str" : "797456096",
@@ -7772,7 +7760,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "258932776",
       "id" : 258932776
     }, {
-      "name" : "Mystical Melody (Savior of the Shrines)",
+      "name" : "Princess Mystical Melody (Ruler of Maradice Isle)",
       "screen_name" : "mlp_MystMelody",
       "indices" : [ 16, 31 ],
       "id_str" : "883780221106757632",
@@ -10870,7 +10858,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide (Best Princess)",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 58, 70 ],
       "id_str" : "788122955762896897",
@@ -11404,7 +11392,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide (Best Princess)",
+      "name" : "Wintertide \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 49, 61 ],
       "id_str" : "788122955762896897",
@@ -11432,7 +11420,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 9, 21 ],
       "id_str" : "788122955762896897",
@@ -16478,7 +16466,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide (Best Princess)",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 75, 87 ],
       "id_str" : "788122955762896897",
@@ -18004,7 +17992,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 90, 100 ],
       "id_str" : "374339547",
@@ -18110,7 +18098,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "262811871",
       "id" : 262811871
     }, {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 14, 26 ],
       "id_str" : "788122955762896897",
@@ -18187,7 +18175,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide (Best Princess)",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 83, 95 ],
       "id_str" : "788122955762896897",
@@ -18390,6 +18378,18 @@ Grailbird.data.tweets_2017_10 =
       "id" : 914610364490301441,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLFZR9tVwAEMCRl.jpg",
       "sizes" : [ {
+        "h" : 2043,
+        "resize" : "fit",
+        "w" : 2997
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 464,
+        "resize" : "fit",
+        "w" : 680
+      }, {
         "h" : 1396,
         "resize" : "fit",
         "w" : 2048
@@ -18397,18 +18397,6 @@ Grailbird.data.tweets_2017_10 =
         "h" : 818,
         "resize" : "fit",
         "w" : 1200
-      }, {
-        "h" : 464,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 2043,
-        "resize" : "fit",
-        "w" : 2997
       } ],
       "display_url" : "pic.twitter.com\/Zs5GkEptjX"
     } ],
@@ -18829,7 +18817,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide (Best Princess)",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 28, 40 ],
       "id_str" : "788122955762896897",
@@ -19143,7 +19131,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 51, 63 ],
       "id_str" : "788122955762896897",

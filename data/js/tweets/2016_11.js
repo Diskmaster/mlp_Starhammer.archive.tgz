@@ -361,7 +361,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide (Best Princess)",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 80, 92 ],
       "id_str" : "788122955762896897",
@@ -3273,7 +3273,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 35, 47 ],
       "id_str" : "788122955762896897",
@@ -4518,7 +4518,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 73, 85 ],
       "id_str" : "788122955762896897",
@@ -4624,7 +4624,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 14, 26 ],
       "id_str" : "788122955762896897",
@@ -4652,7 +4652,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 31, 43 ],
       "id_str" : "788122955762896897",
@@ -4792,7 +4792,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 21, 33 ],
       "id_str" : "788122955762896897",
@@ -11258,7 +11258,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 16, 28 ],
       "id_str" : "788122955762896897",
@@ -11336,7 +11336,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 21, 33 ],
       "id_str" : "788122955762896897",
@@ -14237,25 +14237,25 @@ Grailbird.data.tweets_2016_11 =
       "id" : 795458043706126336,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CwoI4FDUsAA4A9p.jpg",
       "sizes" : [ {
-        "h" : 719,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
         "h" : 1581,
         "resize" : "fit",
         "w" : 2640
-      }, {
-        "h" : 407,
-        "resize" : "fit",
-        "w" : 680
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 719,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
         "h" : 1226,
         "resize" : "fit",
         "w" : 2048
+      }, {
+        "h" : 407,
+        "resize" : "fit",
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/L2PIfXfokE"
     } ],
@@ -15937,7 +15937,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 38, 46 ],
       "id_str" : "424615839",

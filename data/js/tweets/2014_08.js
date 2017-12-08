@@ -1634,17 +1634,17 @@ Grailbird.data.tweets_2014_08 =
         "resize" : "fit",
         "w" : 640
       }, {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 640
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 480,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 480,
-        "resize" : "fit",
-        "w" : 640
       }, {
         "h" : 480,
         "resize" : "fit",
@@ -8227,7 +8227,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 21, 31 ],
       "id_str" : "374339547",
@@ -8277,7 +8277,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 16, 26 ],
       "id_str" : "374339547",
@@ -11019,7 +11019,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/play.google.com\/store\/apps\/details?id=org.mariotaku.twidere\" rel=\"nofollow\"\u003ETwidere for Android #2\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 37, 47 ],
       "id_str" : "374339547",
@@ -12931,7 +12931,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 40, 50 ],
       "id_str" : "374339547",

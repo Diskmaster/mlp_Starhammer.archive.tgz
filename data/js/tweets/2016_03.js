@@ -12418,25 +12418,25 @@ Grailbird.data.tweets_2016_03 =
       "id" : 710575191823294464,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cdx4X0bVIAA33B_.jpg",
       "sizes" : [ {
-        "h" : 2149,
-        "resize" : "fit",
-        "w" : 2668
-      }, {
-        "h" : 967,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 548,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 2149,
+        "resize" : "fit",
+        "w" : 2668
       }, {
         "h" : 1650,
         "resize" : "fit",
         "w" : 2048
       }, {
-        "h" : 548,
+        "h" : 967,
         "resize" : "fit",
-        "w" : 680
+        "w" : 1200
       } ],
       "display_url" : "pic.twitter.com\/7FkOO9vc9a"
     } ],
@@ -20186,7 +20186,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amethyst Star",
+      "name" : "Police Amethyst Star \uD83D\uDC60",
       "screen_name" : "amethysts_mlp",
       "indices" : [ 51, 65 ],
       "id_str" : "3302504419",
@@ -20302,7 +20302,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amethyst Star",
+      "name" : "Police Amethyst Star \uD83D\uDC60",
       "screen_name" : "amethysts_mlp",
       "indices" : [ 12, 26 ],
       "id_str" : "3302504419",

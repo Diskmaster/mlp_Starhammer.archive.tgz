@@ -581,7 +581,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raritybot",
+      "name" : "Raritybot \u2699\uFE0F",
       "screen_name" : "MLP_Raritybot",
       "indices" : [ 23, 37 ],
       "id_str" : "515934266",
@@ -5015,14 +5015,6 @@ Grailbird.data.tweets_2015_07 =
       "id" : 624145902043725824,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CKlpZBtVAAAEXnF.png",
       "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1748,
-        "resize" : "fit",
-        "w" : 1481
-      }, {
         "h" : 1200,
         "resize" : "fit",
         "w" : 1017
@@ -5030,6 +5022,14 @@ Grailbird.data.tweets_2015_07 =
         "h" : 680,
         "resize" : "fit",
         "w" : 576
+      }, {
+        "h" : 1748,
+        "resize" : "fit",
+        "w" : 1481
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 1748,
         "resize" : "fit",
@@ -14722,7 +14722,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 27, 37 ],
       "id_str" : "374339547",

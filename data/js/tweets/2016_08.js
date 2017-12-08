@@ -411,7 +411,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 16, 26 ],
       "id_str" : "374339547",
@@ -3884,7 +3884,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 30, 39 ],
       "id_str" : "3199881329",
@@ -4628,7 +4628,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 14, 23 ],
       "id_str" : "3199881329",
@@ -4920,7 +4920,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 6, 15 ],
       "id_str" : "3199881329",

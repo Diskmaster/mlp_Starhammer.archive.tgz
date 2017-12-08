@@ -2633,7 +2633,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 89, 101 ],
       "id_str" : "788122955762896897",
@@ -2931,7 +2931,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 66, 78 ],
       "id_str" : "788122955762896897",
@@ -3390,9 +3390,9 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 894
       }, {
-        "h" : 680,
+        "h" : 894,
         "resize" : "fit",
-        "w" : 680
+        "w" : 894
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -3402,9 +3402,9 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 894
       }, {
-        "h" : 894,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 894
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/EEM0DNRjD8"
     } ],
@@ -18536,7 +18536,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 0, 12 ],
       "id_str" : "788122955762896897",
@@ -18595,7 +18595,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "264285652",
       "id" : 264285652
     }, {
-      "name" : "Abigail Starling @ EQLA14",
+      "name" : "Abigail Starling",
       "screen_name" : "LeekFish",
       "indices" : [ 99, 108 ],
       "id_str" : "174410968",
@@ -18634,7 +18634,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "264285652",
       "id" : 264285652
     }, {
-      "name" : "Abigail Starling @ EQLA14",
+      "name" : "Abigail Starling",
       "screen_name" : "LeekFish",
       "indices" : [ 85, 94 ],
       "id_str" : "174410968",
@@ -18667,7 +18667,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abigail Starling @ EQLA14",
+      "name" : "Abigail Starling",
       "screen_name" : "LeekFish",
       "indices" : [ 33, 42 ],
       "id_str" : "174410968",
@@ -18682,9 +18682,13 @@ Grailbird.data.tweets_2017_01 =
       "id" : 816344918100611072,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C1Q9YLmVEAAkR6l.jpg",
       "sizes" : [ {
-        "h" : 2495,
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1023,
         "resize" : "fit",
-        "w" : 2926
+        "w" : 1200
       }, {
         "h" : 580,
         "resize" : "fit",
@@ -18694,13 +18698,9 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 2048
       }, {
-        "h" : 1023,
+        "h" : 2495,
         "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "w" : 2926
       } ],
       "display_url" : "pic.twitter.com\/E9mgqVdDcM"
     } ],
@@ -18891,7 +18891,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "264285652",
       "id" : 264285652
     }, {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 49, 61 ],
       "id_str" : "788122955762896897",
@@ -19095,7 +19095,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abigail Starling @ EQLA14",
+      "name" : "Abigail Starling",
       "screen_name" : "LeekFish",
       "indices" : [ 97, 106 ],
       "id_str" : "174410968",
@@ -19145,7 +19145,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 67, 79 ],
       "id_str" : "788122955762896897",
@@ -19217,7 +19217,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 33, 45 ],
       "id_str" : "788122955762896897",
@@ -19333,7 +19333,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 51, 63 ],
       "id_str" : "788122955762896897",
@@ -19537,7 +19537,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 62, 74 ],
       "id_str" : "788122955762896897",

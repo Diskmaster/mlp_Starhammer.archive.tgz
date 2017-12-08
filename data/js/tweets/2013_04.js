@@ -854,21 +854,21 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 680
       }, {
-        "h" : 1080,
-        "resize" : "fit",
-        "w" : 1920
-      }, {
         "h" : 675,
         "resize" : "fit",
         "w" : 1200
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
       }, {
         "h" : 1080,
         "resize" : "fit",
         "w" : 1920
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       } ],
       "display_url" : "pic.twitter.com\/yIGng7E9o4"
     } ],
@@ -1060,21 +1060,21 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 680
       }, {
-        "h" : 1080,
-        "resize" : "fit",
-        "w" : 1920
-      }, {
         "h" : 675,
         "resize" : "fit",
         "w" : 1200
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
       }, {
         "h" : 1080,
         "resize" : "fit",
         "w" : 1920
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       } ],
       "display_url" : "pic.twitter.com\/uZVdFrYIIN"
     } ],
@@ -2515,7 +2515,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raritybot",
+      "name" : "Raritybot \u2699\uFE0F",
       "screen_name" : "MLP_Raritybot",
       "indices" : [ 12, 26 ],
       "id_str" : "515934266",
@@ -6656,7 +6656,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 22, 30 ],
       "id_str" : "424615839",
@@ -6882,7 +6882,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 26, 34 ],
       "id_str" : "424615839",
@@ -6954,7 +6954,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 44, 52 ],
       "id_str" : "424615839",
@@ -7043,7 +7043,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/janetter.net\/\" rel=\"nofollow\"\u003EJanetter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raritybot",
+      "name" : "Raritybot \u2699\uFE0F",
       "screen_name" : "MLP_Raritybot",
       "indices" : [ 0, 14 ],
       "id_str" : "515934266",
@@ -7098,7 +7098,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/janetter.net\/\" rel=\"nofollow\"\u003EJanetter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 72, 80 ],
       "id_str" : "424615839",
@@ -7170,7 +7170,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 29, 37 ],
       "id_str" : "424615839",
@@ -7198,7 +7198,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/janetter.net\/\" rel=\"nofollow\"\u003EJanetter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 69, 77 ],
       "id_str" : "424615839",
@@ -10198,7 +10198,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 0, 8 ],
       "id_str" : "424615839",
@@ -10301,7 +10301,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M2)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 0, 8 ],
       "id_str" : "424615839",
@@ -10334,7 +10334,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M2)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 0, 8 ],
       "id_str" : "424615839",
@@ -10400,7 +10400,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M2)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 0, 8 ],
       "id_str" : "424615839",
@@ -10433,7 +10433,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M2)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 0, 8 ],
       "id_str" : "424615839",
@@ -10488,7 +10488,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M2)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 0, 8 ],
       "id_str" : "424615839",
@@ -24482,7 +24482,7 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "404530459",
       "id" : 404530459
     }, {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 33, 41 ],
       "id_str" : "424615839",
@@ -24577,7 +24577,7 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "1110814130",
       "id" : 1110814130
     }, {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 11, 19 ],
       "id_str" : "424615839",
@@ -24610,7 +24610,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 106, 114 ],
       "id_str" : "424615839",

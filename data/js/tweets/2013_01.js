@@ -2524,7 +2524,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/janetter.net\/\" rel=\"nofollow\"\u003EJanetter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 16, 24 ],
       "id_str" : "424615839",
@@ -3787,7 +3787,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "404530459",
       "id" : 404530459
     }, {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 28, 36 ],
       "id_str" : "424615839",
@@ -5827,7 +5827,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M2)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 0, 8 ],
       "id_str" : "424615839",
@@ -10094,7 +10094,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "3004011361",
       "id" : 3004011361
     }, {
-      "name" : "CC \u2023\u2023\u2023 EQLA (booth 7)",
+      "name" : "Crayon\uD83C\uDF08Chewer",
       "screen_name" : "CrayonChewer",
       "indices" : [ 80, 93 ],
       "id_str" : "180643385",

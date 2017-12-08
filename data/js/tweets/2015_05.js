@@ -1799,7 +1799,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 6, 14 ],
       "id_str" : "424615839",
@@ -12123,13 +12123,9 @@ Grailbird.data.tweets_2015_05 =
       "id" : 600606553943646208,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CFXIeomVIAA4mh4.png",
       "sizes" : [ {
-        "h" : 900,
+        "h" : 1200,
         "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "w" : 1600
       }, {
         "h" : 510,
         "resize" : "fit",
@@ -12139,9 +12135,13 @@ Grailbird.data.tweets_2015_05 =
         "resize" : "fit",
         "w" : 1600
       }, {
-        "h" : 1200,
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 900,
         "resize" : "fit",
-        "w" : 1600
+        "w" : 1200
       } ],
       "display_url" : "pic.twitter.com\/2KFylls9YA"
     } ],

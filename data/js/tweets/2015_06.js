@@ -11325,7 +11325,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "262811871",
       "id" : 262811871
     }, {
-      "name" : "Rocky",
+      "name" : "Rocky G. Blues",
       "screen_name" : "mlp_Rocky",
       "indices" : [ 14, 24 ],
       "id_str" : "374339547",

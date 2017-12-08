@@ -857,21 +857,21 @@ Grailbird.data.tweets_2017_04 =
       "id" : 856228895678320641,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-HvpOVU0AEhDEw.jpg",
       "sizes" : [ {
-        "h" : 680,
+        "h" : 1748,
         "resize" : "fit",
-        "w" : 576
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 1017
+        "w" : 1481
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 1748,
+        "h" : 1200,
         "resize" : "fit",
-        "w" : 1481
+        "w" : 1017
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 576
       }, {
         "h" : 1748,
         "resize" : "fit",
@@ -1997,7 +1997,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 26, 38 ],
       "id_str" : "788122955762896897",
@@ -2779,7 +2779,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 58, 70 ],
       "id_str" : "788122955762896897",
@@ -4553,7 +4553,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wintertide \u2744\uFE0F",
+      "name" : "Wintertide (Snow Queen) \u2744\uFE0F",
       "screen_name" : "mlp_WinterT",
       "indices" : [ 0, 12 ],
       "id_str" : "788122955762896897",
@@ -4639,25 +4639,25 @@ Grailbird.data.tweets_2017_04 =
       "id" : 848187473893052416,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C8VeA3xU0AA-vuY.jpg",
       "sizes" : [ {
-        "h" : 719,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
         "h" : 1581,
         "resize" : "fit",
         "w" : 2640
-      }, {
-        "h" : 407,
-        "resize" : "fit",
-        "w" : 680
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 719,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
         "h" : 1226,
         "resize" : "fit",
         "w" : 2048
+      }, {
+        "h" : 407,
+        "resize" : "fit",
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/MCRL1rCaF5"
     } ],

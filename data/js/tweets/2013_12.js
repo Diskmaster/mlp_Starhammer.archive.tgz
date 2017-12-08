@@ -902,7 +902,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 76, 92 ],
       "id_str" : "2183121056",
@@ -930,7 +930,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 99, 115 ],
       "id_str" : "2183121056",
@@ -958,7 +958,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 78, 94 ],
       "id_str" : "2183121056",
@@ -986,7 +986,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 122, 138 ],
       "id_str" : "2183121056",
@@ -1014,7 +1014,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 36, 52 ],
       "id_str" : "2183121056",
@@ -1042,7 +1042,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 92, 108 ],
       "id_str" : "2183121056",
@@ -1070,7 +1070,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 115, 131 ],
       "id_str" : "2183121056",
@@ -1132,7 +1132,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "262811871",
       "id" : 262811871
     }, {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 117, 133 ],
       "id_str" : "2183121056",
@@ -1160,7 +1160,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 14, 30 ],
       "id_str" : "2183121056",
@@ -1188,7 +1188,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 12, 28 ],
       "id_str" : "2183121056",
@@ -1216,7 +1216,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 95, 111 ],
       "id_str" : "2183121056",
@@ -1288,7 +1288,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 90, 106 ],
       "id_str" : "2183121056",
@@ -1316,7 +1316,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 121, 137 ],
       "id_str" : "2183121056",
@@ -1410,7 +1410,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 76, 92 ],
       "id_str" : "2183121056",
@@ -1526,7 +1526,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 37, 53 ],
       "id_str" : "2183121056",
@@ -1554,7 +1554,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 65, 81 ],
       "id_str" : "2183121056",
@@ -1582,7 +1582,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 123, 139 ],
       "id_str" : "2183121056",
@@ -1610,7 +1610,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 50, 66 ],
       "id_str" : "2183121056",
@@ -1638,7 +1638,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 76, 92 ],
       "id_str" : "2183121056",
@@ -1666,7 +1666,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 74, 90 ],
       "id_str" : "2183121056",
@@ -1694,7 +1694,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 35, 51 ],
       "id_str" : "2183121056",
@@ -1744,7 +1744,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 12, 28 ],
       "id_str" : "2183121056",
@@ -1794,7 +1794,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dearest President of The Republic",
+      "name" : "\uD83C\uDF7BParty Thrill, The Stallion Who Loves Christmas\uD83C\uDF84",
       "screen_name" : "mlp_PartyThrill",
       "indices" : [ 12, 28 ],
       "id_str" : "2183121056",
@@ -3347,7 +3347,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 16, 24 ],
       "id_str" : "424615839",
@@ -3414,7 +3414,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 34, 42 ],
       "id_str" : "424615839",
@@ -3442,7 +3442,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 51, 59 ],
       "id_str" : "424615839",
@@ -3476,7 +3476,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "754342472",
       "id" : 754342472
     }, {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 72, 80 ],
       "id_str" : "424615839",
@@ -3504,7 +3504,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 44, 52 ],
       "id_str" : "424615839",
@@ -12699,7 +12699,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Inactive",
+      "name" : ".",
       "screen_name" : "mlp_alicorns",
       "indices" : [ 0, 13 ],
       "id_str" : "1526514271",

@@ -11688,14 +11688,6 @@ Grailbird.data.tweets_2013_02 =
       "id" : 305442569721114624,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BD0mZhuCcAAldUo.jpg",
       "sizes" : [ {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 720
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -11707,6 +11699,14 @@ Grailbird.data.tweets_2013_02 =
         "h" : 680,
         "resize" : "fit",
         "w" : 510
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 720
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 720
       } ],
       "display_url" : "pic.twitter.com\/pJEqp3KrRl"
     } ],
@@ -11729,14 +11729,6 @@ Grailbird.data.tweets_2013_02 =
         "id" : 305442569721114624,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BD0mZhuCcAAldUo.jpg",
         "sizes" : [ {
-          "h" : 960,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 960,
-          "resize" : "fit",
-          "w" : 720
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -11748,6 +11740,14 @@ Grailbird.data.tweets_2013_02 =
           "h" : 680,
           "resize" : "fit",
           "w" : 510
+        }, {
+          "h" : 960,
+          "resize" : "fit",
+          "w" : 720
+        }, {
+          "h" : 960,
+          "resize" : "fit",
+          "w" : 720
         } ],
         "display_url" : "pic.twitter.com\/pJEqp3KrRl"
       } ],
@@ -26681,7 +26681,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/janetter.net\/\" rel=\"nofollow\"\u003EJanetter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian M. Nevla",
+      "name" : "Ian M. Nevla \u2744\uFE0F",
       "screen_name" : "mlp_Ian",
       "indices" : [ 9, 17 ],
       "id_str" : "424615839",

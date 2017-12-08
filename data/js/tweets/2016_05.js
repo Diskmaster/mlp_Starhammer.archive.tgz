@@ -1632,7 +1632,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 13, 22 ],
       "id_str" : "3199881329",
@@ -1687,7 +1687,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 38, 47 ],
       "id_str" : "3199881329",
@@ -1931,7 +1931,7 @@ Grailbird.data.tweets_2016_05 =
       "id_str" : "1577786485",
       "id" : 1577786485
     }, {
-      "name" : "Dat Turkey Pony @EQLA",
+      "name" : "Dat Christmahanukkwanzaa Pony",
       "screen_name" : "DatTaxPony",
       "indices" : [ 26, 37 ],
       "id_str" : "2314930304",
@@ -2609,7 +2609,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 13, 22 ],
       "id_str" : "3199881329",
@@ -4401,25 +4401,25 @@ Grailbird.data.tweets_2016_05 =
       "id" : 736271946191495170,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CjfDbyLUYAIo48u.jpg",
       "sizes" : [ {
-        "h" : 1200,
+        "h" : 1944,
         "resize" : "fit",
-        "w" : 900
+        "w" : 1458
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 1944,
-        "resize" : "fit",
-        "w" : 1458
-      }, {
-        "h" : 1944,
-        "resize" : "fit",
-        "w" : 1458
-      }, {
         "h" : 680,
         "resize" : "fit",
         "w" : 510
+      }, {
+        "h" : 1944,
+        "resize" : "fit",
+        "w" : 1458
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 900
       } ],
       "display_url" : "pic.twitter.com\/hPO1x9nzAe"
     } ],
@@ -4459,25 +4459,25 @@ Grailbird.data.tweets_2016_05 =
       "id" : 736271110409314304,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CjfCrIpUYAAetbS.jpg",
       "sizes" : [ {
-        "h" : 1200,
+        "h" : 1944,
         "resize" : "fit",
-        "w" : 900
+        "w" : 1458
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 1944,
-        "resize" : "fit",
-        "w" : 1458
-      }, {
-        "h" : 1944,
-        "resize" : "fit",
-        "w" : 1458
-      }, {
         "h" : 680,
         "resize" : "fit",
         "w" : 510
+      }, {
+        "h" : 1944,
+        "resize" : "fit",
+        "w" : 1458
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 900
       } ],
       "display_url" : "pic.twitter.com\/hj3lT5PkIK"
     } ],
@@ -8646,7 +8646,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 60, 69 ],
       "id_str" : "3199881329",
@@ -8702,7 +8702,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 11, 20 ],
       "id_str" : "3199881329",
@@ -9000,7 +9000,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 42, 51 ],
       "id_str" : "3199881329",
@@ -10421,7 +10421,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 10, 19 ],
       "id_str" : "3199881329",
@@ -10933,7 +10933,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lady Ardent Edge",
+      "name" : "Dame Ardent Edge",
       "screen_name" : "mlp_Edge",
       "indices" : [ 69, 78 ],
       "id_str" : "3199881329",
